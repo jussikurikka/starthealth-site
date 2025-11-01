@@ -96,7 +96,7 @@ const Process = () => {
                   
                   {step.hasButton && (
                     <Button 
-                      onClick={step.onClick}
+                      onClick={() => window.open('https://forms.office.com/e/fVA08DHHjG', '_blank')}
                       className="w-full mt-4 bg-gradient-to-r from-primary to-primary/80 hover:from-primary/90 hover:to-primary/70 shadow-md"
                     >
                       {t(step.ctaKey)}
