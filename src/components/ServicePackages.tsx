@@ -1,6 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
-import { Check, Info } from 'lucide-react';
+import { Check, Info, Calculator } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import {
   Dialog,
@@ -112,10 +112,6 @@ const ServicePackages = () => {
               <CardHeader>
                 <CardTitle className="text-2xl">{pkg.name}</CardTitle>
                 <CardDescription>{pkg.description}</CardDescription>
-                <div className="pt-4">
-                  <span className="text-4xl font-bold text-primary">{pkg.price}</span>
-                  <span className="text-muted-foreground">{pkg.period}</span>
-                </div>
               </CardHeader>
               
               <CardContent className="space-y-3">
@@ -159,8 +155,10 @@ const ServicePackages = () => {
                 <Button 
                   className={pkg.popular ? 'w-full bg-gradient-primary' : 'w-full'}
                   variant={pkg.popular ? 'default' : 'secondary'}
+                  onClick={() => window.open('https://forms.office.com/e/fVA08DHHjG', '_blank')}
                 >
-                  {t('services.cta.quote')}
+                  <Calculator className="mr-2 h-4 w-4" />
+                  Hintalaskuri
                 </Button>
               </CardFooter>
             </Card>
