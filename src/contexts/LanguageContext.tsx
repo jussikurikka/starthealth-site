@@ -18,7 +18,7 @@ const translations = {
     'nav.contact': 'Ota yhteyttä',
     
     // Hero
-    'hero.title': 'PARAS työterveyshuolto',
+    'hero.title': 'Työterveyshuolto',
     'hero.titleHighlight': 'Startupeille',
     'hero.subtitle': 'Minimoi kulut ja maksimoi kassavirta - Ei yllätyskustannuksia, aina kiinteä kuukausikulu',
     'hero.cta.contact': 'Ota yhteyttä',
