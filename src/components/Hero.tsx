@@ -55,6 +55,7 @@ const Hero = () => {
               size="lg" 
               variant="outline"
               className="border-2 border-primary text-primary hover:bg-primary hover:text-primary-foreground"
+              onClick={() => window.open('https://forms.office.com/e/fVA08DHHjG', '_blank')}
             >
               <FileText className="mr-2 h-5 w-5" />
               {t('hero.cta.quote')}
