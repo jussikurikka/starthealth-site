@@ -20,7 +20,7 @@ const translations = {
     // Hero
     'hero.title': 'Työterveyshuolto',
     'hero.titleHighlight': 'Startupeille',
-    'hero.subtitle': 'Minimoi kulut ja maksimoi kassavirta - Ei yllätyskustannuksia, aina kiinteä kuukausikulu',
+    'hero.subtitle': 'Kiinteä ja edullinen kuukausihinta!',
     'hero.cta.contact': 'Ota yhteyttä',
     'hero.cta.quote': 'Pyydä tarjous',
     
@@ -97,7 +97,7 @@ const translations = {
     // Hero
     'hero.title': 'BEST occupational health',
     'hero.titleHighlight': 'for Startups',
-    'hero.subtitle': 'Minimize costs and maximize cash flow - No surprise costs, always a fixed monthly fee',
+    'hero.subtitle': 'Fixed and affordable monthly price!',
     'hero.cta.contact': 'Contact Us',
     'hero.cta.quote': 'Request Quote',
     
