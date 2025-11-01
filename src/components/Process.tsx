@@ -1,7 +1,6 @@
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Phone, FileCheck, FileSignature, Users, Building2, LineChart } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import processDiagram from '@/assets/process-diagram.jpg';
 
 const Process = () => {
   const { t } = useLanguage();
@@ -63,15 +62,6 @@ const Process = () => {
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             {t('process.subtitle')}
           </p>
-        </div>
-
-        {/* Visual Process Diagram */}
-        <div className="mb-16 max-w-5xl mx-auto">
-          <img 
-            src={processDiagram} 
-            alt="Process diagram visualization" 
-            className="w-full rounded-2xl shadow-xl border-2 border-primary/20"
-          />
         </div>
 
         {/* Process Steps */}
