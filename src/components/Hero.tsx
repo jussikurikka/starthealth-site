@@ -1,5 +1,5 @@
 import { Button } from '@/components/ui/button';
-import { ArrowRight, FileText } from 'lucide-react';
+import { ArrowRight, FileText, Wallet, ShieldCheck, Users } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import heroBg from '@/assets/hero-bg.jpg';
 
@@ -63,20 +63,44 @@ const Hero = () => {
           </div>
 
           {/* Benefits Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-16 max-w-4xl mx-auto">
-            <div className="p-6 rounded-2xl bg-card border border-border hover:border-primary transition-all hover:shadow-md">
-              <h3 className="font-bold text-lg mb-2 text-primary">{t('benefits.price.title')}</h3>
-              <p className="text-sm text-muted-foreground">{t('benefits.price.desc')}</p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 pt-16 max-w-5xl mx-auto">
+            <div className="group p-8 rounded-2xl bg-card border border-border shadow-lg hover:shadow-glow hover:-translate-y-2 hover:bg-primary/5 transition-all duration-300">
+              <div className="flex justify-center mb-4">
+                <div className="p-4 rounded-full bg-gradient-primary">
+                  <Wallet className="w-8 h-8 text-white" />
+                </div>
+              </div>
+              <h3 className="font-bold text-xl mb-2 text-foreground text-center">Edullinen hinta</h3>
+              <div className="w-16 h-1 mx-auto mb-4 bg-gradient-primary rounded-full"></div>
+              <p className="text-sm text-muted-foreground text-center leading-relaxed">
+                Enemmän arvoa, vähemmän kuluja
+              </p>
             </div>
             
-            <div className="p-6 rounded-2xl bg-card border border-border hover:border-primary transition-all hover:shadow-md">
-              <h3 className="font-bold text-lg mb-2 text-primary">{t('benefits.transparent.title')}</h3>
-              <p className="text-sm text-muted-foreground">{t('benefits.transparent.desc')}</p>
+            <div className="group p-8 rounded-2xl bg-card border border-border shadow-lg hover:shadow-glow hover:-translate-y-2 hover:bg-primary/5 transition-all duration-300">
+              <div className="flex justify-center mb-4">
+                <div className="p-4 rounded-full bg-gradient-primary">
+                  <ShieldCheck className="w-8 h-8 text-white" />
+                </div>
+              </div>
+              <h3 className="font-bold text-xl mb-2 text-foreground text-center">Ei yllätyksiä</h3>
+              <div className="w-16 h-1 mx-auto mb-4 bg-gradient-primary rounded-full"></div>
+              <p className="text-sm text-muted-foreground text-center leading-relaxed">
+                Kiinteä hinta, selkeä budjetti. Kuukausihinta pitää kaiken läpinäkyvänä. Ei piilokuluja, ei epämiellyttäviä yllätyksiä – vain sujuvaa yhteistyötä.
+              </p>
             </div>
             
-            <div className="p-6 rounded-2xl bg-card border border-border hover:border-primary transition-all hover:shadow-md">
-              <h3 className="font-bold text-lg mb-2 text-primary">{t('benefits.focused.title')}</h3>
-              <p className="text-sm text-muted-foreground">{t('benefits.focused.desc')}</p>
+            <div className="group p-8 rounded-2xl bg-card border border-border shadow-lg hover:shadow-glow hover:-translate-y-2 hover:bg-primary/5 transition-all duration-300">
+              <div className="flex justify-center mb-4">
+                <div className="p-4 rounded-full bg-gradient-primary">
+                  <Users className="w-8 h-8 text-white" />
+                </div>
+              </div>
+              <h3 className="font-bold text-xl mb-2 text-foreground text-center">Työnantaja keskiössä</h3>
+              <div className="w-16 h-1 mx-auto mb-4 bg-gradient-primary rounded-full"></div>
+              <p className="text-sm text-muted-foreground text-center leading-relaxed">
+                Helppoa ja tehokasta. Me hoidamme työterveyden, jotta sinä voit keskittyä tiimiisi.
+              </p>
             </div>
           </div>
         </div>
