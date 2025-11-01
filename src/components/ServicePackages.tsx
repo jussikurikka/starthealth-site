@@ -24,7 +24,6 @@ const ServicePackages = () => {
         t('services.minimum.feature1'),
         t('services.minimum.feature2'),
         t('services.minimum.feature3'),
-        t('services.minimum.feature4'),
       ],
       detailedFeatures: [
         'Työpaikkaselvitys ja riskiarviointi',
