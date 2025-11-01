@@ -44,7 +44,6 @@ const ServicePackages = () => {
         t('services.basic.feature1'),
         t('services.basic.feature2'),
         t('services.basic.feature3'),
-        t('services.basic.feature4'),
       ],
       detailedFeatures: [
         'Kaikki Minimum-paketin palvelut',
