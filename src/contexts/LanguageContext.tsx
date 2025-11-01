@@ -63,6 +63,20 @@ const translations = {
     // Process
     'process.title': 'Aloitus helposti',
     'process.subtitle': 'Yksinkertainen prosessi työterveyshuollon käyttöönottoon',
+    'process.step0.title': 'Ota yhteyttä',
+    'process.step0.desc': 'Varaa lyhyt keskusteluaika, mikäli tarvitset apua palvelupaketin valinnassa tai muutoin haluat palvelusta lisätietoja.',
+    'process.step0.cta': 'Ota yhteyttä',
+    'process.step1.title': 'Valitse palvelupaketti ja pyydä tarjous',
+    'process.step1.desc': 'Olemme sinuun yhteydessä muutaman arkipäivän sisällä.',
+    'process.step1.cta': 'Pyydä tarjous',
+    'process.step2.title': 'Sopimuksen allekirjoitus',
+    'process.step2.desc': 'Allekirjoita sopimus sähköisesti kätevästi.',
+    'process.step3.title': 'Aloituspalaveri',
+    'process.step3.desc': 'Käymme läpi palvelun yhdessä ja vastaamme kysymyksiin.',
+    'process.step4.title': 'Käynti työpaikalla ja dokumentaation valmistelu',
+    'process.step4.desc': 'Kartoitamme yrityksesi tarpeet ja riskit, ja valmistelutarvittavan dokumentaation.',
+    'process.step5.title': 'Seuranta ja Kela-korvaukset',
+    'process.step5.desc': 'Päivitämme toimintasuunnitelmaa ja tilikauden päätteeksi haemme Kela-korvaukset.',
     
     // Team
     'team.title': 'Tiimimme',
@@ -138,6 +152,20 @@ const translations = {
     // Process
     'process.title': 'Easy Start',
     'process.subtitle': 'Simple process for implementing occupational health',
+    'process.step0.title': 'Contact Us',
+    'process.step0.desc': 'Book a short consultation if you need help choosing a service package or want more information about our services.',
+    'process.step0.cta': 'Contact Us',
+    'process.step1.title': 'Choose Package and Request Quote',
+    'process.step1.desc': 'We will contact you within a few business days.',
+    'process.step1.cta': 'Request Quote',
+    'process.step2.title': 'Contract Signing',
+    'process.step2.desc': 'Sign the contract electronically at your convenience.',
+    'process.step3.title': 'Kickoff Meeting',
+    'process.step3.desc': 'We review the service together and answer your questions.',
+    'process.step4.title': 'Workplace Visit and Documentation',
+    'process.step4.desc': 'We assess your company\'s needs and risks, and prepare the necessary documentation.',
+    'process.step5.title': 'Follow-up and Kela Reimbursements',
+    'process.step5.desc': 'We update the action plan and apply for Kela reimbursements at the end of the fiscal year.',
     
     // Team
     'team.title': 'Our Team',

@@ -1,40 +1,56 @@
 import { useLanguage } from '@/contexts/LanguageContext';
-import processFlow from '@/assets/process-flow.png';
-import { CheckCircle2, FileText, Handshake, Users, ClipboardCheck, TrendingUp } from 'lucide-react';
+import { Phone, FileCheck, FileSignature, Users, Building2, LineChart } from 'lucide-react';
+import { Button } from '@/components/ui/button';
 
 const Process = () => {
   const { t } = useLanguage();
 
+  const scrollToContact = () => {
+    document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });
+  };
+
   const steps = [
     {
-      icon: CheckCircle2,
-      title: 'Palvelupaketin valinta',
-      description: 'Valitse yrityksellesi sopiva paketti tai varaa maksuton konsultaatio',
+      icon: Phone,
+      step: 0,
+      titleKey: 'process.step0.title',
+      descKey: 'process.step0.desc',
+      ctaKey: 'process.step0.cta',
+      hasButton: true,
+      onClick: scrollToContact,
     },
     {
-      icon: FileText,
-      title: 'Tarjouspyyntö',
-      description: 'Täytä yksinkertainen lomake ja saat tarjouksen nopeasti',
+      icon: FileCheck,
+      step: 1,
+      titleKey: 'process.step1.title',
+      descKey: 'process.step1.desc',
+      ctaKey: 'process.step1.cta',
+      hasButton: true,
+      onClick: scrollToContact,
     },
     {
-      icon: Handshake,
-      title: 'Sopimus',
-      description: 'Allekirjoita sopimus sähköisesti kätevästi',
+      icon: FileSignature,
+      step: 2,
+      titleKey: 'process.step2.title',
+      descKey: 'process.step2.desc',
     },
     {
       icon: Users,
-      title: 'Aloituspalaveri',
-      description: 'Käymme läpi palvelun yhdessä ja vastaamme kysymyksiin',
+      step: 3,
+      titleKey: 'process.step3.title',
+      descKey: 'process.step3.desc',
     },
     {
-      icon: ClipboardCheck,
-      title: 'Työpaikkaselvitys',
-      description: 'Kartoitamme yrityksesi tarpeet ja riskit',
+      icon: Building2,
+      step: 4,
+      titleKey: 'process.step4.title',
+      descKey: 'process.step4.desc',
     },
     {
-      icon: TrendingUp,
-      title: 'Seuranta & Kehitys',
-      description: 'Päivitämme toimintasuunnitelmaa ja kehitämme palvelua',
+      icon: LineChart,
+      step: 5,
+      titleKey: 'process.step5.title',
+      descKey: 'process.step5.desc',
     },
   ];
 
@@ -48,32 +64,34 @@ const Process = () => {
           </p>
         </div>
 
-        {/* Visual Process Flow */}
-        <div className="mb-16 max-w-5xl mx-auto">
-          <img 
-            src={processFlow} 
-            alt="Process flow" 
-            className="w-full rounded-2xl shadow-lg"
-          />
-        </div>
-
-        {/* Detailed Steps */}
+        {/* Process Steps */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
-          {steps.map((step, index) => {
+          {steps.map((step) => {
             const Icon = step.icon;
             return (
               <div 
-                key={index}
-                className="relative p-6 rounded-2xl bg-card border border-border hover:border-primary transition-all hover:shadow-md group"
+                key={step.step}
+                className="relative p-8 rounded-2xl bg-gradient-to-br from-card to-card/50 border-2 border-primary/20 hover:border-primary/40 transition-all hover:shadow-xl hover:scale-105 group"
               >
-                <div className="absolute -top-4 left-6 w-12 h-12 bg-gradient-primary rounded-full flex items-center justify-center text-primary-foreground font-bold shadow-md">
-                  {index + 1}
+                <div className="absolute -top-5 -left-5 w-14 h-14 bg-gradient-to-br from-primary to-primary/80 rounded-2xl flex items-center justify-center text-primary-foreground font-bold text-xl shadow-lg rotate-3 group-hover:rotate-6 transition-transform">
+                  {step.step}
                 </div>
                 
-                <div className="pt-6 space-y-3">
-                  <Icon className="h-8 w-8 text-primary" />
-                  <h3 className="font-bold text-xl">{step.title}</h3>
-                  <p className="text-muted-foreground">{step.description}</p>
+                <div className="pt-4 space-y-4">
+                  <div className="w-16 h-16 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
+                    <Icon className="h-8 w-8 text-primary" />
+                  </div>
+                  <h3 className="font-bold text-xl text-foreground">{t(step.titleKey)}</h3>
+                  <p className="text-muted-foreground leading-relaxed">{t(step.descKey)}</p>
+                  
+                  {step.hasButton && (
+                    <Button 
+                      onClick={step.onClick}
+                      className="w-full mt-4 bg-gradient-to-r from-primary to-primary/80 hover:from-primary/90 hover:to-primary/70 shadow-md"
+                    >
+                      {t(step.ctaKey)}
+                    </Button>
+                  )}
                 </div>
               </div>
             );
