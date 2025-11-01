@@ -86,7 +86,7 @@ const Hero = () => {
               <h3 className="font-bold text-xl mb-2 text-foreground text-center">Ei yllätyksiä</h3>
               <div className="w-16 h-1 mx-auto mb-4 bg-gradient-primary rounded-full"></div>
               <p className="text-sm text-muted-foreground text-center leading-relaxed">
-                Kiinteä hinta, selkeä budjetti. Kuukausihinta pitää kaiken läpinäkyvänä. Ei piilokuluja, ei epämiellyttäviä yllätyksiä – vain sujuvaa yhteistyötä.
+                Kiinteä hinta, selkeä budjetti. Kuukausihinta pitää kaiken läpinäkyvänä. Ei piilokuluja, ei epämiellyttäviä yllätyksiä.
               </p>
             </div>
             
