@@ -200,16 +200,28 @@ const ServicePackages = () => {
                           </div>
                         </div>
                       ) : (
-                        <div>
-                          <h4 className="font-semibold text-xl mb-4">Paketin sisältö:</h4>
-                          <ul className="space-y-3">
-                            {pkg.detailedFeatures.map((feature, i) => (
-                              <li key={i} className="flex items-start space-x-3">
-                                <Check className="h-5 w-5 text-primary flex-shrink-0 mt-1" />
-                                <span className="text-base leading-relaxed">{feature}</span>
+                        <div className="space-y-6">
+                          <div className="bg-primary/5 p-6 rounded-xl border border-primary/10">
+                            <h4 className="font-semibold text-xl mb-4 text-primary">Kuvaus</h4>
+                            <p className="text-base leading-relaxed">Työterveyspainotteinen paikan päällä toteutettava sairaanhoito + Basic-paketti</p>
+                          </div>
+                          <div className="bg-secondary/30 p-6 rounded-xl">
+                            <p className="text-base leading-relaxed mb-4">Sisältää kaikki minimum ja basic pakettien ominaisuudet ja lisäksi seuraavat osiot</p>
+                            <ul className="space-y-3">
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Paikan päällä toteutettava lääkärin työterveyspainotteinen sairasvastaanotto soveltuvilta osin. Ohjaus paikan päälle arvioon tapahtuu etä-arvion pohjalta.</span>
                               </li>
-                            ))}
-                          </ul>
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Työterveyslääkärin määräämät ja lopulliseen sopimukseen rajatut diagnostiset laboratorio- ja kuvantamistutkimukset.</span>
+                              </li>
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Työfysioterapeutin vastaanotto paikan päällä vastaanottopisteessä. Ohjaus paikan päälle arvioon tapahtuu StartHealthin lääkärin tai fysioterapeutin etä-arvion pohjalta.</span>
+                              </li>
+                            </ul>
+                          </div>
                         </div>
                       )}
                     </div>
