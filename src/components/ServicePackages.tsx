@@ -131,16 +131,16 @@ const ServicePackages = () => {
                   </DialogTrigger>
                   <DialogContent className="max-w-2xl max-h-[80vh] overflow-y-auto">
                     <DialogHeader>
-                      <DialogTitle className="text-2xl">{pkg.name} - Yksityiskohtaiset tiedot</DialogTitle>
+                      <DialogTitle className="text-2xl">{index === 0 ? 'Minimum - Tarkemmat tiedot' : `${pkg.name} - Yksityiskohtaiset tiedot`}</DialogTitle>
                       <DialogDescription>{pkg.description}</DialogDescription>
                     </DialogHeader>
                     <div className="space-y-4 pt-4">
-                      {index === 0 && (
+                      {index === 0 ? (
                         <div className="bg-secondary/30 p-4 rounded-lg space-y-3">
                           <h4 className="font-semibold text-lg">Yleiskuvaus:</h4>
-                          <p className="text-muted-foreground">Lain edellyttämä työkykyä ylläpitävä ja ennaltaehkäisevä toiminta</p>
+                          <p className="font-semibold">Lain edellyttämä työkykyä ylläpitävä ja ennaltaehkäisevä toiminta</p>
                           <p className="text-sm text-muted-foreground">Asiakaskohtainen tarkempi lopullinen palveluiden sisältö määritellään toimintasuunnitelmassa.</p>
-                          <p className="font-medium">Oma nimetty työterveystiimi.</p>
+                          <p>Oma nimetty työterveystiimi.</p>
                           <div className="pt-2">
                             <h5 className="font-semibold mb-2">Lakisääteiset työnantajan velvoitteet täytetään yhteistyössä:</h5>
                             <ul className="space-y-1 text-sm">
@@ -152,18 +152,19 @@ const ServicePackages = () => {
                             </ul>
                           </div>
                         </div>
+                      ) : (
+                        <div>
+                          <h4 className="font-semibold text-lg mb-3">Paketin sisältö:</h4>
+                          <ul className="space-y-2">
+                            {pkg.detailedFeatures.map((feature, i) => (
+                              <li key={i} className="flex items-start space-x-2">
+                                <Check className="h-5 w-5 text-primary flex-shrink-0 mt-0.5" />
+                                <span>{feature}</span>
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
                       )}
-                      <div>
-                        <h4 className="font-semibold text-lg mb-3">Paketin sisältö:</h4>
-                        <ul className="space-y-2">
-                          {pkg.detailedFeatures.map((feature, i) => (
-                            <li key={i} className="flex items-start space-x-2">
-                              <Check className="h-5 w-5 text-primary flex-shrink-0 mt-0.5" />
-                              <span>{feature}</span>
-                            </li>
-                          ))}
-                        </ul>
-                      </div>
                     </div>
                   </DialogContent>
                 </Dialog>
