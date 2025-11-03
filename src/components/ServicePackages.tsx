@@ -143,7 +143,7 @@ const ServicePackages = () => {
                             <h4 className="font-semibold text-xl mb-4 text-primary">Yleiskuvaus</h4>
                             <p className="font-semibold text-lg leading-relaxed mb-3">Lain edellyttämä työkykyä ylläpitävä ja ennaltaehkäisevä toiminta</p>
                             <p className="text-base text-muted-foreground leading-relaxed mb-3">Asiakaskohtainen tarkempi lopullinen palveluiden sisältö määritellään toimintasuunnitelmassa.</p>
-                            <p className="text-base leading-relaxed">Oma nimetty työterveystiimi.</p>
+                            <p className="text-base text-muted-foreground leading-relaxed">Oma nimetty työterveystiimi.</p>
                           </div>
                           <div className="bg-secondary/30 p-6 rounded-xl">
                             <h5 className="font-semibold text-lg mb-4">Lakisääteiset työnantajan velvoitteet täytetään yhteistyössä:</h5>
