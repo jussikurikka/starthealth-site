@@ -135,6 +135,24 @@ const ServicePackages = () => {
                       <DialogDescription>{pkg.description}</DialogDescription>
                     </DialogHeader>
                     <div className="space-y-4 pt-4">
+                      {index === 0 && (
+                        <div className="bg-secondary/30 p-4 rounded-lg space-y-3">
+                          <h4 className="font-semibold text-lg">Yleiskuvaus:</h4>
+                          <p className="text-muted-foreground">Lain edellyttämä työkykyä ylläpitävä ja ennaltaehkäisevä toiminta</p>
+                          <p className="text-sm text-muted-foreground">Asiakaskohtainen tarkempi lopullinen palveluiden sisältö määritellään toimintasuunnitelmassa.</p>
+                          <p className="font-medium">Oma nimetty työterveystiimi.</p>
+                          <div className="pt-2">
+                            <h5 className="font-semibold mb-2">Lakisääteiset työnantajan velvoitteet täytetään yhteistyössä:</h5>
+                            <ul className="space-y-1 text-sm">
+                              <li>• Työpaikkaselvitys</li>
+                              <li>• Työterveysyhteistyön toimintasuunnitelma</li>
+                              <li>• Terveystarkastukset työn terveydelle asettamien vaatimusten laajuudessa</li>
+                              <li>• Päihdeohjelma ja varhaisen tuen mallien luominen</li>
+                              <li>• Yksilön sekä yhteisön yleistasoinen ohjaus- ja neuvonta</li>
+                            </ul>
+                          </div>
+                        </div>
+                      )}
                       <div>
                         <h4 className="font-semibold text-lg mb-3">Paketin sisältö:</h4>
                         <ul className="space-y-2">
