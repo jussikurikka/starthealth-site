@@ -129,37 +129,54 @@ const ServicePackages = () => {
                       {t('services.cta.details')}
                     </Button>
                   </DialogTrigger>
-                  <DialogContent className="max-w-2xl max-h-[80vh] overflow-y-auto">
-                    <DialogHeader>
-                      <DialogTitle className="text-2xl">{index === 0 ? 'Minimum - Tarkemmat tiedot' : `${pkg.name} - Yksityiskohtaiset tiedot`}</DialogTitle>
-                      <DialogDescription>{pkg.description}</DialogDescription>
+                  <DialogContent className="max-w-3xl max-h-[85vh] overflow-y-auto">
+                    <DialogHeader className="space-y-3 pb-6 border-b">
+                      <DialogTitle className="text-3xl font-bold">{index === 0 ? 'Minimum - Tarkemmat tiedot' : `${pkg.name} - Yksityiskohtaiset tiedot`}</DialogTitle>
+                      <DialogDescription className="text-base">{pkg.description}</DialogDescription>
                     </DialogHeader>
-                    <div className="space-y-4 pt-4">
+                    <div className="space-y-6 pt-6">
                       {index === 0 ? (
-                        <div className="bg-secondary/30 p-4 rounded-lg space-y-3">
-                          <h4 className="font-semibold text-lg">Yleiskuvaus:</h4>
-                          <p className="font-semibold">Lain edellyttämä työkykyä ylläpitävä ja ennaltaehkäisevä toiminta</p>
-                          <p className="text-sm text-muted-foreground">Asiakaskohtainen tarkempi lopullinen palveluiden sisältö määritellään toimintasuunnitelmassa.</p>
-                          <p>Oma nimetty työterveystiimi.</p>
-                          <div className="pt-2">
-                            <h5 className="font-semibold mb-2">Lakisääteiset työnantajan velvoitteet täytetään yhteistyössä:</h5>
-                            <ul className="space-y-1 text-sm">
-                              <li>• Työpaikkaselvitys</li>
-                              <li>• Työterveysyhteistyön toimintasuunnitelma</li>
-                              <li>• Terveystarkastukset työn terveydelle asettamien vaatimusten laajuudessa</li>
-                              <li>• Päihdeohjelma ja varhaisen tuen mallien luominen</li>
-                              <li>• Yksilön sekä yhteisön yleistasoinen ohjaus- ja neuvonta</li>
+                        <div className="space-y-6">
+                          <div className="bg-primary/5 p-6 rounded-xl border border-primary/10">
+                            <h4 className="font-semibold text-xl mb-4 text-primary">Yleiskuvaus</h4>
+                            <p className="font-semibold text-lg leading-relaxed mb-3">Lain edellyttämä työkykyä ylläpitävä ja ennaltaehkäisevä toiminta</p>
+                            <p className="text-base text-muted-foreground leading-relaxed mb-3">Asiakaskohtainen tarkempi lopullinen palveluiden sisältö määritellään toimintasuunnitelmassa.</p>
+                            <p className="text-base leading-relaxed">Oma nimetty työterveystiimi.</p>
+                          </div>
+                          <div className="bg-secondary/30 p-6 rounded-xl">
+                            <h5 className="font-semibold text-lg mb-4">Lakisääteiset työnantajan velvoitteet täytetään yhteistyössä:</h5>
+                            <ul className="space-y-3">
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Työpaikkaselvitys</span>
+                              </li>
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Työterveysyhteistyön toimintasuunnitelma</span>
+                              </li>
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Terveystarkastukset työn terveydelle asettamien vaatimusten laajuudessa</span>
+                              </li>
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Päihdeohjelma ja varhaisen tuen mallien luominen</span>
+                              </li>
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Yksilön sekä yhteisön yleistasoinen ohjaus- ja neuvonta</span>
+                              </li>
                             </ul>
                           </div>
                         </div>
                       ) : (
                         <div>
-                          <h4 className="font-semibold text-lg mb-3">Paketin sisältö:</h4>
-                          <ul className="space-y-2">
+                          <h4 className="font-semibold text-xl mb-4">Paketin sisältö:</h4>
+                          <ul className="space-y-3">
                             {pkg.detailedFeatures.map((feature, i) => (
-                              <li key={i} className="flex items-start space-x-2">
-                                <Check className="h-5 w-5 text-primary flex-shrink-0 mt-0.5" />
-                                <span>{feature}</span>
+                              <li key={i} className="flex items-start space-x-3">
+                                <Check className="h-5 w-5 text-primary flex-shrink-0 mt-1" />
+                                <span className="text-base leading-relaxed">{feature}</span>
                               </li>
                             ))}
                           </ul>
