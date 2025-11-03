@@ -140,7 +140,7 @@ const ServicePackages = () => {
                       {index === 0 ? (
                         <div className="space-y-6">
                           <div className="bg-primary/5 p-6 rounded-xl border border-primary/10">
-                            <h4 className="font-semibold text-xl mb-4 text-primary">Yleiskuvaus</h4>
+                            <h4 className="font-semibold text-xl mb-4 text-primary">Kuvaus</h4>
                             <p className="font-semibold text-lg leading-relaxed mb-3">Lain edellyttämä työkykyä ylläpitävä ja ennaltaehkäisevä toiminta</p>
                             <p className="text-base text-muted-foreground leading-relaxed mb-3">Asiakaskohtainen tarkempi lopullinen palveluiden sisältö määritellään toimintasuunnitelmassa.</p>
                             <p className="text-base text-muted-foreground leading-relaxed">Oma nimetty työterveystiimi.</p>
