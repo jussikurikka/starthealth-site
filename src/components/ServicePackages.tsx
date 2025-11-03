@@ -194,7 +194,7 @@ const ServicePackages = () => {
                               </li>
                               <li className="flex items-start space-x-3">
                                 <span className="text-primary font-bold mt-1">•</span>
-                                <span className="text-base leading-relaxed">Reseptien uusinta soveltuvilta osin lääkärin arvion mukaan (etänä ei antibiootteja, eikä PKV-lääkkeitä)</span>
+                                <span className="text-base leading-relaxed">Reseptien uusinta soveltuvilta osin lääkärin arvion mukaan (etänä ei esimerkiksi antibiootteja, eikä PKV-lääkkeitä)</span>
                               </li>
                             </ul>
                           </div>
