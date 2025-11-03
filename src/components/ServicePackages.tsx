@@ -132,7 +132,7 @@ const ServicePackages = () => {
                   <DialogContent className="max-w-3xl max-h-[85vh] overflow-y-auto">
                     <DialogHeader className="space-y-3 pb-6 border-b">
                       <DialogTitle className="text-3xl font-bold">
-                        {index === 0 ? 'Minimum - Tarkemmat tiedot' : index === 1 ? 'Basic - Tarkemmat tiedot' : `${pkg.name} - Yksityiskohtaiset tiedot`}
+                        {index === 0 ? 'Minimum - Tarkemmat tiedot' : index === 1 ? 'Basic - Tarkemmat tiedot' : `${pkg.name} - Tarkemmat tiedot`}
                       </DialogTitle>
                       <DialogDescription className="text-base">{pkg.description}</DialogDescription>
                     </DialogHeader>
