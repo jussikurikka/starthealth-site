@@ -210,7 +210,7 @@ const ServicePackages = () => {
                             <p className="text-base leading-relaxed">Työterveyspainotteinen paikan päällä toteutettava sairaanhoito + Basic-paketti</p>
                           </div>
                           <div className="bg-secondary/30 p-6 rounded-xl">
-                            <p className="text-base leading-relaxed mb-4">Sisältää kaikki minimum ja basic pakettien ominaisuudet ja lisäksi seuraavat osiot</p>
+                            <p className="text-base leading-relaxed mb-4">Sisältää kaikki Minimum ja Basic pakettien ominaisuudet ja lisäksi seuraavat osiot</p>
                             <ul className="space-y-3">
                               <li className="flex items-start space-x-3">
                                 <span className="text-primary font-bold mt-1">•</span>
