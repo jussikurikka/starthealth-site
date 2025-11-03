@@ -166,7 +166,11 @@ const ServicePackages = () => {
                               </li>
                               <li className="flex items-start space-x-3">
                                 <span className="text-primary font-bold mt-1">•</span>
-                                <span className="text-base leading-relaxed">Yksilön sekä yhteisön yleistasoinen ohjaus- ja neuvonta</span>
+                                <span className="text-base leading-relaxed">Neuvonta ja ohjaus lakisääteisissä asioissa</span>
+                              </li>
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Kela-korvausten hakemisessa avustaminen</span>
                               </li>
                             </ul>
                           </div>
