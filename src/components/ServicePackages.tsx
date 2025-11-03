@@ -131,7 +131,9 @@ const ServicePackages = () => {
                   </DialogTrigger>
                   <DialogContent className="max-w-3xl max-h-[85vh] overflow-y-auto">
                     <DialogHeader className="space-y-3 pb-6 border-b">
-                      <DialogTitle className="text-3xl font-bold">{index === 0 ? 'Minimum - Tarkemmat tiedot' : `${pkg.name} - Yksityiskohtaiset tiedot`}</DialogTitle>
+                      <DialogTitle className="text-3xl font-bold">
+                        {index === 0 ? 'Minimum - Tarkemmat tiedot' : index === 1 ? 'Basic-paketti' : `${pkg.name} - Yksityiskohtaiset tiedot`}
+                      </DialogTitle>
                       <DialogDescription className="text-base">{pkg.description}</DialogDescription>
                     </DialogHeader>
                     <div className="space-y-6 pt-6">
@@ -165,6 +167,34 @@ const ServicePackages = () => {
                               <li className="flex items-start space-x-3">
                                 <span className="text-primary font-bold mt-1">•</span>
                                 <span className="text-base leading-relaxed">Yksilön sekä yhteisön yleistasoinen ohjaus- ja neuvonta</span>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      ) : index === 1 ? (
+                        <div className="space-y-6">
+                          <div className="bg-primary/5 p-6 rounded-xl border border-primary/10">
+                            <h4 className="font-semibold text-xl mb-4 text-primary">Kuvaus</h4>
+                            <p className="text-base leading-relaxed">Työterveyspainotteisen etänä toteutettava sairaanhoito + Minimum-paketti</p>
+                          </div>
+                          <div className="bg-secondary/30 p-6 rounded-xl">
+                            <p className="text-base leading-relaxed mb-4">Sisältää kaikki Minimum paketin ominaisuudet ja lisäksi seuraavat osiot.</p>
+                            <ul className="space-y-3">
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Etänä video-, chat- tai puheyhteydellä toteutettu terveydentilan arvio lääkärin toimesta soveltuvilta osin.</span>
+                              </li>
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Fysioterapeutin antama opastus ja ohjaus etänä video-, chat- tai puheyhteydellä. Ohjaus tänne StartHealthin työterveyslääkärin arvion perusteella.</span>
+                              </li>
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Lyhyiden sairauslomien kirjoittaminen, mikäli etäyhteyksin toteutettu arvio terveydenhuollon ammattilaisen arvion mukaan on tähän riittävä.</span>
+                              </li>
+                              <li className="flex items-start space-x-3">
+                                <span className="text-primary font-bold mt-1">•</span>
+                                <span className="text-base leading-relaxed">Reseptien uusinta soveltuvilta osin lääkärin arvion mukaan (etänä ei antibiootteja, eikä PKV-lääkkeitä)</span>
                               </li>
                             </ul>
                           </div>
