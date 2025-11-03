@@ -175,7 +175,7 @@ const ServicePackages = () => {
                         <div className="space-y-6">
                           <div className="bg-primary/5 p-6 rounded-xl border border-primary/10">
                             <h4 className="font-semibold text-xl mb-4 text-primary">Kuvaus</h4>
-                            <p className="text-base leading-relaxed">Työterveyspainotteisen etänä toteutettava sairaanhoito + Minimum-paketti</p>
+                            <p className="text-base leading-relaxed">Työterveyspainotteinen etänä toteutettava sairaanhoito + Minimum-paketti</p>
                           </div>
                           <div className="bg-secondary/30 p-6 rounded-xl">
                             <p className="text-base leading-relaxed mb-4">Sisältää kaikki Minimum paketin ominaisuudet ja lisäksi seuraavat osiot.</p>
