@@ -11,7 +11,7 @@ const Hero = () => {
       behavior: 'smooth'
     });
   };
-  return <section id="home" className="relative min-h-screen flex items-center pt-16 overflow-hidden">
+  return <section id="home" className="relative min-h-screen flex items-center pt-32 md:pt-40 overflow-hidden">
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img src={heroBg} alt="Hero background" className="w-full h-full object-cover opacity-20" />
