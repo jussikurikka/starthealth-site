@@ -2,6 +2,7 @@ import { Button } from '@/components/ui/button';
 import { ArrowRight, FileText, Wallet, ShieldCheck, Users } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import heroBg from '@/assets/hero-bg.jpg';
+import logo from '@/assets/logo.png';
 const Hero = () => {
   const {
     t
@@ -20,10 +21,30 @@ const Hero = () => {
 
       {/* Animated Background Elements */}
       <div className="absolute inset-0 z-0 overflow-hidden">
+        {/* Large logo watermark in center */}
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] opacity-[0.03] animate-[spin_60s_linear_infinite]">
+          <img src={logo} alt="" className="w-full h-full object-contain" />
+        </div>
+        
+        {/* Floating logo elements */}
+        <div className="absolute top-32 right-32 w-48 h-48 opacity-5 animate-float">
+          <img src={logo} alt="" className="w-full h-full object-contain" />
+        </div>
+        <div className="absolute bottom-32 left-32 w-64 h-64 opacity-5 animate-float" style={{ animationDelay: '3s' }}>
+          <img src={logo} alt="" className="w-full h-full object-contain" />
+        </div>
+        
+        {/* Gradient orbs */}
         <div className="absolute top-20 right-20 w-72 h-72 bg-primary/10 rounded-full blur-3xl animate-float" />
-        <div className="absolute bottom-20 left-20 w-96 h-96 bg-accent/10 rounded-full blur-3xl animate-float" style={{
-        animationDelay: '2s'
-      }} />
+        <div className="absolute bottom-20 left-20 w-96 h-96 bg-accent/10 rounded-full blur-3xl animate-float" style={{ animationDelay: '2s' }} />
+        
+        {/* Additional smaller logo accents */}
+        <div className="absolute top-1/4 left-1/4 w-32 h-32 opacity-[0.02] animate-float" style={{ animationDelay: '1s' }}>
+          <img src={logo} alt="" className="w-full h-full object-contain" />
+        </div>
+        <div className="absolute bottom-1/3 right-1/3 w-40 h-40 opacity-[0.02] animate-float" style={{ animationDelay: '4s' }}>
+          <img src={logo} alt="" className="w-full h-full object-contain" />
+        </div>
       </div>
 
       {/* Content */}
