@@ -1,27 +1,9 @@
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Card, CardContent } from '@/components/ui/card';
-import { User } from 'lucide-react';
+import { Users } from 'lucide-react';
 
 const Team = () => {
   const { t } = useLanguage();
-
-  const founders = [
-    {
-      name: 'Perustaja 1',
-      title: t('team.founder'),
-      description: 'Tiedot päivitetään pian',
-    },
-    {
-      name: 'Perustaja 2',
-      title: t('team.founder'),
-      description: 'Tiedot päivitetään pian',
-    },
-    {
-      name: 'Perustaja 3',
-      title: t('team.founder'),
-      description: 'Tiedot päivitetään pian',
-    },
-  ];
 
   return (
     <section id="about" className="py-20 bg-secondary/20">
@@ -33,19 +15,27 @@ const Team = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
-          {founders.map((founder, index) => (
-            <Card key={index} className="overflow-hidden hover:shadow-lg transition-shadow">
-              <div className="aspect-square bg-gradient-accent flex items-center justify-center">
-                <User className="h-24 w-24 text-primary/30" />
+        <div className="max-w-4xl mx-auto">
+          <Card className="overflow-hidden hover:shadow-elegant transition-all duration-300">
+            <div className="aspect-[16/9] bg-gradient-accent flex items-center justify-center relative overflow-hidden">
+              {/* Placeholder for team photo */}
+              <div className="absolute inset-0 bg-gradient-to-br from-primary/5 via-accent/5 to-secondary/5" />
+              <div className="relative z-10 text-center space-y-4 p-8">
+                <Users className="h-32 w-32 mx-auto text-primary/20" />
+                <p className="text-muted-foreground text-lg font-medium">
+                  Tiimikuva lisätään pian
+                </p>
               </div>
-              <CardContent className="pt-6 text-center">
-                <h3 className="font-bold text-xl mb-1">{founder.name}</h3>
-                <p className="text-primary text-sm font-semibold mb-2">{founder.title}</p>
-                <p className="text-muted-foreground text-sm">{founder.description}</p>
-              </CardContent>
-            </Card>
-          ))}
+            </div>
+            <CardContent className="pt-8 pb-8">
+              <div className="text-center space-y-3">
+                <h3 className="font-bold text-2xl">{t('team.founder')}t</h3>
+                <p className="text-muted-foreground max-w-2xl mx-auto">
+                  Perustajatiimimme on intohimoinen ja sitoutunut tarjoamaan parasta mahdollista työterveyshuoltoa startupeille.
+                </p>
+              </div>
+            </CardContent>
+          </Card>
         </div>
       </div>
     </section>
