@@ -18,9 +18,9 @@ const translations = {
     'nav.contact': 'Ota yhteyttä',
     
     // Hero
-    'hero.title': 'Työterveyshuolto',
-    'hero.titleHighlight': 'Startupeille',
-    'hero.subtitle': 'Kiinteä ja edullinen kuukausihinta!',
+    'hero.title': 'Moderni työterveyshuolto',
+    'hero.titleHighlight': 'StartHealth',
+    'hero.subtitle': 'Kiinteä ja edullinen kuukausihinta startupeille!',
     'hero.cta.contact': 'Ota yhteyttä',
     'hero.cta.quote': 'Pyydä tarjous',
     
@@ -107,9 +107,9 @@ const translations = {
     'nav.contact': 'Contact',
     
     // Hero
-    'hero.title': 'BEST occupational health',
-    'hero.titleHighlight': 'for Startups',
-    'hero.subtitle': 'Fixed and affordable monthly price!',
+    'hero.title': 'Modern occupational health',
+    'hero.titleHighlight': 'StartHealth',
+    'hero.subtitle': 'Fixed and affordable monthly price for startups!',
     'hero.cta.contact': 'Contact Us',
     'hero.cta.quote': 'Request Quote',
     
