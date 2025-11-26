@@ -11,7 +11,7 @@ const DataPrivacy = () => {
   const features = [{
     icon: Shield,
     title: 'GDPR & tietosuoja',
-    points: ['Käsittelemme henkilötietoja ja potilastietoja EU:n tietosuoja-asetuksen (GDPR) mukaisesti', 'Potilastietojärjestelmä on tietoturvallinen ja Valviran sertifioima', 'Kaikki tiedot käsitellään EU/ETA-alueella, salattuina ja valvottuina. Varmuuskopiot, auditoinnit ja säännölliset testaukset takaavat korkean tietoturvan tason.']
+    points: ['Käsittelemme henkilötietoja ja potilastietoja EU:n tietosuoja-asetuksen (GDPR) mukaisesti', 'Kaikki tiedot käsitellään EU/ETA-alueella, salattuina ja valvottuina. Varmuuskopiot, auditoinnit ja säännölliset testaukset takaavat korkean tietoturvan tason.']
   }, {
     icon: Lock,
     title: 'Tietoturvallinen potilastietojärjestelmä',
