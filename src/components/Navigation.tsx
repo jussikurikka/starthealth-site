@@ -43,6 +43,15 @@ const Navigation = () => {
             ))}
             
             <Button
+              variant="default"
+              size="sm"
+              onClick={() => window.open('https://starthealth.digitalo.com/varaus/', '_blank')}
+              className="bg-gradient-primary hover:opacity-90 transition-opacity shadow-lg hover:shadow-glow ml-4"
+            >
+              {t('nav.booking')}
+            </Button>
+            
+            <Button
               variant="ghost"
               size="sm"
               onClick={toggleLanguage}
@@ -89,6 +98,18 @@ const Navigation = () => {
                 {t(item.key)}
               </a>
             ))}
+            
+            <Button
+              variant="default"
+              size="sm"
+              onClick={() => {
+                window.open('https://starthealth.digitalo.com/varaus/', '_blank');
+                setIsOpen(false);
+              }}
+              className="w-full bg-gradient-primary hover:opacity-90 transition-opacity shadow-lg mt-4"
+            >
+              {t('nav.booking')}
+            </Button>
           </div>
         )}
       </div>
