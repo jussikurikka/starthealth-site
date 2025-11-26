@@ -22,7 +22,7 @@ const translations = {
     // Hero
     'hero.title': 'Moderni työterveyshuolto',
     'hero.titleHighlight': 'StartHealth',
-    'hero.subtitle': 'Kiinteä ja edullinen kuukausihinta startupeille!',
+    'hero.subtitle': 'Kiinteä ja edullinen kuukausihinta!',
     'hero.cta.contact': 'Ota yhteyttä',
     'hero.cta.quote': 'Pyydä tarjous',
     
@@ -113,7 +113,7 @@ const translations = {
     // Hero
     'hero.title': 'Modern occupational health',
     'hero.titleHighlight': 'StartHealth',
-    'hero.subtitle': 'Fixed and affordable monthly price for startups!',
+    'hero.subtitle': 'Fixed and affordable monthly price!',
     'hero.cta.contact': 'Contact Us',
     'hero.cta.quote': 'Request Quote',
     
