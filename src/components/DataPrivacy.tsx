@@ -53,16 +53,7 @@ const DataPrivacy = () => {
             </Card>)}
         </div>
 
-        <div className="max-w-4xl mx-auto mb-12 p-8 bg-card/60 backdrop-blur-sm rounded-lg border border-border/50">
-          <h3 className="text-2xl font-bold mb-4 text-foreground">
-            Tietoturva käytännössä
-          </h3>
-          <p className="text-muted-foreground leading-relaxed">
-            Kaikki terveystiedot käsitellään EU/ETA-alueella, salattuina ja valvottuina. Varmuuskopiointi, 
-            lokiseuranta ja säännölliset auditoinnit varmistavat, että tietoturvan taso pysyy korkeana myös 
-            palvelun kehittyessä.
-          </p>
-        </div>
+        
 
         
       </div>
