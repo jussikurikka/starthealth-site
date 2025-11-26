@@ -17,6 +17,7 @@ const translations = {
     'nav.privacy': 'Tietosuoja',
     'nav.about': 'Tietoa Meistä',
     'nav.contact': 'Ota yhteyttä',
+    'nav.booking': 'Ajanvaraus',
     
     // Hero
     'hero.title': 'Moderni työterveyshuolto',
@@ -107,6 +108,7 @@ const translations = {
     'nav.privacy': 'Privacy',
     'nav.about': 'About Us',
     'nav.contact': 'Contact',
+    'nav.booking': 'Book Appointment',
     
     // Hero
     'hero.title': 'Modern occupational health',
