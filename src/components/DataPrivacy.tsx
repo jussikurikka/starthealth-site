@@ -19,7 +19,7 @@ const DataPrivacy = () => {
   }, {
     icon: FileCheck,
     title: 'Viranomaisluvat',
-    points: ['Rekisteröity sosiaali- ja terveydenhuollon palveluntuottajarekisteriin (Soteri)', 'Toimintaa ohjaavat Valviran ohjeet sekä terveydenhuolto- ja työterveyshuoltolaki', 'Palvelu toteutetaan luvanvaraisena terveydenhuollon toimintana']
+    points: ['Yritys on rekisteröity Valviran sosiaali- ja terveydenhuollon palveluntuottajarekisteriin (Soteri)', 'Toimintaa ohjaavat Valviran ohjeet sekä terveydenhuolto- ja työterveyshuoltolaki', 'Palvelu toteutetaan luvanvaraisena terveydenhuollon toimintana']
   }];
   return <section className="py-20 bg-secondary/30">
       <div className="container mx-auto px-4">
