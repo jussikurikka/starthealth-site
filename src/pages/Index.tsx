@@ -3,6 +3,7 @@ import Hero from '@/components/Hero';
 import ServicePackages from '@/components/ServicePackages';
 import Process from '@/components/Process';
 import Team from '@/components/Team';
+import DataPrivacy from '@/components/DataPrivacy';
 import ContactForm from '@/components/ContactForm';
 import Footer from '@/components/Footer';
 
@@ -14,6 +15,7 @@ const Index = () => {
       <ServicePackages />
       <Process />
       <Team />
+      <DataPrivacy />
       <ContactForm />
       <Footer />
     </div>
