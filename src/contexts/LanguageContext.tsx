@@ -12,7 +12,7 @@ const translations = {
   fi: {
     // Navigation
     'nav.home': 'Etusivu',
-    'nav.pricing': 'Hinnasto',
+    'nav.pricing': 'Hintalaskuri',
     'nav.services': 'Palvelut',
     'nav.about': 'Tietoa Meistä',
     'nav.contact': 'Ota yhteyttä',
