@@ -15,7 +15,7 @@ const DataPrivacy = () => {
   }, {
     icon: Lock,
     title: 'Tietoturvallinen potilastietojärjestelmä',
-    points: ['Potilastietojärjestelmä täyttää terveydenhuollon vaatimukset ja Kanta-palveluiden sertifiointikriteerit', 'Kaikki tiedonsiirto on salattua', 'Palvelimet sijaitsevat EU/ETA-alueella', 'Tietoturvaa testataan ja auditoidaan säännöllisesti']
+    points: ['Potilastietojärjestelmä on tietoturvallinen. Se täyttää Kanta-palveluiden ja Valviran sertifiointikriteerit']
   }, {
     icon: FileCheck,
     title: 'Viranomaisluvat',
