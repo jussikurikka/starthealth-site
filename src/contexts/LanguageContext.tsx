@@ -14,6 +14,7 @@ const translations = {
     'nav.home': 'Etusivu',
     'nav.pricing': 'Hintalaskuri',
     'nav.services': 'Palvelut',
+    'nav.privacy': 'Tietosuoja',
     'nav.about': 'Tietoa Meistä',
     'nav.contact': 'Ota yhteyttä',
     
@@ -103,6 +104,7 @@ const translations = {
     'nav.home': 'Home',
     'nav.pricing': 'Pricing',
     'nav.services': 'Services',
+    'nav.privacy': 'Privacy',
     'nav.about': 'About Us',
     'nav.contact': 'Contact',
     
