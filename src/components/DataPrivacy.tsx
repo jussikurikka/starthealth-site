@@ -1,4 +1,4 @@
-import { Shield, Lock, FileCheck, Award } from 'lucide-react';
+import { Shield, Lock, FileCheck } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 const DataPrivacy = () => {
@@ -20,10 +20,6 @@ const DataPrivacy = () => {
     icon: FileCheck,
     title: 'Viranomaisluvat',
     points: ['Rekisteröity sosiaali- ja terveydenhuollon palveluntuottajarekisteriin (Soteri)', 'Toimintaa ohjaavat Valviran ohjeet sekä terveydenhuolto- ja työterveyshuoltolaki', 'Palvelu toteutetaan luvanvaraisena terveydenhuollon toimintana']
-  }, {
-    icon: Award,
-    title: 'Kliininen laatu',
-    points: ['Palvelumme toteuttavat Valviran laillistamat terveydenhuollon ammattilaiset', 'Kliininen työ perustuu Käypä hoito -suosituksiin ja tutkittuun tietoon', 'Panostamme potilasturvallisuuteen ja toimintamallien jatkuvaan kehittämiseen']
   }];
   return <section className="py-20 bg-secondary/30">
       <div className="container mx-auto px-4">
@@ -38,7 +34,7 @@ const DataPrivacy = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
           {features.map((feature, index) => <Card key={index} className="hover:shadow-elegant transition-all duration-300 hover:-translate-y-1 bg-card/80 backdrop-blur-sm border-border/50">
               <CardHeader className="text-center pb-4">
                 <div className="mx-auto mb-4 w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center">
