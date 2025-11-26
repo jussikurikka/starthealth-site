@@ -18,7 +18,7 @@ const DataPrivacy = () => {
     points: ['Potilastietojärjestelmä täyttää terveydenhuollon vaatimukset ja Kanta-palveluiden sertifiointikriteerit', 'Kaikki tiedonsiirto on salattua', 'Palvelimet sijaitsevat EU/ETA-alueella', 'Tietoturvaa testataan ja auditoidaan säännöllisesti']
   }, {
     icon: FileCheck,
-    title: 'Valvira & Soteri',
+    title: 'Viranomaisluvat',
     points: ['Rekisteröity sosiaali- ja terveydenhuollon palveluntuottajarekisteriin (Soteri)', 'Toimintaa ohjaavat Valviran ohjeet sekä terveydenhuolto- ja työterveyshuoltolaki', 'Palvelu toteutetaan luvanvaraisena terveydenhuollon toimintana']
   }, {
     icon: Award,
