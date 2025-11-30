@@ -1,8 +1,8 @@
 import { Button } from '@/components/ui/button';
 import { ArrowRight, FileText, Wallet, ShieldCheck, Users } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
-import heroBg from '@/assets/hero-bg.jpg';
 import logo from '@/assets/logo.png';
+
 const Hero = () => {
   const {
     t
@@ -13,36 +13,40 @@ const Hero = () => {
     });
   };
   return <section id="home" className="relative min-h-screen flex items-center pt-32 md:pt-40 overflow-hidden">
-      {/* Background Image with Overlay */}
+      {/* Subtle Background Gradient */}
       <div className="absolute inset-0 z-0">
-        <img src={heroBg} alt="Hero background" className="w-full h-full object-cover opacity-20" />
-        <div className="absolute inset-0 bg-gradient-to-br from-background via-background/95 to-secondary/30" />
+        <div className="absolute inset-0 bg-gradient-to-br from-background via-background to-primary/5" />
+        <div className="absolute inset-0 bg-gradient-radial from-transparent via-transparent to-secondary/10" />
       </div>
 
-      {/* Animated Background Elements */}
+      {/* Animated Background Elements - Logo Only */}
       <div className="absolute inset-0 z-0 overflow-hidden">
-        {/* Large logo watermark in center */}
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] opacity-[0.03] animate-[spin_60s_linear_infinite]">
+        {/* Large centered logo watermark with subtle animation */}
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[900px] h-[900px] opacity-[0.025]">
+          <img 
+            src={logo} 
+            alt="" 
+            className="w-full h-full object-contain blur-[2px] animate-[pulse_8s_ease-in-out_infinite]"
+          />
+        </div>
+        
+        {/* Floating logo elements - very subtle */}
+        <div className="absolute top-20 right-20 w-56 h-56 opacity-[0.03] animate-float blur-[1px]">
+          <img src={logo} alt="" className="w-full h-full object-contain" />
+        </div>
+        <div className="absolute bottom-24 left-24 w-72 h-72 opacity-[0.03] animate-float blur-[1px]" style={{ animationDelay: '3s' }}>
           <img src={logo} alt="" className="w-full h-full object-contain" />
         </div>
         
-        {/* Floating logo elements */}
-        <div className="absolute top-32 right-32 w-48 h-48 opacity-5 animate-float">
-          <img src={logo} alt="" className="w-full h-full object-contain" />
-        </div>
-        <div className="absolute bottom-32 left-32 w-64 h-64 opacity-5 animate-float" style={{ animationDelay: '3s' }}>
-          <img src={logo} alt="" className="w-full h-full object-contain" />
-        </div>
+        {/* Subtle gradient orbs for depth */}
+        <div className="absolute top-32 right-32 w-96 h-96 bg-primary/5 rounded-full blur-3xl animate-float" style={{ animationDelay: '1s' }} />
+        <div className="absolute bottom-32 left-32 w-[500px] h-[500px] bg-secondary/8 rounded-full blur-3xl animate-float" style={{ animationDelay: '4s' }} />
         
-        {/* Gradient orbs */}
-        <div className="absolute top-20 right-20 w-72 h-72 bg-primary/10 rounded-full blur-3xl animate-float" />
-        <div className="absolute bottom-20 left-20 w-96 h-96 bg-accent/10 rounded-full blur-3xl animate-float" style={{ animationDelay: '2s' }} />
-        
-        {/* Additional smaller logo accents */}
-        <div className="absolute top-1/4 left-1/4 w-32 h-32 opacity-[0.02] animate-float" style={{ animationDelay: '1s' }}>
+        {/* Micro logo accents */}
+        <div className="absolute top-1/3 left-1/5 w-28 h-28 opacity-[0.015] animate-float blur-[1px]" style={{ animationDelay: '2s' }}>
           <img src={logo} alt="" className="w-full h-full object-contain" />
         </div>
-        <div className="absolute bottom-1/3 right-1/3 w-40 h-40 opacity-[0.02] animate-float" style={{ animationDelay: '4s' }}>
+        <div className="absolute bottom-1/4 right-1/4 w-36 h-36 opacity-[0.015] animate-float blur-[1px]" style={{ animationDelay: '5s' }}>
           <img src={logo} alt="" className="w-full h-full object-contain" />
         </div>
       </div>
