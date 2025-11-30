@@ -199,10 +199,20 @@ const PriceCalculator = () => {
                       />
                       <Label
                         htmlFor={pkg}
-                        className="flex flex-col items-center justify-center p-4 border-2 rounded-lg cursor-pointer transition-all peer-checked:border-primary peer-checked:bg-primary/5 hover:border-primary/50"
+                        className={`flex flex-col items-center justify-center p-4 border-2 rounded-lg cursor-pointer transition-all hover:border-primary/50 ${
+                          selectedPackage === pkg
+                            ? 'border-primary bg-primary/10 shadow-md'
+                            : 'border-border bg-background hover:bg-muted/30'
+                        }`}
                       >
-                        <span className="font-semibold text-lg mb-1">{t(`services.${pkg.toLowerCase()}.name`)}</span>
-                        <span className="text-sm text-muted-foreground text-center">
+                        <span className={`text-lg mb-1 ${
+                          selectedPackage === pkg ? 'font-bold text-primary' : 'font-semibold text-foreground'
+                        }`}>
+                          {t(`services.${pkg.toLowerCase()}.name`)}
+                        </span>
+                        <span className={`text-sm text-center ${
+                          selectedPackage === pkg ? 'text-primary/80' : 'text-muted-foreground'
+                        }`}>
                           {t(`services.${pkg.toLowerCase()}.desc`)}
                         </span>
                       </Label>
@@ -221,18 +231,30 @@ const PriceCalculator = () => {
                     <RadioGroupItem value="no" id="risk-no" className="peer sr-only" />
                     <Label
                       htmlFor="risk-no"
-                      className="flex items-center justify-center p-4 border-2 rounded-lg cursor-pointer transition-all peer-checked:border-primary peer-checked:bg-primary/5 hover:border-primary/50"
+                      className={`flex items-center justify-center p-4 border-2 rounded-lg cursor-pointer transition-all hover:border-primary/50 ${
+                        isRiskIndustry === 'no'
+                          ? 'border-primary bg-primary/10 shadow-md'
+                          : 'border-border bg-background hover:bg-muted/30'
+                      }`}
                     >
-                      <span className="font-medium">{t('calculator.riskNo')}</span>
+                      <span className={isRiskIndustry === 'no' ? 'font-bold text-primary' : 'font-medium text-foreground'}>
+                        {t('calculator.riskNo')}
+                      </span>
                     </Label>
                   </div>
                   <div className="relative">
                     <RadioGroupItem value="yes" id="risk-yes" className="peer sr-only" />
                     <Label
                       htmlFor="risk-yes"
-                      className="flex items-center justify-center p-4 border-2 rounded-lg cursor-pointer transition-all peer-checked:border-primary peer-checked:bg-primary/5 hover:border-primary/50"
+                      className={`flex items-center justify-center p-4 border-2 rounded-lg cursor-pointer transition-all hover:border-primary/50 ${
+                        isRiskIndustry === 'yes'
+                          ? 'border-primary bg-primary/10 shadow-md'
+                          : 'border-border bg-background hover:bg-muted/30'
+                      }`}
                     >
-                      <span className="font-medium">{t('calculator.riskYes')}</span>
+                      <span className={isRiskIndustry === 'yes' ? 'font-bold text-primary' : 'font-medium text-foreground'}>
+                        {t('calculator.riskYes')}
+                      </span>
                     </Label>
                   </div>
                 </div>
