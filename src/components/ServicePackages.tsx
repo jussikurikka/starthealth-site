@@ -174,124 +174,16 @@ const ServicePackages = () => {
                     <>
                       <Dialog>
                         <DialogTrigger asChild>
-                          <Button variant="outline" className="w-full">
+                          <Button 
+                            variant="outline" 
+                            className={pkg.popular ? 'w-full border-primary/30' : 'w-full'}
+                          >
                             <Info className="mr-2 h-4 w-4" />
                             {t('services.cta.details')}
                           </Button>
                         </DialogTrigger>
-                        <DialogContent className="max-w-3xl max-h-[85vh] overflow-y-auto">
-                          <DialogHeader className="space-y-3 pb-6 border-b">
-                            <DialogTitle className="text-3xl font-bold">
-                              {index === 0 ? 'Minimum - Tarkemmat tiedot' : index === 1 ? 'Basic - Tarkemmat tiedot' : `${pkg.name} - Tarkemmat tiedot`}
-                            </DialogTitle>
-                            <DialogDescription className="text-base">{pkg.description}</DialogDescription>
-                          </DialogHeader>
-                          <div className="space-y-6 pt-6">
-                            {index === 0 ? (
-                              <div className="space-y-6">
-                                <div className="bg-primary/5 p-6 rounded-xl border border-primary/10">
-                                  <h4 className="font-semibold text-xl mb-4 text-primary">Kuvaus</h4>
-                                  <p className="font-semibold text-lg leading-relaxed mb-3">Lain edellyttämä työkykyä ylläpitävä ja ennaltaehkäisevä toiminta</p>
-                                  <p className="text-base text-muted-foreground leading-relaxed mb-3">Asiakaskohtainen tarkempi lopullinen palveluiden sisältö määritellään toimintasuunnitelmassa.</p>
-                                  <p className="text-base text-muted-foreground leading-relaxed">Oma nimetty työterveystiimi.</p>
-                                </div>
-                                <div className="bg-secondary/30 p-6 rounded-xl">
-                                  <h5 className="font-semibold text-lg mb-4">Lakisääteiset työnantajan velvoitteet täytetään yhteistyössä:</h5>
-                                  <ul className="space-y-3">
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Työpaikkaselvitys</span>
-                                    </li>
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Työterveysyhteistyön toimintasuunnitelma</span>
-                                    </li>
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Terveystarkastukset työn terveydelle asettamien vaatimusten laajuudessa</span>
-                                    </li>
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Päihdeohjelma ja varhaisen tuen mallien luominen</span>
-                                    </li>
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Neuvonta ja ohjaus lakisääteisissä asioissa</span>
-                                    </li>
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Kela-korvausten hakemisessa avustaminen</span>
-                                    </li>
-                                  </ul>
-                                </div>
-                              </div>
-                            ) : index === 1 ? (
-                              <div className="space-y-6">
-                                <div className="bg-primary/5 p-6 rounded-xl border border-primary/10">
-                                  <h4 className="font-semibold text-xl mb-4 text-primary">Kuvaus</h4>
-                                  <p className="text-base leading-relaxed">Työterveyspainotteinen etänä toteutettava sairaanhoito + Minimum-paketti</p>
-                                </div>
-                                <div className="bg-secondary/30 p-6 rounded-xl">
-                                  <p className="text-base leading-relaxed mb-4">Sisältää kaikki Minimum paketin ominaisuudet ja lisäksi seuraavat osiot.</p>
-                                  <ul className="space-y-3">
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Etänä video-, chat- tai puheyhteydellä toteutettu terveydentilan arvio lääkärin toimesta soveltuvilta osin.</span>
-                                    </li>
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Fysioterapeutin antama opastus ja ohjaus etänä video-, chat- tai puheyhteydellä. Ohjaus tänne StartHealthin työterveyslääkärin arvion perusteella.</span>
-                                    </li>
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Lyhyiden sairauslomien kirjoittaminen, mikäli etäyhteyksin toteutettu arvio terveydenhuollon ammattilaisen arvion mukaan on tähän riittävä.</span>
-                                    </li>
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Reseptien uusinta soveltuvilta osin lääkärin arvion mukaan (etänä ei esimerkiksi antibiootteja, eikä PKV-lääkkeitä)</span>
-                                    </li>
-                                  </ul>
-                                </div>
-                              </div>
-                            ) : (
-                              <div className="space-y-6">
-                                <div className="bg-primary/5 p-6 rounded-xl border border-primary/10">
-                                  <h4 className="font-semibold text-xl mb-4 text-primary">Kuvaus</h4>
-                                  <p className="text-base leading-relaxed">Työterveyspainotteinen paikan päällä toteutettava sairaanhoito + Basic-paketti</p>
-                                </div>
-                                <div className="bg-secondary/30 p-6 rounded-xl">
-                                  <p className="text-base leading-relaxed mb-4">Sisältää kaikki Minimum ja Basic pakettien ominaisuudet ja lisäksi seuraavat osiot</p>
-                                  <ul className="space-y-3">
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Paikan päällä toteutettava lääkärin työterveyspainotteinen sairasvastaanotto soveltuvilta osin. Ohjaus paikan päälle arvioon tapahtuu etä-arvion pohjalta.</span>
-                                    </li>
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Työterveyslääkärin määräämät ja lopulliseen sopimukseen rajatut diagnostiset laboratorio- ja kuvantamistutkimukset.</span>
-                                    </li>
-                                    <li className="flex items-start space-x-3">
-                                      <span className="text-primary font-bold mt-1">•</span>
-                                      <span className="text-base leading-relaxed">Työfysioterapeutin vastaanotto paikan päällä vastaanottopisteessä. Ohjaus paikan päälle arvioon tapahtuu StartHealthin lääkärin tai fysioterapeutin etä-arvion pohjalta.</span>
-                                    </li>
-                                  </ul>
-                                </div>
-                              </div>
-                            )}
-                          </div>
-                        </DialogContent>
+...
                       </Dialog>
-                      
-                      <Button 
-                        className={pkg.popular ? 'w-full bg-gradient-primary' : 'w-full'}
-                        variant={pkg.popular ? 'default' : 'secondary'}
-                        asChild
-                      >
-                        <a href="#calculator">
-                          <Calculator className="mr-2 h-4 w-4" />
-                          Hintalaskuri
-                        </a>
-                      </Button>
                     </>
                   )}
                 </CardFooter>
