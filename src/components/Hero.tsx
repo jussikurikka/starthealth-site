@@ -22,19 +22,19 @@ const Hero = () => {
       {/* Animated Background Elements - Logo Only */}
       <div className="absolute inset-0 z-0 overflow-hidden">
         {/* Large centered logo watermark with subtle animation */}
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[900px] h-[900px] opacity-[0.025]">
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[900px] h-[900px] opacity-[0.06]">
           <img 
             src={logo} 
             alt="" 
-            className="w-full h-full object-contain blur-[2px] animate-[pulse_8s_ease-in-out_infinite]"
+            className="w-full h-full object-contain blur-sm animate-[pulse_8s_ease-in-out_infinite]"
           />
         </div>
         
         {/* Floating logo elements - very subtle */}
-        <div className="absolute top-20 right-20 w-56 h-56 opacity-[0.03] animate-float blur-[1px]">
+        <div className="absolute top-20 right-20 w-56 h-56 opacity-[0.07] animate-float blur-sm">
           <img src={logo} alt="" className="w-full h-full object-contain" />
         </div>
-        <div className="absolute bottom-24 left-24 w-72 h-72 opacity-[0.03] animate-float blur-[1px]" style={{ animationDelay: '3s' }}>
+        <div className="absolute bottom-24 left-24 w-72 h-72 opacity-[0.07] animate-float blur-sm" style={{ animationDelay: '3s' }}>
           <img src={logo} alt="" className="w-full h-full object-contain" />
         </div>
         
@@ -43,10 +43,10 @@ const Hero = () => {
         <div className="absolute bottom-32 left-32 w-[500px] h-[500px] bg-secondary/8 rounded-full blur-3xl animate-float" style={{ animationDelay: '4s' }} />
         
         {/* Micro logo accents */}
-        <div className="absolute top-1/3 left-1/5 w-28 h-28 opacity-[0.015] animate-float blur-[1px]" style={{ animationDelay: '2s' }}>
+        <div className="absolute top-1/3 left-1/5 w-28 h-28 opacity-[0.04] animate-float blur-sm" style={{ animationDelay: '2s' }}>
           <img src={logo} alt="" className="w-full h-full object-contain" />
         </div>
-        <div className="absolute bottom-1/4 right-1/4 w-36 h-36 opacity-[0.015] animate-float blur-[1px]" style={{ animationDelay: '5s' }}>
+        <div className="absolute bottom-1/4 right-1/4 w-36 h-36 opacity-[0.04] animate-float blur-sm" style={{ animationDelay: '5s' }}>
           <img src={logo} alt="" className="w-full h-full object-contain" />
         </div>
       </div>
