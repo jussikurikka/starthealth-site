@@ -285,10 +285,12 @@ const ServicePackages = () => {
                       <Button 
                         className={pkg.popular ? 'w-full bg-gradient-primary' : 'w-full'}
                         variant={pkg.popular ? 'default' : 'secondary'}
-                        onClick={() => window.open('https://forms.office.com/e/fVA08DHHjG', '_blank')}
+                        asChild
                       >
-                        <Calculator className="mr-2 h-4 w-4" />
-                        Hintalaskuri
+                        <a href="#calculator">
+                          <Calculator className="mr-2 h-4 w-4" />
+                          Hintalaskuri
+                        </a>
                       </Button>
                     </>
                   )}
