@@ -100,10 +100,10 @@ const PriceCalculator = () => {
             <Button
               size="lg"
               onClick={() => setIsExpanded(true)}
-              className="bg-gradient-primary hover:opacity-90 transition-opacity shadow-lg hover:shadow-glow"
+              className="bg-gradient-primary hover:opacity-90 transition-all shadow-2xl hover:shadow-glow hover:scale-105 text-lg px-8 py-6 h-auto animate-pulse-subtle"
             >
-              <Calculator className="mr-2 h-5 w-5" />
-              {t('calculator.openButton')}
+              <Calculator className="mr-3 h-7 w-7" />
+              <span className="font-semibold">{t('calculator.openButton')}</span>
             </Button>
           </div>
         </div>
