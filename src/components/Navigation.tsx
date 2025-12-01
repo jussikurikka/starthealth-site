@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Menu, X, Globe } from 'lucide-react';
+import { Menu, X, Globe, EyeOff } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useLanguage } from '@/contexts/LanguageContext';
 import logo from '@/assets/logo.png';
@@ -7,15 +7,19 @@ import logo from '@/assets/logo.png';
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
   const { language, setLanguage, t } = useLanguage();
+  const isDevMode = import.meta.env.DEV;
 
   const navItems = [
-    { key: 'nav.home', href: '#home' },
-    { key: 'nav.services', href: '#services' },
-    { key: 'nav.pricing', href: '#calculator' },
-    { key: 'nav.privacy', href: '#privacy' },
-    { key: 'nav.about', href: '#about' },
-    { key: 'nav.contact', href: '#contact' },
+    { key: 'nav.home', href: '#home', hidden: false },
+    { key: 'nav.services', href: '#services', hidden: false },
+    { key: 'nav.pricing', href: '#calculator', hidden: false },
+    { key: 'nav.privacy', href: '#privacy', hidden: false },
+    { key: 'nav.about', href: '#about', hidden: true }, // Hidden from public
+    { key: 'nav.contact', href: '#contact', hidden: false },
   ];
+
+  // Filter items based on dev mode
+  const visibleNavItems = navItems.filter(item => !item.hidden || isDevMode);
 
   const toggleLanguage = () => {
     setLanguage(language === 'fi' ? 'en' : 'fi');
@@ -32,14 +36,27 @@ const Navigation = () => {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
-            {navItems.map((item) => (
-              <a
-                key={item.key}
-                href={item.href}
-                className="text-foreground hover:text-primary transition-colors font-medium"
-              >
-                {t(item.key)}
-              </a>
+            {visibleNavItems.map((item) => (
+              <div key={item.key} className="relative group">
+                {item.hidden && isDevMode && (
+                  <div className="absolute -top-8 left-1/2 -translate-x-1/2 whitespace-nowrap z-50 opacity-0 group-hover:opacity-100 transition-opacity">
+                    <div className="bg-amber-100 border border-amber-300 text-amber-800 px-2 py-1 rounded text-xs font-medium flex items-center gap-1 shadow-md">
+                      <EyeOff className="h-3 w-3" />
+                      Piilotettu
+                    </div>
+                  </div>
+                )}
+                <a
+                  href={item.href}
+                  className={`text-foreground hover:text-primary transition-colors font-medium ${
+                    item.hidden && isDevMode 
+                      ? 'border border-dashed border-amber-400 px-2 py-1 rounded bg-amber-50/50' 
+                      : ''
+                  }`}
+                >
+                  {t(item.key)}
+                </a>
+              </div>
             ))}
             
             <Button
@@ -88,15 +105,28 @@ const Navigation = () => {
         {/* Mobile Navigation */}
         {isOpen && (
           <div className="md:hidden py-4 space-y-2 animate-fade-in-up">
-            {navItems.map((item) => (
-              <a
-                key={item.key}
-                href={item.href}
-                onClick={() => setIsOpen(false)}
-                className="block py-2 text-foreground hover:text-primary transition-colors font-medium"
-              >
-                {t(item.key)}
-              </a>
+            {visibleNavItems.map((item) => (
+              <div key={item.key} className="relative">
+                {item.hidden && isDevMode && (
+                  <div className="absolute right-0 top-1/2 -translate-y-1/2">
+                    <div className="bg-amber-100 border border-amber-300 text-amber-800 px-2 py-0.5 rounded text-xs font-medium flex items-center gap-1">
+                      <EyeOff className="h-3 w-3" />
+                      Piilotettu
+                    </div>
+                  </div>
+                )}
+                <a
+                  href={item.href}
+                  onClick={() => setIsOpen(false)}
+                  className={`block py-2 text-foreground hover:text-primary transition-colors font-medium ${
+                    item.hidden && isDevMode 
+                      ? 'border border-dashed border-amber-400 px-2 rounded bg-amber-50/50' 
+                      : ''
+                  }`}
+                >
+                  {t(item.key)}
+                </a>
+              </div>
             ))}
             
             <Button
