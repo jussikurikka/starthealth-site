@@ -24,7 +24,7 @@ const DataPrivacy = () => {
   return <section id="privacy" className="py-20 bg-secondary/30 scroll-mt-20">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12 max-w-4xl mx-auto">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6 text-gradient">
+          <h2 className="text-3xl md:text-5xl font-bold mb-6 text-gradient">
             Tietosuoja ja luvanvaraisuus
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
