@@ -8,35 +8,51 @@ import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { useLanguage } from '@/contexts/LanguageContext';
 
-// Pricing configuration - values to be filled in later
-const pricingConfig = {
-  Minimum: [
-    { maxEmployees: 10, pricePerEmployee: 0 },    // To be filled
-    { maxEmployees: 25, pricePerEmployee: 0 },
-    { maxEmployees: 50, pricePerEmployee: 0 },
-    { maxEmployees: 100, pricePerEmployee: 0 },
-    { maxEmployees: 500, pricePerEmployee: 0 },
-  ],
-  Basic: [
-    { maxEmployees: 10, pricePerEmployee: 0 },
-    { maxEmployees: 25, pricePerEmployee: 0 },
-    { maxEmployees: 50, pricePerEmployee: 0 },
-    { maxEmployees: 100, pricePerEmployee: 0 },
-    { maxEmployees: 500, pricePerEmployee: 0 },
-  ],
-  Support: [
-    { maxEmployees: 10, pricePerEmployee: 0 },
-    { maxEmployees: 25, pricePerEmployee: 0 },
-    { maxEmployees: 50, pricePerEmployee: 0 },
-    { maxEmployees: 100, pricePerEmployee: 0 },
-    { maxEmployees: 500, pricePerEmployee: 0 },
-  ],
+// Pricing configuration - €/hlö/kk per employee count and package
+const pricingConfig: Record<'Minimum' | 'Basic' | 'Support', Record<number, number>> = {
+  Minimum: {
+    1: 52.32, 2: 34.21, 3: 28.17, 4: 25.16, 5: 23.34,
+    6: 22.14, 7: 21.27, 8: 20.62, 9: 20.12, 10: 19.72,
+    11: 18.47, 12: 17.42, 13: 16.54, 14: 15.79, 15: 15.13,
+    16: 14.55, 17: 14.05, 18: 13.60, 19: 13.20, 20: 12.83,
+    21: 12.51, 22: 12.29, 23: 11.94, 24: 11.69, 25: 11.46,
+    26: 11.25, 27: 11.05, 28: 10.87, 29: 10.70, 30: 10.55,
+    31: 10.39, 32: 10.25, 33: 10.13, 34: 10.00, 35: 9.89,
+    36: 9.78, 37: 9.67, 38: 9.58, 39: 9.48, 40: 9.40,
+    41: 9.31, 42: 9.23, 43: 9.16, 44: 9.08, 45: 9.02,
+    46: 8.95, 47: 8.88, 48: 8.82, 49: 8.76, 50: 8.70,
+  },
+  Basic: {
+    1: 64.89, 2: 46.79, 3: 40.75, 4: 37.73, 5: 35.92,
+    6: 34.71, 7: 33.85, 8: 33.20, 9: 32.70, 10: 32.30,
+    11: 31.05, 12: 30.00, 13: 29.12, 14: 28.37, 15: 27.71,
+    16: 27.13, 17: 26.63, 18: 26.18, 19: 25.77, 20: 25.41,
+    21: 25.09, 22: 24.87, 23: 24.52, 24: 24.26, 25: 24.04,
+    26: 23.83, 27: 23.63, 28: 23.45, 29: 23.28, 30: 23.12,
+    31: 22.97, 32: 22.83, 33: 22.71, 34: 22.58, 35: 22.47,
+    36: 22.35, 37: 22.25, 38: 22.15, 39: 22.06, 40: 21.97,
+    41: 21.89, 42: 21.81, 43: 21.74, 44: 21.66, 45: 21.59,
+    46: 21.53, 47: 21.46, 48: 21.39, 49: 21.34, 50: 21.28,
+  },
+  Support: {
+    1: 76.07, 2: 57.96, 3: 51.92, 4: 48.91, 5: 47.09,
+    6: 45.89, 7: 45.02, 8: 44.37, 9: 43.87, 10: 43.47,
+    11: 42.22, 12: 41.17, 13: 40.29, 14: 39.54, 15: 38.88,
+    16: 38.30, 17: 37.80, 18: 37.35, 19: 36.95, 20: 36.58,
+    21: 36.26, 22: 36.04, 23: 35.69, 24: 35.44, 25: 35.21,
+    26: 35.00, 27: 34.80, 28: 34.62, 29: 34.45, 30: 34.30,
+    31: 34.14, 32: 34.00, 33: 33.88, 34: 33.75, 35: 33.64,
+    36: 33.53, 37: 33.42, 38: 33.33, 39: 33.23, 40: 33.15,
+    41: 33.06, 42: 32.98, 43: 32.91, 44: 32.83, 45: 32.77,
+    46: 32.70, 47: 32.63, 48: 32.57, 49: 32.51, 50: 32.45,
+  },
 };
 
 interface CalculatorResult {
   priceBeforeKela: number;
   priceAfterKela: number;
   showRiskWarning: boolean;
+  showOutOfRangeWarning: boolean;
 }
 
 const PriceCalculator = () => {
@@ -62,21 +78,34 @@ const PriceCalculator = () => {
         priceBeforeKela: 0,
         priceAfterKela: 0,
         showRiskWarning: true,
+        showOutOfRangeWarning: false,
       });
       return;
     }
 
-    // Find the appropriate price tier
-    const priceTiers = pricingConfig[selectedPackage];
-    const tier = priceTiers.find(t => employeeCount <= t.maxEmployees) || priceTiers[priceTiers.length - 1];
+    // Check if employee count is in our pricing table (1-50)
+    const pricePerEmployee = pricingConfig[selectedPackage][employeeCount];
     
-    const monthlyPrice = employeeCount * tier.pricePerEmployee;
+    if (pricePerEmployee === undefined) {
+      // Employee count not in table
+      setResult({
+        priceBeforeKela: 0,
+        priceAfterKela: 0,
+        showRiskWarning: false,
+        showOutOfRangeWarning: true,
+      });
+      return;
+    }
+
+    // Calculate total monthly price (price per employee × employee count)
+    const monthlyPrice = employeeCount * pricePerEmployee;
     const priceAfterKela = monthlyPrice * 0.45; // 55% Kela subsidy
 
     setResult({
       priceBeforeKela: monthlyPrice,
       priceAfterKela: priceAfterKela,
       showRiskWarning: false,
+      showOutOfRangeWarning: false,
     });
   };
 
@@ -148,13 +177,13 @@ const PriceCalculator = () => {
                   id="employees"
                   type="number"
                   min="1"
-                  max="500"
+                  max="50"
                   value={employees}
                   onChange={(e) => setEmployees(e.target.value)}
                   placeholder={t('calculator.employeesPlaceholder')}
                   className="text-base"
                 />
-                {employees && (parseInt(employees) < 1 || parseInt(employees) > 500) && (
+                {employees && (parseInt(employees) < 1 || parseInt(employees) > 50) && (
                   <p className="text-sm text-destructive">{t('calculator.employeesError')}</p>
                 )}
               </div>
@@ -293,6 +322,22 @@ const PriceCalculator = () => {
                           </CardTitle>
                           <CardDescription className="text-orange-800 dark:text-orange-200 mt-2">
                             {t('calculator.riskWarningText')}
+                          </CardDescription>
+                        </div>
+                      </div>
+                    </CardHeader>
+                  </Card>
+                ) : result.showOutOfRangeWarning ? (
+                  <Card className="border-blue-200 dark:border-blue-900 bg-blue-50 dark:bg-blue-950/20">
+                    <CardHeader>
+                      <div className="flex items-start gap-3">
+                        <AlertCircle className="h-6 w-6 text-blue-600 dark:text-blue-400 mt-1 flex-shrink-0" />
+                        <div>
+                          <CardTitle className="text-xl text-blue-900 dark:text-blue-100">
+                            {t('calculator.outOfRangeTitle')}
+                          </CardTitle>
+                          <CardDescription className="text-blue-800 dark:text-blue-200 mt-2">
+                            {t('calculator.outOfRangeText')}
                           </CardDescription>
                         </div>
                       </div>
