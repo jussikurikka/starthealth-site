@@ -76,7 +76,7 @@ const translations = {
     'process.step3.title': 'Aloituspalaveri',
     'process.step3.desc': 'Käymme läpi palvelun yhdessä ja vastaamme kysymyksiin.',
     'process.step4.title': 'Käynti työpaikalla ja dokumentaation valmistelu',
-    'process.step4.desc': 'Kartoitamme yrityksesi tarpeet ja riskit, ja valmistelutarvittavan dokumentaation.',
+    'process.step4.desc': 'Kartoitamme yrityksesi tarpeet ja riskit. Valmistelemme tarvittavan dokumentaation.',
     'process.step5.title': 'Seuranta ja Kela-korvaukset',
     'process.step5.desc': 'Päivitämme toimintasuunnitelmaa ja tilikauden päätteeksi autamme hakemaan Kela-korvaukset.',
     
