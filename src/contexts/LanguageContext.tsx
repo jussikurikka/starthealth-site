@@ -74,7 +74,7 @@ const translations = {
     'process.step2.title': 'Sopimuksen allekirjoitus',
     'process.step2.desc': 'Allekirjoita sopimus sähköisesti kätevästi.',
     'process.step3.title': 'Aloituspalaveri',
-    'process.step3.desc': 'Käymme läpi palvelun yhdessä ja vastaamme kysymyksiin.',
+    'process.step3.desc': 'Käymme yhdessä palvelun läpi ja vastaamme kysymyksiin.',
     'process.step4.title': 'Käynti työpaikalla ja dokumentaation valmistelu',
     'process.step4.desc': 'Kartoitamme yrityksesi tarpeet ja riskit. Valmistelemme tarvittavan dokumentaation.',
     'process.step5.title': 'Seuranta ja Kela-korvaukset',
