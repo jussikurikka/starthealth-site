@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { Calculator, AlertCircle, CheckCircle2, X } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -64,8 +64,9 @@ const PriceCalculator = () => {
   const [isRiskIndustry, setIsRiskIndustry] = useState<string>('');
   const [result, setResult] = useState<CalculatorResult | null>(null);
   const [showOtherLocationInfo, setShowOtherLocationInfo] = useState(false);
+  const [hasCalculatedOnce, setHasCalculatedOnce] = useState(false);
 
-  const calculatePrice = () => {
+  const calculatePrice = useCallback(() => {
     const employeeCount = parseInt(employees);
     
     if (isNaN(employeeCount) || employeeCount < 1) {
@@ -107,7 +108,7 @@ const PriceCalculator = () => {
       showRiskWarning: false,
       showOutOfRangeWarning: false,
     });
-  };
+  }, [selectedPackage, isRiskIndustry]);
 
   const isFormValid = () => {
     return employees !== '' && 
@@ -115,6 +116,13 @@ const PriceCalculator = () => {
            location !== '' && 
            isRiskIndustry !== '';
   };
+
+  // Auto-recalculate when inputs change (only after first calculation)
+  useEffect(() => {
+    if (hasCalculatedOnce && isFormValid()) {
+      calculatePrice();
+    }
+  }, [employees, selectedPackage, location, isRiskIndustry, hasCalculatedOnce, calculatePrice]);
 
   const handleLocationChange = (value: string) => {
     setLocation(value);
@@ -151,6 +159,7 @@ const PriceCalculator = () => {
               onClick={() => {
                 setIsExpanded(false);
                 setResult(null);
+                setHasCalculatedOnce(false);
               }}
               className="absolute right-4 top-4"
               aria-label={t('calculator.close')}
@@ -300,7 +309,10 @@ const PriceCalculator = () => {
             {/* Calculate Button */}
             <Button
               size="lg"
-              onClick={calculatePrice}
+              onClick={() => {
+                setHasCalculatedOnce(true);
+                calculatePrice();
+              }}
               disabled={!isFormValid()}
               className="w-full bg-gradient-primary hover:opacity-90 transition-opacity shadow-lg hover:shadow-glow disabled:opacity-50"
             >
