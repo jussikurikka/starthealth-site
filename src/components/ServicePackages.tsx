@@ -122,14 +122,14 @@ const ServicePackages = () => {
                     <div className="flex flex-col items-center space-y-3 pt-4">
                       <Lock 
                         className="h-12 w-12 text-muted-foreground" 
-                        aria-label="Paketti ei ole vielä käytettävissä"
+                        aria-label={language === 'en' ? 'Package not yet available' : 'Paketti ei ole vielä käytettävissä'}
                       />
                       <Badge 
                         variant="secondary" 
                         className="bg-primary/10 text-primary px-4 py-1.5 text-sm"
-                        aria-label="Support-paketti tulee saataville keväällä 2026"
+                        aria-label={language === 'en' ? 'Support package available spring 2026' : 'Support-paketti tulee saataville keväällä 2026'}
                       >
-                        Tulossa keväällä 2026
+                        {language === 'en' ? 'Coming spring 2026' : 'Tulossa keväällä 2026'}
                       </Badge>
                     </div>
                   )}
