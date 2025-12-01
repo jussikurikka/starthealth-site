@@ -1,13 +1,29 @@
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Card, CardContent } from '@/components/ui/card';
-import { Users } from 'lucide-react';
+import { Users, EyeOff } from 'lucide-react';
 
 const Team = () => {
   const { t } = useLanguage();
+  
+  // Hide section in production (published site)
+  const isDevMode = import.meta.env.DEV;
+  
+  if (!isDevMode) {
+    return null;
+  }
 
   return (
-    <section id="about" className="py-20 bg-secondary/20">
-      <div className="container mx-auto px-4">
+    <section id="about" className="py-20 bg-secondary/20 relative">
+      {/* Dev mode indicator */}
+      <div className="absolute inset-0 border-2 border-dashed border-amber-400/60 rounded-lg pointer-events-none" />
+      <div className="absolute top-4 left-1/2 -translate-x-1/2 z-10">
+        <div className="bg-amber-100 border border-amber-300 text-amber-800 px-4 py-2 rounded-full text-sm font-medium flex items-center gap-2 shadow-md">
+          <EyeOff className="h-4 w-4" />
+          Piilotettu julkiselta sivulta (näkyy vain muokkaustilassa)
+        </div>
+      </div>
+      
+      <div className="container mx-auto px-4 pt-8">
         <div className="text-center mb-12 space-y-4">
           <h2 className="text-3xl md:text-5xl font-bold">{t('team.title')}</h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
