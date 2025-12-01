@@ -20,7 +20,7 @@ const translations = {
     'nav.booking': 'Ajanvaraus',
     
     // Hero
-    'hero.title': 'Moderni työterveyshuolto',
+    'hero.title': 'Moderni Työterveyshuolto',
     'hero.titleHighlight': 'StartHealth',
     'hero.subtitle': 'Kiinteä ja edullinen kuukausihinta!',
     'hero.cta.contact': 'Ota yhteyttä',
@@ -141,7 +141,7 @@ const translations = {
     'nav.booking': 'Book Appointment',
     
     // Hero
-    'hero.title': 'Modern occupational health',
+    'hero.title': 'Modern Occupational Health',
     'hero.titleHighlight': 'StartHealth',
     'hero.subtitle': 'Fixed and affordable monthly price!',
     'hero.cta.contact': 'Contact Us',
