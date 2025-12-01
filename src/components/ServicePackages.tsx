@@ -129,7 +129,7 @@ const ServicePackages = () => {
                         className="bg-primary/10 text-primary px-4 py-1.5 text-sm"
                         aria-label={language === 'en' ? 'Support package available spring 2026' : 'Support-paketti tulee saataville keväällä 2026'}
                       >
-                        {language === 'en' ? 'Coming spring 2026' : 'Tulossa keväällä 2026'}
+                        {language === 'en' ? 'Coming in Spring 2026' : 'Tulossa keväällä 2026'}
                       </Badge>
                     </div>
                   )}
