@@ -75,7 +75,7 @@ const Navigation = () => {
               className="flex items-center space-x-1"
             >
               <Globe className="h-4 w-4" />
-              <span className="uppercase">{language}</span>
+              <span className="uppercase">{language === 'fi' ? 'en' : 'fi'}</span>
             </Button>
           </div>
 
@@ -88,7 +88,7 @@ const Navigation = () => {
               className="flex items-center space-x-1"
             >
               <Globe className="h-4 w-4" />
-              <span className="uppercase text-xs">{language}</span>
+              <span className="uppercase text-xs">{language === 'fi' ? 'en' : 'fi'}</span>
             </Button>
             
             <Button
