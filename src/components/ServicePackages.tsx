@@ -235,27 +235,51 @@ const ServicePackages = () => {
                           ) : index === 1 ? (
                             <div className="space-y-6">
                               <div className="bg-primary/5 p-6 rounded-xl border border-primary/10">
-                                <h4 className="font-semibold text-xl mb-4 text-primary">Kuvaus</h4>
-                                <p className="text-base leading-relaxed">Etäpalvelut startup-yrityksen työntekijöille</p>
+                                <h4 className="font-semibold text-xl mb-4 text-primary">{language === 'en' ? 'Description' : 'Kuvaus'}</h4>
+                                <p className="text-base leading-relaxed">
+                                  {language === 'en' 
+                                    ? 'Remote occupational health services for startup employees' 
+                                    : 'Etäpalvelut startup-yrityksen työntekijöille'}
+                                </p>
                               </div>
                               <div className="bg-secondary/30 p-6 rounded-xl">
-                                <p className="text-base leading-relaxed mb-4">Sisältää kaikki Minimum paketin ominaisuudet ja lisäksi seuraavat osiot</p>
+                                <p className="text-base leading-relaxed mb-4">
+                                  {language === 'en' 
+                                    ? 'Includes all features of the Minimum package, plus the following:' 
+                                    : 'Sisältää kaikki Minimum paketin ominaisuudet ja lisäksi seuraavat osiot'}
+                                </p>
                                 <ul className="space-y-3">
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
-                                    <span className="text-base leading-relaxed">Etävastaanotto työterveyslääkärillä video-, chat- tai puheyhteydellä. Ensisijaisesti puhelin- tai chatyhteydellä nopeamman ajan varausaikojen turvaamiseksi, mutta tarvittaessa lääkäri kutsuu keskustelun videoyhteyden kautta arvioitavaksi. Etävastaanotolle pääsy soveltuvilta osin ja lääkärin arvion mukaan.</span>
+                                    <span className="text-base leading-relaxed">
+                                      {language === 'en' 
+                                        ? "Remote consultations with an occupational health physician via video, chat, or phone. Primarily conducted by phone or chat to ensure faster appointment availability, but the physician may switch to video if needed for assessment. Access to remote consultations is provided when clinically appropriate and based on the physician's judgment." 
+                                        : 'Etävastaanotto työterveyslääkärillä video-, chat- tai puheyhteydellä. Ensisijaisesti puhelin- tai chatyhteydellä nopeamman ajan varausaikojen turvaamiseksi, mutta tarvittaessa lääkäri kutsuu keskustelun videoyhteyden kautta arvioitavaksi. Etävastaanotolle pääsy soveltuvilta osin ja lääkärin arvion mukaan.'}
+                                    </span>
                                   </li>
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
-                                    <span className="text-base leading-relaxed">Fysioterapeutin antama opastus ja ohjaus etänä video-, chat- tai puheyhteydellä. Ohjaus tänne StartHealthin työterveyslääkärin arvion perusteella.</span>
+                                    <span className="text-base leading-relaxed">
+                                      {language === 'en' 
+                                        ? 'Remote physiotherapy guidance and counselling via video, chat, or phone. Access is granted based on the assessment of a StartHealth occupational health physician.' 
+                                        : 'Fysioterapeutin antama opastus ja ohjaus etänä video-, chat- tai puheyhteydellä. Ohjaus tänne StartHealthin työterveyslääkärin arvion perusteella.'}
+                                    </span>
                                   </li>
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
-                                    <span className="text-base leading-relaxed">Lyhyiden sairauslomien kirjoittaminen, mikäli etäyhteyksin toteutettu arvio terveydenhuollon ammattilaisen arvion mukaan on tähän riittävä.</span>
+                                    <span className="text-base leading-relaxed">
+                                      {language === 'en' 
+                                        ? 'Issuing short-term sick leave certificates when a remote assessment is considered sufficient by the healthcare professional.' 
+                                        : 'Lyhyiden sairauslomien kirjoittaminen, mikäli etäyhteyksin toteutettu arvio terveydenhuollon ammattilaisen arvion mukaan on tähän riittävä.'}
+                                    </span>
                                   </li>
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
-                                    <span className="text-base leading-relaxed">Reseptien uusinta soveltuvilta osin lääkärin arvion mukaan (etänä ei esimerkiksi antibiootteja, eikä PKV-lääkkeitä)</span>
+                                    <span className="text-base leading-relaxed">
+                                      {language === 'en' 
+                                        ? "Renewal of prescriptions when clinically appropriate and based on the physician's assessment. (Note: antibiotics and controlled substances cannot be prescribed remotely.)" 
+                                        : 'Reseptien uusinta soveltuvilta osin lääkärin arvion mukaan (etänä ei esimerkiksi antibiootteja, eikä PKV-lääkkeitä)'}
+                                    </span>
                                   </li>
                                 </ul>
                               </div>
