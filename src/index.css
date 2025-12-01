@@ -106,7 +106,7 @@ All colors MUST be HSL.
 
 @layer utilities {
   .text-gradient {
-    @apply bg-clip-text text-transparent;
+    @apply bg-clip-text text-transparent pb-1;
     background-image: var(--gradient-primary);
   }
 
