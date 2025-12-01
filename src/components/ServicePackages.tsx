@@ -11,9 +11,8 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog";
-
 const ServicePackages = () => {
-  const { t } = useLanguage();
+  const { t, language } = useLanguage();
 
   const packages = [
     {
@@ -181,30 +180,54 @@ const ServicePackages = () => {
                         </DialogHeader>
                         
                         <div className="mt-6">
-                          {index === 0 ? (
+                        {index === 0 ? (
                             <div className="space-y-6">
                               <div className="bg-primary/5 p-6 rounded-xl border border-primary/10">
-                                <h4 className="font-semibold text-xl mb-4 text-primary">Kuvaus</h4>
-                                <p className="text-base leading-relaxed">Lakisääteinen työterveyshuolto startupeille</p>
+                                <h4 className="font-semibold text-xl mb-4 text-primary">{language === 'en' ? 'Description' : 'Kuvaus'}</h4>
+                                <p className="text-base leading-relaxed">
+                                  {language === 'en' 
+                                    ? 'Statutory occupational health care for startups' 
+                                    : 'Lakisääteinen työterveyshuolto startupeille'}
+                                </p>
                               </div>
                               <div className="bg-secondary/30 p-6 rounded-xl">
-                                <p className="text-base leading-relaxed mb-4">Lakisääteinen peruspaketti pitää sisällään seuraavat osiot</p>
+                                <p className="text-base leading-relaxed mb-4">
+                                  {language === 'en' 
+                                    ? 'The statutory basic package includes the following components:' 
+                                    : 'Lakisääteinen peruspaketti pitää sisällään seuraavat osiot'}
+                                </p>
                                 <ul className="space-y-3">
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
-                                    <span className="text-base leading-relaxed">Työpaikkakäynti (etänä), työpaikkaselvitys ja riskiarviointi</span>
+                                    <span className="text-base leading-relaxed">
+                                      {language === 'en' 
+                                        ? 'Remote workplace visit, workplace assessment, and risk evaluation' 
+                                        : 'Työpaikkakäynti (etänä), työpaikkaselvitys ja riskiarviointi'}
+                                    </span>
                                   </li>
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
-                                    <span className="text-base leading-relaxed">Työterveyshuollon toimintasuunnitelma (työterveyshuoltolain mukainen dokumentaatio)</span>
+                                    <span className="text-base leading-relaxed">
+                                      {language === 'en' 
+                                        ? 'Occupational health care action plan (documentation required under the Occupational Health Care Act)' 
+                                        : 'Työterveyshuollon toimintasuunnitelma (työterveyshuoltolain mukainen dokumentaatio)'}
+                                    </span>
                                   </li>
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
-                                    <span className="text-base leading-relaxed">Lakisääteinen seuranta</span>
+                                    <span className="text-base leading-relaxed">
+                                      {language === 'en' 
+                                        ? 'Statutory follow-up and monitoring' 
+                                        : 'Lakisääteinen seuranta'}
+                                    </span>
                                   </li>
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
-                                    <span className="text-base leading-relaxed">Apua kysymällä (maksutta etäneuvontaa chatin välityksellä esim. työkykyyn, työergonomiaan ja työhyvinvointi-asioihin liittyen)</span>
+                                    <span className="text-base leading-relaxed">
+                                      {language === 'en' 
+                                        ? 'Ask-for-help service (free remote consultation via chat on topics such as work ability, ergonomics, and wellbeing)' 
+                                        : 'Apua kysymällä (maksutta etäneuvontaa chatin välityksellä esim. työkykyyn, työergonomiaan ja työhyvinvointi-asioihin liittyen)'}
+                                    </span>
                                   </li>
                                 </ul>
                               </div>
