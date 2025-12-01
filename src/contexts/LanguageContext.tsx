@@ -78,7 +78,7 @@ const translations = {
     'process.step4.title': 'Käynti työpaikalla ja dokumentaation valmistelu',
     'process.step4.desc': 'Kartoitamme yrityksesi tarpeet ja riskit, ja valmistelutarvittavan dokumentaation.',
     'process.step5.title': 'Seuranta ja Kela-korvaukset',
-    'process.step5.desc': 'Päivitämme toimintasuunnitelmaa ja tilikauden päätteeksi haemme Kela-korvaukset.',
+    'process.step5.desc': 'Päivitämme toimintasuunnitelmaa ja tilikauden päätteeksi autamme hakemaan Kela-korvaukset.',
     
     // Team
     'team.title': 'Tiimimme',
