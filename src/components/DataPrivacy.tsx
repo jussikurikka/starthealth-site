@@ -21,7 +21,7 @@ const DataPrivacy = () => {
     title: 'Viranomaisluvat',
     points: ['Yritys on rekisteröity Valviran sosiaali- ja terveydenhuollon palveluntuottajarekisteriin (Soteri)', 'Toimintaa ohjaavat Valviran ohjeet sekä terveydenhuolto- ja työterveyshuoltolaki', 'Työntekijöillä on lain edellyttämät terveydenhuollon pohjakoulutukset sekä työterveyshuollon lisäkoulutukset']
   }];
-  return <section className="py-20 bg-secondary/30">
+  return <section id="privacy" className="py-20 bg-secondary/30 scroll-mt-20">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12 max-w-4xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-gradient">
