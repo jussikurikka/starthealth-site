@@ -5,7 +5,8 @@ import logo from '@/assets/logo.png';
 
 const Hero = () => {
   const {
-    t
+    t,
+    language
   } = useLanguage();
   const scrollToContact = () => {
     document.getElementById('contact')?.scrollIntoView({
@@ -84,10 +85,12 @@ const Hero = () => {
                   <Wallet className="w-8 h-8 text-white" />
                 </div>
               </div>
-              <h3 className="font-bold text-xl mb-2 text-foreground text-center">Edullinen hinta</h3>
+              <h3 className="font-bold text-xl mb-2 text-foreground text-center">
+                {language === 'en' ? 'Affordable pricing' : 'Edullinen hinta'}
+              </h3>
               <div className="w-16 h-1 mx-auto mb-4 bg-gradient-primary rounded-full"></div>
               <p className="text-sm text-muted-foreground text-center leading-relaxed">
-                Enemmän arvoa, vähemmän kuluja
+                {language === 'en' ? 'More value, fewer costs.' : 'Enemmän arvoa, vähemmän kuluja'}
               </p>
             </div>
             
@@ -97,11 +100,15 @@ const Hero = () => {
                   <ShieldCheck className="w-8 h-8 text-white" />
                 </div>
               </div>
-              <h3 className="font-bold text-xl mb-2 text-foreground text-center">Kiinteä hinta
-
-            </h3>
+              <h3 className="font-bold text-xl mb-2 text-foreground text-center">
+                {language === 'en' ? 'Fixed monthly price' : 'Kiinteä hinta'}
+              </h3>
               <div className="w-16 h-1 mx-auto mb-4 bg-gradient-primary rounded-full"></div>
-              <p className="text-sm text-muted-foreground text-center leading-relaxed">Ennustettava hinta, selkeä budjetti. Kuukausihinta pitää kaiken läpinäkyvänä. Ei piilokuluja, ei epämiellyttäviä yllätyksiä.</p>
+              <p className="text-sm text-muted-foreground text-center leading-relaxed">
+                {language === 'en' 
+                  ? 'Predictable costs and a clear budget. A monthly fee keeps everything transparent. No hidden fees, no unpleasant surprises.' 
+                  : 'Ennustettava hinta, selkeä budjetti. Kuukausihinta pitää kaiken läpinäkyvänä. Ei piilokuluja, ei epämiellyttäviä yllätyksiä.'}
+              </p>
             </div>
             
             <div className="group p-8 rounded-2xl bg-card border border-border shadow-lg hover:shadow-glow hover:-translate-y-2 hover:bg-primary/5 transition-all duration-300">
@@ -110,10 +117,14 @@ const Hero = () => {
                   <Users className="w-8 h-8 text-white" />
                 </div>
               </div>
-              <h3 className="font-bold text-xl mb-2 text-foreground text-center">Työnantaja keskiössä</h3>
+              <h3 className="font-bold text-xl mb-2 text-foreground text-center">
+                {language === 'en' ? 'Employer-focused' : 'Työnantaja keskiössä'}
+              </h3>
               <div className="w-16 h-1 mx-auto mb-4 bg-gradient-primary rounded-full"></div>
               <p className="text-sm text-muted-foreground text-center leading-relaxed">
-                Helppoa ja tehokasta. Me hoidamme työterveyden, jotta sinä voit keskittyä tiimiisi.
+                {language === 'en' 
+                  ? 'Simple and efficient. We take care of occupational health so you can focus on your team.' 
+                  : 'Helppoa ja tehokasta. Me hoidamme työterveyden, jotta sinä voit keskittyä tiimiisi.'}
               </p>
             </div>
           </div>
