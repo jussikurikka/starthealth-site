@@ -99,6 +99,8 @@ const translations = {
     // Footer
     'footer.tagline': 'Moderni työterveyshuolto startup-yrityksille',
     'footer.rights': 'Kaikki oikeudet pidätetään',
+    'footer.privacy': 'Tietosuojaseloste',
+    'footer.terms': 'Käyttöehdot',
     
     // Calculator
     'calculator.openButton': 'Avaa hintalaskuri',
@@ -220,6 +222,8 @@ const translations = {
     // Footer
     'footer.tagline': 'Modern occupational health for startups',
     'footer.rights': 'All rights reserved',
+    'footer.privacy': 'Privacy Policy',
+    'footer.terms': 'Terms of Use',
     
     // Calculator
     'calculator.openButton': 'Open Price Calculator',
