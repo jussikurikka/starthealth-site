@@ -19,7 +19,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="opacity-75 hover:opacity-100 transition-opacity hover:underline"
             >
-              Tietosuoja
+              Tietosuojaseloste
             </a>
             <a 
               href="/kayttoehdot.pdf" 
