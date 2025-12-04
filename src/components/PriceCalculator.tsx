@@ -59,6 +59,7 @@ const PriceCalculator = () => {
   const { t } = useLanguage();
   const [isExpanded, setIsExpanded] = useState(false);
   const [employees, setEmployees] = useState<string>('');
+  const [founders, setFounders] = useState<string>('');
   const [selectedPackage, setSelectedPackage] = useState<'Minimum' | 'Basic' | 'Support'>('Basic');
   const [location, setLocation] = useState<string>('');
   const [isRiskIndustry, setIsRiskIndustry] = useState<string>('');
@@ -67,9 +68,10 @@ const PriceCalculator = () => {
   const [hasCalculatedOnce, setHasCalculatedOnce] = useState(false);
 
   const calculatePrice = useCallback(() => {
-    const employeeCount = parseInt(employees);
+    const employeeCount = parseInt(employees) || 0;
+    const founderCount = parseInt(founders) || 0;
     
-    if (isNaN(employeeCount) || employeeCount < 1) {
+    if (employeeCount < 0 || founderCount < 0) {
       return;
     }
 
@@ -84,11 +86,27 @@ const PriceCalculator = () => {
       return;
     }
 
-    // Check if employee count is in our pricing table (1-50)
-    const pricePerEmployee = pricingConfig[selectedPackage][employeeCount];
+    // Calculate billable count based on new logic
+    let billableCount: number;
+    if (employeeCount >= 5) {
+      // Founders are free when employees >= 5
+      billableCount = employeeCount;
+    } else {
+      // For small companies: employees + founders, capped at 5
+      const totalCount = employeeCount + founderCount;
+      billableCount = Math.min(totalCount, 5);
+    }
+
+    // Need at least 1 person to calculate
+    if (billableCount < 1) {
+      return;
+    }
+
+    // Check if billable count is in our pricing table (1-50)
+    const pricePerEmployee = pricingConfig[selectedPackage][billableCount];
     
     if (pricePerEmployee === undefined) {
-      // Employee count not in table
+      // Billable count not in table
       setResult({
         priceBeforeKela: 0,
         priceAfterKela: 0,
@@ -98,8 +116,8 @@ const PriceCalculator = () => {
       return;
     }
 
-    // Calculate total monthly price (price per employee × employee count)
-    const monthlyPrice = employeeCount * pricePerEmployee;
+    // Calculate total monthly price (price per employee × billable count)
+    const monthlyPrice = billableCount * pricePerEmployee;
     const priceAfterKela = monthlyPrice * 0.45; // 55% Kela subsidy
 
     setResult({
@@ -108,11 +126,13 @@ const PriceCalculator = () => {
       showRiskWarning: false,
       showOutOfRangeWarning: false,
     });
-  }, [selectedPackage, isRiskIndustry]);
+  }, [employees, founders, selectedPackage, isRiskIndustry]);
 
   const isFormValid = () => {
-    return employees !== '' && 
-           parseInt(employees) >= 1 && 
+    const employeeCount = parseInt(employees) || 0;
+    const founderCount = parseInt(founders) || 0;
+    return (employeeCount >= 0 || founderCount >= 0) && 
+           (employeeCount + founderCount) >= 1 &&
            location !== '' && 
            isRiskIndustry !== '';
   };
@@ -122,7 +142,7 @@ const PriceCalculator = () => {
     if (hasCalculatedOnce && isFormValid()) {
       calculatePrice();
     }
-  }, [employees, selectedPackage, location, isRiskIndustry, hasCalculatedOnce, calculatePrice]);
+  }, [employees, founders, selectedPackage, location, isRiskIndustry, hasCalculatedOnce, calculatePrice]);
 
   const handleLocationChange = (value: string) => {
     setLocation(value);
@@ -185,18 +205,34 @@ const PriceCalculator = () => {
                 <Input
                   id="employees"
                   type="number"
-                  min="1"
+                  min="0"
                   max="50"
                   value={employees}
                   onChange={(e) => setEmployees(e.target.value)}
                   placeholder={t('calculator.employeesPlaceholder')}
                   className="text-base"
                 />
-                {employees && (parseInt(employees) < 1 || parseInt(employees) > 50) && (
-                  <p className="text-sm text-destructive">{t('calculator.employeesError')}</p>
-                )}
               </div>
 
+              {/* Founder Count */}
+              <div className="space-y-2">
+                <Label htmlFor="founders" className="text-base font-semibold">
+                  {t('calculator.foundersLabel')}
+                </Label>
+                <Input
+                  id="founders"
+                  type="number"
+                  min="0"
+                  max="10"
+                  value={founders}
+                  onChange={(e) => setFounders(e.target.value)}
+                  placeholder={t('calculator.foundersPlaceholder')}
+                  className="text-base"
+                />
+              </div>
+            </div>
+
+            <div className="grid md:grid-cols-1 gap-6">
               {/* Location */}
               <div className="space-y-2">
                 <Label htmlFor="location" className="text-base font-semibold">
