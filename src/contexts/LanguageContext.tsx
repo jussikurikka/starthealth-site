@@ -132,6 +132,9 @@ const translations = {
     'calculator.priceAfterKelaTitle': 'Arvioitu nettokustannus (55 % Kela-korvauksella)',
     'calculator.kelaSubsidyInfo': 'Kela korvaa tyypillisesti noin 50–60 % työterveyshuollon kustannuksista. Laskelma käyttää esimerkkinä 55 % korvausta.',
     'calculator.disclaimer': 'Hintalaskuri antaa suuntaa-antavan hinnan matala-altisteisille aloille. Lopullinen hinta tarkentuu tarvekartoituksen ja sopimuksen yhteydessä.',
+    
+    // Booking
+    'booking.comingSoon': 'Ajanvaraus tulossa 1.1.2026 alkaen. Pahoittelemme, ettei palvelu ole vielä käytössä.',
   },
   en: {
     // Navigation
@@ -256,6 +259,9 @@ const translations = {
     'calculator.priceAfterKelaTitle': 'Estimated net cost (with 55% Kela reimbursement)',
     'calculator.kelaSubsidyInfo': 'Kela typically reimburses about 50-60% of occupational health costs. This calculation uses 55% reimbursement as an example.',
     'calculator.disclaimer': 'The price calculator provides an estimated price for low-exposure industries. Final price will be confirmed during needs assessment and contract.',
+    
+    // Booking
+    'booking.comingSoon': 'Booking available from January 1, 2026. We apologize that this service is not yet available.',
   },
 };
 
