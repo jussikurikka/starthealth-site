@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Menu, X, Globe, EyeOff } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useLanguage } from '@/contexts/LanguageContext';
+import { toast } from 'sonner';
 import logo from '@/assets/logo.png';
 
 const Navigation = () => {
@@ -66,7 +67,7 @@ const Navigation = () => {
             <Button
               variant="default"
               size="sm"
-              onClick={() => window.open('https://starthealth.digitalo.com/varaus/', '_blank')}
+              onClick={() => toast.info(t('booking.comingSoon'))}
               className="bg-gradient-primary hover:opacity-90 transition-opacity shadow-lg hover:shadow-glow ml-4"
             >
               {t('nav.booking')}
@@ -137,7 +138,7 @@ const Navigation = () => {
               variant="default"
               size="sm"
               onClick={() => {
-                window.open('https://starthealth.digitalo.com/varaus/', '_blank');
+                toast.info(t('booking.comingSoon'));
                 setIsOpen(false);
               }}
               className="w-full bg-gradient-primary hover:opacity-90 transition-opacity shadow-lg mt-4"
