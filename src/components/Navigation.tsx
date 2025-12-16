@@ -15,7 +15,7 @@ const Navigation = () => {
     { key: 'nav.services', href: '#services', hidden: false },
     { key: 'nav.pricing', href: '#calculator', hidden: false },
     { key: 'nav.privacy', href: '#privacy', hidden: false },
-    { key: 'nav.about', href: '#about', hidden: true }, // Hidden from public
+    { key: 'nav.about', href: '#about', hidden: false },
     { key: 'nav.contact', href: '#contact', hidden: false },
   ];
 
