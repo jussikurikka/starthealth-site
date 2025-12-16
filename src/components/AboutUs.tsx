@@ -40,7 +40,7 @@ const AboutUs = () => {
       <div className="bg-secondary/30 py-16 lg:py-20">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center space-y-6">
-            <span className="text-sm font-semibold tracking-widest uppercase text-primary">
+            <span className="text-2xl md:text-3xl font-semibold tracking-widest uppercase text-primary">
               Missio
             </span>
             <p className="text-xl md:text-2xl text-foreground leading-relaxed font-medium">
