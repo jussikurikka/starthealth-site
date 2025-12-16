@@ -1,5 +1,4 @@
 import aboutHeroImage from '@/assets/about-hero.jpg';
-import foundersTeamImage from '@/assets/founders-team.jpg';
 
 const AboutUs = () => {
 
@@ -47,25 +46,6 @@ const AboutUs = () => {
             <p className="text-xl md:text-2xl text-foreground leading-relaxed font-medium">
               Missiomme on rakentaa työterveyshuoltoa, joka tukee sekä ihmisiä että liiketoimintaa. 
               Toimimme selkeästi, läpinäkyvästi ja pitkäjänteisesti.
-            </p>
-          </div>
-        </div>
-      </div>
-
-      {/* 3. Founders Image Section */}
-      <div className="bg-background py-20 lg:py-28">
-        <div className="container mx-auto px-4">
-          <div className="max-w-4xl mx-auto">
-            <div className="aspect-[16/9] rounded-2xl overflow-hidden shadow-elegant mb-8">
-              <img 
-                src={foundersTeamImage} 
-                alt="StartHealthin perustajatiimi" 
-                className="w-full h-full object-cover"
-              />
-            </div>
-            <p className="text-lg md:text-xl text-muted-foreground text-center leading-relaxed max-w-2xl mx-auto">
-              StartHealthin taustalla on nuorten lääkärien perustajatiimi, jota tukee kokenut 
-              terveydenhuollon alan asiantuntijaverkosto.
             </p>
           </div>
         </div>
