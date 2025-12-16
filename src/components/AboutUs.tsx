@@ -1,12 +1,7 @@
-import { Button } from '@/components/ui/button';
-import { ArrowRight } from 'lucide-react';
 import aboutHeroImage from '@/assets/about-hero.jpg';
 import foundersTeamImage from '@/assets/founders-team.jpg';
 
 const AboutUs = () => {
-  const scrollToServices = () => {
-    document.getElementById('services')?.scrollIntoView({ behavior: 'smooth' });
-  };
 
   return (
     <section id="about" className="overflow-hidden">
@@ -117,21 +112,6 @@ const AboutUs = () => {
         </div>
       </div>
 
-      {/* 5. CTA Section */}
-      <div className="bg-background py-20 lg:py-24">
-        <div className="container mx-auto px-4">
-          <div className="text-center">
-            <Button 
-              onClick={scrollToServices}
-              size="lg"
-              className="bg-gradient-primary hover:opacity-90 transition-opacity shadow-lg hover:shadow-glow group"
-            >
-              Tutustu palveluihin
-              <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
-            </Button>
-          </div>
-        </div>
-      </div>
     </section>
   );
 };
