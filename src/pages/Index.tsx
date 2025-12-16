@@ -3,7 +3,7 @@ import Hero from '@/components/Hero';
 import ServicePackages from '@/components/ServicePackages';
 import PriceCalculator from '@/components/PriceCalculator';
 import Process from '@/components/Process';
-import Team from '@/components/Team';
+import AboutUs from '@/components/AboutUs';
 import DataPrivacy from '@/components/DataPrivacy';
 import ContactForm from '@/components/ContactForm';
 import Footer from '@/components/Footer';
@@ -16,7 +16,7 @@ const Index = () => {
       <ServicePackages />
       <PriceCalculator />
       <Process />
-      <Team />
+      <AboutUs />
       <DataPrivacy />
       <ContactForm />
       <Footer />
