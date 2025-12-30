@@ -2,7 +2,6 @@ import { useState } from 'react';
 import { Menu, X, Globe, EyeOff } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { toast } from 'sonner';
 import logo from '@/assets/logo.png';
 
 const Navigation = () => {
@@ -67,10 +66,16 @@ const Navigation = () => {
             <Button
               variant="default"
               size="sm"
-              onClick={() => toast.info(t('booking.comingSoon'))}
+              asChild
               className="bg-gradient-primary hover:opacity-90 transition-opacity shadow-lg hover:shadow-glow ml-4"
             >
-              {t('nav.booking')}
+              <a
+                href="https://asiointi.starthealth.fi/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {t('nav.booking')}
+              </a>
             </Button>
             
             <Button
@@ -137,13 +142,18 @@ const Navigation = () => {
             <Button
               variant="default"
               size="sm"
-              onClick={() => {
-                toast.info(t('booking.comingSoon'));
-                setIsOpen(false);
-              }}
+              asChild
               className="w-full bg-gradient-primary hover:opacity-90 transition-opacity shadow-lg mt-4"
             >
-              {t('nav.booking')}
+              <a
+                href="https://asiointi.starthealth.fi/"
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => setIsOpen(false)}
+                className="flex items-center justify-center"
+              >
+                {t('nav.booking')}
+              </a>
             </Button>
           </div>
         )}
