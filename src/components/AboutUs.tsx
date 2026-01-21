@@ -92,18 +92,18 @@ const AboutUs = () => {
 
             {/* Founders subsection */}
             <div className="mt-16 lg:mt-20">
-              <h3 className="text-2xl md:text-3xl font-bold text-foreground mb-8">
+              <h3 className="text-2xl md:text-3xl font-bold text-foreground mb-8 text-center">
                 Perustajat
               </h3>
-              <div className="max-w-md">
-                <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-elegant mb-4">
+              <div className="max-w-2xl mx-auto">
+                <div className="aspect-[3/2] rounded-2xl overflow-hidden shadow-elegant mb-6">
                   <img 
                     src={foundersImage} 
                     alt="StartHealthin perustajat Jussi Kurikka ja Valtteri Järvenpää" 
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <p className="text-muted-foreground">
+                <p className="text-muted-foreground text-center text-lg">
                   Kuvassa StartHealth:n perustajat Jussi Kurikka ja Valtteri Järvenpää
                 </p>
               </div>
