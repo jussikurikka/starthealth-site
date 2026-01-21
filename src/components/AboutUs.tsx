@@ -1,7 +1,9 @@
 import aboutHeroImage from '@/assets/about-hero.jpg';
 import foundersImage from '@/assets/founders.png';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 const AboutUs = () => {
+  const { t } = useLanguage();
 
   return (
     <section id="about" className="overflow-hidden">
@@ -93,18 +95,18 @@ const AboutUs = () => {
             {/* Founders subsection */}
             <div className="mt-16 lg:mt-20">
               <h3 className="text-2xl md:text-3xl font-bold text-foreground mb-8 text-center">
-                Perustajat
+                {t('founders.title')}
               </h3>
               <div className="max-w-2xl mx-auto">
                 <div className="aspect-[3/2] rounded-2xl overflow-hidden shadow-elegant mb-6">
                   <img 
                     src={foundersImage} 
-                    alt="StartHealthin perustajat Jussi Kurikka ja Valtteri Järvenpää" 
+                    alt={t('founders.caption')} 
                     className="w-full h-full object-cover"
                   />
                 </div>
                 <p className="text-muted-foreground text-center text-lg">
-                  Kuvassa StartHealth:n perustajat Jussi Kurikka ja Valtteri Järvenpää
+                  {t('founders.caption')}
                 </p>
               </div>
             </div>
