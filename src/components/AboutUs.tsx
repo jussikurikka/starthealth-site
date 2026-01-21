@@ -95,26 +95,17 @@ const AboutUs = () => {
               <h3 className="text-2xl md:text-3xl font-bold text-foreground mb-8">
                 Perustajat
               </h3>
-              <div className="flex flex-col md:flex-row items-center gap-8 lg:gap-12">
-                <div className="w-full md:w-1/2 lg:w-2/5">
-                  <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-elegant">
-                    <img 
-                      src={foundersImage} 
-                      alt="StartHealthin perustajat" 
-                      className="w-full h-full object-cover"
-                    />
-                  </div>
+              <div className="max-w-md">
+                <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-elegant mb-4">
+                  <img 
+                    src={foundersImage} 
+                    alt="StartHealthin perustajat Jussi Kurikka ja Valtteri Järvenpää" 
+                    className="w-full h-full object-cover"
+                  />
                 </div>
-                <div className="w-full md:w-1/2 lg:w-3/5 space-y-4">
-                  <div className="space-y-1">
-                    <p className="text-lg font-semibold text-foreground">Janne Puustinen</p>
-                    <p className="text-muted-foreground">Toimitusjohtaja</p>
-                  </div>
-                  <div className="space-y-1">
-                    <p className="text-lg font-semibold text-foreground">Mikko Puustinen</p>
-                    <p className="text-muted-foreground">Vastaava työterveyslääkäri</p>
-                  </div>
-                </div>
+                <p className="text-muted-foreground">
+                  Kuvassa StartHealth:n perustajat Jussi Kurikka ja Valtteri Järvenpää
+                </p>
               </div>
             </div>
           </div>
