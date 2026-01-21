@@ -85,6 +85,10 @@ const translations = {
     'team.subtitle': 'Kolme nuorta lääkäriä, jotka haluavat tehdä työterveydestä järkevän kokonaisuuden startup-yrityksille',
     'team.founder': 'Perustaja',
     
+    // Founders
+    'founders.title': 'Perustajat',
+    'founders.caption': 'Kuvassa StartHealth:n perustajat Jussi Kurikka ja Valtteri Järvenpää',
+    
     // Contact
     'contact.title': 'Ota yhteyttä',
     'contact.subtitle': 'Otamme sinuun yhteyttä pikaisesti',
@@ -211,6 +215,10 @@ const translations = {
     'team.title': 'Our Team',
     'team.subtitle': 'Three young doctors who want to make occupational health a sensible solution for startups',
     'team.founder': 'Founder',
+    
+    // Founders
+    'founders.title': 'Founders',
+    'founders.caption': 'In the photo: StartHealth founders Jussi Kurikka and Valtteri Järvenpää',
     
     // Contact
     'contact.title': 'Contact Us',
