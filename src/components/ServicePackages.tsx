@@ -127,9 +127,9 @@ const ServicePackages = () => {
                       <Badge 
                         variant="secondary" 
                         className="bg-primary/10 text-primary px-4 py-1.5 text-sm"
-                        aria-label={language === 'en' ? 'Support package available spring 2026' : 'Support-paketti tulee saataville keväällä 2026'}
+                        aria-label={language === 'en' ? 'Support package available April 2026' : 'Support-paketti tulee saataville huhtikuussa 2026'}
                       >
-                        {language === 'en' ? 'Coming in Spring 2026' : 'Tulossa keväällä 2026'}
+                        {language === 'en' ? 'Coming in April 2026' : 'Tulossa huhtikuussa 2026'}
                       </Badge>
                     </div>
                   )}
@@ -299,7 +299,7 @@ const ServicePackages = () => {
                                   </li>
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
-                                    <span className="text-base leading-relaxed">Työterveyslääkärin määräämät ja lopulliseen sopimukseen rajatut diagnostiset laboratorio- ja kuvantamistutkimukset.</span>
+                                    <span className="text-base leading-relaxed">Työterveyslääkärin määräämät ja lopulliseen sopimukseen rajatut diagnostiset laboratoriotutkimukset.</span>
                                   </li>
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
