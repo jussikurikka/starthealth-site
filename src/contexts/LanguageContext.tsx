@@ -89,6 +89,17 @@ const translations = {
     'founders.title': 'Perustajat',
     'founders.caption': 'Kuvassa StartHealth:n perustajat Jussi Kurikka ja Valtteri Järvenpää',
     
+    // About Us
+    'about.hero.title': 'Työterveyttä, joka on rakennettu ymmärrettäväksi.',
+    'about.hero.subtitle': 'StartHealth on lääkärivetoisesti rakennettu työterveyspalvelu, joka yhdistää lääketieteellisen laadun, digitaalisen saavutettavuuden ja yritysten arjen ymmärtämisen.',
+    'about.mission.label': 'Missio',
+    'about.mission.text': 'Missiomme on rakentaa työterveyshuoltoa, joka tukee sekä ihmisiä että liiketoimintaa. Toimimme selkeästi, läpinäkyvästi ja pitkäjänteisesti.',
+    'about.story.title': 'Miksi StartHealth syntyi',
+    'about.story.p1': 'StartHealth sai alkunsa havainnoista, joita teimme seurattuamme läheltä startup-yrittäjien ja pienyritysten arkea. Monille työterveyshuollon järjestäminen näyttäytyi vaikeana ja epäselvänä kokonaisuutena – jopa tilanteissa, joissa yrittäjä tai työnantaja oli itse terveydenhuollon ammattilainen.',
+    'about.story.p2': 'Myös perustajilla itsellään on kokemusta aiemmista yrityksistä, joissa työterveyshuollon palveluiden sisältö, viestintä ja laskutus jäivät etäisiksi ja vaikeasti hahmotettaviksi. Sekä työnantajat että työntekijät toivovat yhä useammin työterveyden olevan läpinäkyvä, ennakoitava ja selkeästi viestitty kokonaisuus.',
+    'about.story.p3': 'Samanaikaisesti julkinen keskustelu ja media ovat nostaneet esiin laskutukseen ja hinnoitteluun liittyviä epäselvyyksiä, jotka ovat osaltaan heikentäneet luottamusta työterveyshuollon palveluihin.',
+    'about.story.p4': 'Näiden havaintojen pohjalta syntyi StartHealth: halu rakentaa työterveyshuoltoa, joka vastaa paremmin työnantajien ja työntekijöiden todellisia tarpeita – selkeästi, reilusti ja lääketieteellisesti vastuullisesti.',
+    
     // Contact
     'contact.title': 'Ota yhteyttä',
     'contact.subtitle': 'Otamme sinuun yhteyttä pikaisesti',
@@ -219,6 +230,17 @@ const translations = {
     // Founders
     'founders.title': 'Founders',
     'founders.caption': 'In the photo: StartHealth founders Jussi Kurikka and Valtteri Järvenpää',
+    
+    // About Us
+    'about.hero.title': 'Occupational health built to be understood.',
+    'about.hero.subtitle': 'StartHealth is a physician-led occupational health service that combines medical quality, digital accessibility, and understanding of everyday business needs.',
+    'about.mission.label': 'Mission',
+    'about.mission.text': 'Our mission is to build occupational healthcare that supports both people and business. We operate clearly, transparently, and with a long-term perspective.',
+    'about.story.title': 'Why StartHealth was founded',
+    'about.story.p1': 'StartHealth originated from observations we made while closely following the daily lives of startup entrepreneurs and small businesses. For many, organizing occupational health appeared difficult and unclear – even in situations where the entrepreneur or employer was a healthcare professional themselves.',
+    'about.story.p2': 'The founders themselves also have experience from previous companies where the content, communication, and billing of occupational health services remained distant and hard to grasp. Both employers and employees increasingly want occupational health to be transparent, predictable, and clearly communicated.',
+    'about.story.p3': 'At the same time, public discussion and media have highlighted billing and pricing ambiguities that have partly eroded trust in occupational health services.',
+    'about.story.p4': 'From these observations, StartHealth was born: a desire to build occupational healthcare that better meets the real needs of employers and employees – clearly, fairly, and with medical responsibility.',
     
     // Contact
     'contact.title': 'Contact Us',

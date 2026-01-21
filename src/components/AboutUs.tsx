@@ -14,11 +14,10 @@ const AboutUs = () => {
             {/* Left - Text */}
             <div className="space-y-6 lg:pr-8">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-foreground">
-                Työterveyttä, joka on rakennettu ymmärrettäväksi.
+                {t('about.hero.title')}
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-xl">
-                StartHealth on lääkärivetoisesti rakennettu työterveyspalvelu, joka yhdistää 
-                lääketieteellisen laadun, digitaalisen saavutettavuuden ja yritysten arjen ymmärtämisen.
+                {t('about.hero.subtitle')}
               </p>
             </div>
             
@@ -27,7 +26,7 @@ const AboutUs = () => {
               <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-elegant">
                 <img 
                   src={aboutHeroImage} 
-                  alt="Terveydenhuollon ammattilaiset keskustelemassa" 
+                  alt="Healthcare professionals discussing" 
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -44,11 +43,10 @@ const AboutUs = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center space-y-6">
             <span className="text-2xl md:text-3xl font-semibold tracking-widest uppercase text-primary">
-              Missio
+              {t('about.mission.label')}
             </span>
             <p className="text-xl md:text-2xl text-foreground leading-relaxed font-medium">
-              Missiomme on rakentaa työterveyshuoltoa, joka tukee sekä ihmisiä että liiketoimintaa. 
-              Toimimme selkeästi, läpinäkyvästi ja pitkäjänteisesti.
+              {t('about.mission.text')}
             </p>
           </div>
         </div>
@@ -59,35 +57,25 @@ const AboutUs = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-5xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-12 text-center lg:text-left">
-              Miksi StartHealth syntyi
+              {t('about.story.title')}
             </h2>
             
             <div className="grid lg:grid-cols-2 gap-8 lg:gap-12">
               <div className="space-y-6">
                 <p className="text-muted-foreground leading-relaxed">
-                  StartHealth sai alkunsa havainnoista, joita teimme seurattuamme läheltä startup-yrittäjien 
-                  ja pienyritysten arkea. Monille työterveyshuollon järjestäminen näyttäytyi vaikeana ja 
-                  epäselvänä kokonaisuutena – jopa tilanteissa, joissa yrittäjä tai työnantaja oli itse 
-                  terveydenhuollon ammattilainen.
+                  {t('about.story.p1')}
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                  Myös perustajilla itsellään on kokemusta aiemmista yrityksistä, joissa työterveyshuollon 
-                  palveluiden sisältö, viestintä ja laskutus jäivät etäisiksi ja vaikeasti hahmotettaviksi. 
-                  Sekä työnantajat että työntekijät toivovat yhä useammin työterveyden olevan läpinäkyvä, 
-                  ennakoitava ja selkeästi viestitty kokonaisuus.
+                  {t('about.story.p2')}
                 </p>
               </div>
               
               <div className="space-y-6">
                 <p className="text-muted-foreground leading-relaxed">
-                  Samanaikaisesti julkinen keskustelu ja media ovat nostaneet esiin laskutukseen ja 
-                  hinnoitteluun liittyviä epäselvyyksiä, jotka ovat osaltaan heikentäneet luottamusta 
-                  työterveyshuollon palveluihin.
+                  {t('about.story.p3')}
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                  Näiden havaintojen pohjalta syntyi StartHealth: halu rakentaa työterveyshuoltoa, joka 
-                  vastaa paremmin työnantajien ja työntekijöiden todellisia tarpeita – selkeästi, reilusti 
-                  ja lääketieteellisesti vastuullisesti.
+                  {t('about.story.p4')}
                 </p>
               </div>
             </div>
