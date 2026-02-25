@@ -55,14 +55,16 @@ const Hero = () => {
       {/* Content */}
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-4xl mx-auto text-center space-y-8 animate-fade-in-up">
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-            {t('hero.title')}
-            <br />
-            <span className="text-gradient">{t('hero.titleHighlight')}</span>
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
+            {language === 'fi' 
+              ? 'Työterveyshuolto pk-yrityksille ja 1–200 työntekijän yrityksille'
+              : 'Occupational health for SMEs with 1–200 employees'}
           </h1>
 
-          <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-            {t('hero.subtitle')}
+          <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
+            {language === 'fi'
+              ? 'Tarjoamme lakisääteistä työterveyshuoltoa matala-altisteisille toimialoille. Selkeä ja ennakoitava palvelumalli, jossa hoitoon pääsee nopeasti – ilman turhaa byrokratiaa.'
+              : 'We provide statutory occupational health services for low-exposure industries. A clear, predictable service model with fast access to care – without unnecessary bureaucracy.'}
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
