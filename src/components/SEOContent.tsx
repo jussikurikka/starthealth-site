@@ -34,19 +34,19 @@ const SEOContent = () => {
         <div className="container mx-auto px-4 max-w-4xl">
           <h2 className="text-2xl md:text-4xl font-bold mb-6 text-foreground">
             {language === 'fi'
-              ? 'Työterveyshuolto Helsingissä, Espoossa, Vantaalla ja Tampereella'
-              : 'Occupational health in Helsinki, Espoo, Vantaa and Tampere'}
+              ? 'Työterveyshuolto Helsingissä ja Tampereella'
+              : 'Occupational health in Helsinki and Tampere'}
           </h2>
           <div className="space-y-4 text-muted-foreground leading-relaxed">
             <p>
               {language === 'fi'
-                ? 'Palvelemme pk-yrityksiä pääkaupunkiseudulla – Helsingissä, Espoossa ja Vantaalla – sekä Tampereella. Tarjoamme lakisääteistä työterveyshuoltoa 1–200 työntekijän yrityksille näillä alueilla. Etäpalvelumme mahdollistavat nopean hoitoon pääsyn sijainnista riippumatta.'
-                : 'We serve SMEs in the Helsinki metropolitan area – Helsinki, Espoo, and Vantaa – as well as Tampere. We offer statutory occupational health services for companies with 1–200 employees in these regions. Our remote services enable fast access to care regardless of location.'}
+                ? 'Palvelemme pk-yrityksiä Helsingissä ja Tampereella. Tarjoamme lakisääteistä työterveyshuoltoa 1–200 työntekijän yrityksille näillä paikkakunnilla. Etäpalvelumme mahdollistavat nopean hoitoon pääsyn sijainnista riippumatta.'
+                : 'We serve SMEs in Helsinki and Tampere. We offer statutory occupational health services for companies with 1–200 employees in these cities. Our remote services enable fast access to care regardless of location.'}
             </p>
             <p>
               {language === 'fi'
-                ? 'Pirkanmaalla ja Uudellamaalla toimivien yritysten on helppo aloittaa kanssamme – kartoitamme yrityksesi tarpeet ja rakennamme palvelun, joka sopii juuri teidän tilanteeseen. Myös muualla Suomessa toimivat yritykset voivat hyödyntää etäpalveluitamme.'
-                : 'Companies operating in Pirkanmaa and Uusimaa can easily get started with us – we assess your company\'s needs and build a service that fits your situation. Companies elsewhere in Finland can also benefit from our remote services.'}
+                ? 'Helsingissä ja Tampereella toimivien yritysten on helppo aloittaa kanssamme – kartoitamme yrityksesi tarpeet ja rakennamme palvelun, joka sopii juuri teidän tilanteeseen. Myös muualla Suomessa toimivat yritykset voivat hyödyntää etäpalveluitamme.'
+                : 'Companies in Helsinki and Tampere can easily get started with us – we assess your company\'s needs and build a service that fits your situation. Companies elsewhere in Finland can also benefit from our remote services.'}
             </p>
           </div>
         </div>
