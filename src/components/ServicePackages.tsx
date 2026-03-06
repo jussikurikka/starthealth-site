@@ -279,7 +279,6 @@ const ServicePackages = () => {
                         </div>
                       </DialogContent>
                     </Dialog>
-                  )}
                 </CardFooter>
               </Card>
             );
