@@ -93,17 +93,13 @@ const ServicePackages = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
           {packages.map((pkg, index) => {
-            const isComingSoon = index === 2; // Support package
-            
             return (
               <Card 
                 key={index} 
                 className={`relative transition-all ${
-                  isComingSoon 
-                    ? 'opacity-60 border border-border' 
-                    : pkg.popular 
-                      ? 'border-2 border-primary shadow-md scale-105 hover:shadow-lg' 
-                      : 'border border-border hover:shadow-lg'
+                  pkg.popular 
+                    ? 'border-2 border-primary shadow-md scale-105 hover:shadow-lg' 
+                    : 'border border-border hover:shadow-lg'
                 }`}
               >
                 {pkg.popular && (
