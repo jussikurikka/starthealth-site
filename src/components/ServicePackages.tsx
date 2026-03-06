@@ -128,16 +128,6 @@ const ServicePackages = () => {
                 </CardContent>
                 
                 <CardFooter className="pt-4">
-                  {isComingSoon ? (
-                    <Button 
-                      variant="outline" 
-                      className="w-full bg-muted text-muted-foreground cursor-not-allowed"
-                      disabled
-                      aria-label="Paketti ei ole vielä saatavilla"
-                    >
-                      Ei vielä saatavilla
-                    </Button>
-                  ) : (
                     <Dialog>
                       <DialogTrigger asChild>
                         <Button 
