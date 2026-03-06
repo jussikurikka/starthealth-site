@@ -93,17 +93,13 @@ const ServicePackages = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
           {packages.map((pkg, index) => {
-            const isComingSoon = index === 2; // Support package
-            
             return (
               <Card 
                 key={index} 
                 className={`relative transition-all ${
-                  isComingSoon 
-                    ? 'opacity-60 border border-border' 
-                    : pkg.popular 
-                      ? 'border-2 border-primary shadow-md scale-105 hover:shadow-lg' 
-                      : 'border border-border hover:shadow-lg'
+                  pkg.popular 
+                    ? 'border-2 border-primary shadow-md scale-105 hover:shadow-lg' 
+                    : 'border border-border hover:shadow-lg'
                 }`}
               >
                 {pkg.popular && (
@@ -118,32 +114,13 @@ const ServicePackages = () => {
                   <CardTitle className="text-2xl">{pkg.name}</CardTitle>
                   <CardDescription>{pkg.description}</CardDescription>
                   
-                  {isComingSoon && (
-                    <div className="flex flex-col items-center space-y-3 pt-4">
-                      <Lock 
-                        className="h-12 w-12 text-muted-foreground" 
-                        aria-label={language === 'en' ? 'Package not yet available' : 'Paketti ei ole vielä käytettävissä'}
-                      />
-                      <Badge 
-                        variant="secondary" 
-                        className="bg-primary/10 text-primary px-4 py-1.5 text-sm"
-                        aria-label={language === 'en' ? 'Support package available April 2026' : 'Support-paketti tulee saataville huhtikuussa 2026'}
-                      >
-                        {language === 'en' ? 'Coming in April 2026' : 'Tulossa huhtikuussa 2026'}
-                      </Badge>
-                    </div>
-                  )}
                 </CardHeader>
                 
                 <CardContent className="space-y-2 pb-4">
                   {pkg.features.map((feature, i) => (
                     <div key={i} className="flex items-start space-x-2">
-                      <Check className={`h-5 w-5 flex-shrink-0 mt-0.5 ${
-                        isComingSoon ? 'text-muted-foreground/50' : 'text-primary'
-                      }`} />
-                      <span className={`text-sm ${
-                        isComingSoon ? 'text-muted-foreground/70' : ''
-                      }`}>
+                      <Check className="h-5 w-5 flex-shrink-0 mt-0.5 text-primary" />
+                      <span className="text-sm">
                         {feature}
                       </span>
                     </div>
@@ -151,16 +128,6 @@ const ServicePackages = () => {
                 </CardContent>
                 
                 <CardFooter className="pt-4">
-                  {isComingSoon ? (
-                    <Button 
-                      variant="outline" 
-                      className="w-full bg-muted text-muted-foreground cursor-not-allowed"
-                      disabled
-                      aria-label="Paketti ei ole vielä saatavilla"
-                    >
-                      Ei vielä saatavilla
-                    </Button>
-                  ) : (
                     <Dialog>
                       <DialogTrigger asChild>
                         <Button 
@@ -312,7 +279,6 @@ const ServicePackages = () => {
                         </div>
                       </DialogContent>
                     </Dialog>
-                  )}
                 </CardFooter>
               </Card>
             );
