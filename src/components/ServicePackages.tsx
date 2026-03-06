@@ -119,12 +119,8 @@ const ServicePackages = () => {
                 <CardContent className="space-y-2 pb-4">
                   {pkg.features.map((feature, i) => (
                     <div key={i} className="flex items-start space-x-2">
-                      <Check className={`h-5 w-5 flex-shrink-0 mt-0.5 ${
-                        isComingSoon ? 'text-muted-foreground/50' : 'text-primary'
-                      }`} />
-                      <span className={`text-sm ${
-                        isComingSoon ? 'text-muted-foreground/70' : ''
-                      }`}>
+                      <Check className="h-5 w-5 flex-shrink-0 mt-0.5 text-primary" />
+                      <span className="text-sm">
                         {feature}
                       </span>
                     </div>
