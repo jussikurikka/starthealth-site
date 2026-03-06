@@ -114,21 +114,6 @@ const ServicePackages = () => {
                   <CardTitle className="text-2xl">{pkg.name}</CardTitle>
                   <CardDescription>{pkg.description}</CardDescription>
                   
-                  {isComingSoon && (
-                    <div className="flex flex-col items-center space-y-3 pt-4">
-                      <Lock 
-                        className="h-12 w-12 text-muted-foreground" 
-                        aria-label={language === 'en' ? 'Package not yet available' : 'Paketti ei ole vielä käytettävissä'}
-                      />
-                      <Badge 
-                        variant="secondary" 
-                        className="bg-primary/10 text-primary px-4 py-1.5 text-sm"
-                        aria-label={language === 'en' ? 'Support package available April 2026' : 'Support-paketti tulee saataville huhtikuussa 2026'}
-                      >
-                        {language === 'en' ? 'Coming in April 2026' : 'Tulossa huhtikuussa 2026'}
-                      </Badge>
-                    </div>
-                  )}
                 </CardHeader>
                 
                 <CardContent className="space-y-2 pb-4">
