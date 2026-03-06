@@ -57,8 +57,8 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto text-center space-y-8 animate-fade-in-up">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
             {language === 'fi' 
-              ? 'Työterveyshuolto pk-yrityksille ja 1–200 työntekijän yrityksille'
-              : 'Occupational health for SMEs with 1–200 employees'}
+              ? 'Työterveyshuolto pk-yrityksille'
+              : 'Occupational health for SMEs'}
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
