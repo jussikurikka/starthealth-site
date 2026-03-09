@@ -58,7 +58,7 @@ const translations = {
     'services.support.feature1': 'Kaikki Basic-paketin palvelut',
     'services.support.feature2': 'Lääkärin lähivastaanotot',
     'services.support.feature3': 'Laboratoriokokeet',
-    'services.support.feature4': 'Fysioterapeutin vastaanotot',
+    'services.support.feature4': 'Psykologin ja fysioterapeutin vastaanotot',
     'services.cta.details': 'Lue lisää',
     'services.cta.quote': 'Pyydä tarjous',
     
@@ -200,7 +200,7 @@ const translations = {
     'services.support.feature1': 'All Basic package services',
     'services.support.feature2': 'In-person doctor visits',
     'services.support.feature3': 'Laboratory tests',
-    'services.support.feature4': 'Physiotherapist appointments',
+    'services.support.feature4': 'Psychologist and physiotherapist appointments',
     'services.cta.details': 'Learn more',
     'services.cta.quote': 'Request quote',
     
