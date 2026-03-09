@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import { Calculator, AlertCircle, CheckCircle2, X } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -66,6 +66,7 @@ const PriceCalculator = () => {
   const [result, setResult] = useState<CalculatorResult | null>(null);
   const [showOtherLocationInfo, setShowOtherLocationInfo] = useState(false);
   const [hasCalculatedOnce, setHasCalculatedOnce] = useState(false);
+  const resultsRef = useRef<HTMLDivElement>(null);
 
   const calculatePrice = useCallback(() => {
     const employeeCount = parseInt(employees) || 0;
@@ -348,6 +349,9 @@ const PriceCalculator = () => {
               onClick={() => {
                 setHasCalculatedOnce(true);
                 calculatePrice();
+                setTimeout(() => {
+                  resultsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }, 100);
               }}
               disabled={!isFormValid()}
               className="w-full bg-gradient-primary hover:opacity-90 transition-opacity shadow-lg hover:shadow-glow disabled:opacity-50"
@@ -358,7 +362,7 @@ const PriceCalculator = () => {
 
             {/* Results Section */}
             {result && (
-              <div className="mt-8 space-y-6 animate-fade-in-up">
+                <div ref={resultsRef} className="mt-8 space-y-6 animate-fade-in-up">
                 {result.showRiskWarning ? (
                   <Card className="border-orange-200 dark:border-orange-900 bg-orange-50 dark:bg-orange-950/20">
                     <CardHeader>
