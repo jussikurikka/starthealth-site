@@ -200,7 +200,7 @@ const translations = {
     'services.support.feature1': 'All Basic package services',
     'services.support.feature2': 'In-person doctor visits',
     'services.support.feature3': 'Laboratory tests',
-    'services.support.feature4': 'Physiotherapist appointments',
+    'services.support.feature4': 'Psychologist and physiotherapist appointments',
     'services.cta.details': 'Learn more',
     'services.cta.quote': 'Request quote',
     
