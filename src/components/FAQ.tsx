@@ -74,7 +74,8 @@ const FAQ = () => {
           a: 'Getting started is easy: contact us or request a quote, sign the contract electronically, and we\'ll hold a kickoff meeting. After that, we conduct a workplace assessment and launch the service. The entire process typically takes 1–2 weeks.',
         },
         {
-          "Yes. The service can be arranged entirely remotely, as in the Basic package – workplace assessment, doctor appointments, psychologist remote consultation, and physiotherapy guidance. This enables fast access to care regardless of location."nables fast access to care regardless of location.',
+          q: 'Does the service work remotely?',
+          a: "Yes. The service can be arranged entirely remotely, as in the Basic package – workplace assessment, doctor appointments, psychologist remote consultation, and physiotherapy guidance. This enables fast access to care regardless of location.",
         },
       ];
 
