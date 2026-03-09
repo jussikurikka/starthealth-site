@@ -41,7 +41,7 @@ const FAQ = () => {
         },
         {
           q: 'Toimiiko palvelu etänä?',
-          a: 'Kyllä. Suurin osa palveluistamme toimii etänä – työpaikkaselvitys, lääkärin vastaanotto ja fysioterapeutin ohjaus. Tämä mahdollistaa nopean hoitoon pääsyn sijainnista riippumatta.',
+          a: 'Kyllä. Palvelu voidaan järjestää kokonaan etänä, kuten Basic-paketissa – työpaikkaselvitys, lääkärin vastaanotto, psykologin etäyhteys ja fysioterapeutin ohjaus. Tämä mahdollistaa nopean hoitoon pääsyn sijainnista riippumatta.',
         },
       ]
     : [
