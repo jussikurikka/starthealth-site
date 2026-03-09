@@ -41,7 +41,7 @@ const FAQ = () => {
         },
         {
           q: 'Toimiiko palvelu etänä?',
-          a: 'Kyllä. Suurin osa palveluistamme toimii etänä – työpaikkaselvitys, lääkärin vastaanotto ja fysioterapeutin ohjaus. Tämä mahdollistaa nopean hoitoon pääsyn sijainnista riippumatta.',
+          a: 'Kyllä. Palvelu voidaan järjestää kokonaan etänä, kuten Basic-paketissa – työpaikkaselvitys, lääkärin vastaanotto, psykologin etäyhteystys, lääkärin vastaanotto, psykologin etäyhteys ja fysioterapeutin ohjaus. Tämä mahdollistaa nopean hoitoon pääsyn sijainnista riippumatta.',
         },
       ]
     : [
@@ -75,7 +75,7 @@ const FAQ = () => {
         },
         {
           q: 'Does the service work remotely?',
-          a: 'Yes. Most of our services work remotely – workplace assessment, doctor appointments, and physiotherapy guidance. This enables fast access to care regardless of location.',
+          a: "Yes. The service can be arranged entirely remotely, as in the Basic package – workplace assessment, doctor appointments, psychologist remote consultation, and physiotherapy guidance. This enables fast access to care regardless of location.",
         },
       ];
 
