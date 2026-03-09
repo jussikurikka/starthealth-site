@@ -21,7 +21,7 @@ const FAQ = () => {
         },
         {
           q: 'Miten työterveyshuollon hinta muodostuu?',
-          a: 'Hinta koostuu kiinteästä vuosimaksusta per työntekijä. Palvelupaketista riippuen voi tulla käyntikohtaisia lisämaksuja. Kiinteä hinnoittelu tekee kuluista ennakoitavia. Kela korvaa tyypillisesti noin 50–60 % ennaltaehkäisevän työterveyshuollon kustannuksista.',
+          a: 'Hinta koostuu kiinteästä kuukausimaksusta per työntekijä. Kiinteä hinnoittelu tekee kuluista ennakoitavia. Kela korvaa tyypillisesti noin 50–60 % ennaltaehkäisevän työterveyshuollon kustannuksista.',
         },
         {
           q: 'Miten nopeasti hoitoon pääsee?',
