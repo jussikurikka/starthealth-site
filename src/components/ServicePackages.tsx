@@ -270,7 +270,7 @@ const ServicePackages = () => {
                                   </li>
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
-                                    <span className="text-base leading-relaxed">Työfysioterapeutin vastaanotto paikan päällä vastaanottopisteessä. Ohjaus paikan päälle arvioon tapahtuu StartHealthin lääkärin tai fysioterapeutin etä-arvion pohjalta.</span>
+                                    <span className="text-base leading-relaxed">Työterveyspsykologin ja -fysioterapeutin vastaanotto paikan päällä vastaanottopisteessä. Ohjaus paikan päälle arvioon tapahtuu StartHealthin lääkärin tai hoitajan etä-arvion pohjalta.</span>
                                   </li>
                                 </ul>
                               </div>
