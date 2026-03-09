@@ -17,7 +17,7 @@ const FAQ = () => {
         },
         {
           q: 'Kenelle StartHealthin palvelu sopii?',
-          a: 'Palvelumme on suunniteltu 1–200 työntekijän pk-yrityksille, erityisesti matala-altisteisille toimialoille kuten IT, asiantuntijatyö ja toimistotyö. Palvelemme yrityksiä Helsingissä, Espoossa, Vantaalla, Tampereella sekä etäpalveluiden kautta koko Suomessa.',
+          a: 'Palvelumme on suunniteltu 1–200 työntekijän pk-yrityksille, erityisesti matala-altisteisille toimialoille kuten IT, asiantuntijatyö ja toimistotyö. Palvelemme yrityksiä Helsingissä ja Tampereella sekä etäpalveluiden kautta koko Suomessa.',
         },
         {
           q: 'Miten työterveyshuollon hinta muodostuu?',
