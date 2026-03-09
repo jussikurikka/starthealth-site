@@ -199,7 +199,8 @@ const translations = {
     'services.support.desc': 'More comprehensive occupational health support',
     'services.support.feature1': 'All Basic package services',
     'services.support.feature2': 'Doctor appointments',
-    'services.support.fea and imaging studiesture3ture3': 'Laboratory tests and imaging studie.feature4': 'Psychologist and physiotherapist appointments',
+    'services.support.feature3': 'Laboratory tests and imaging studies',
+    'services.support.feature4': 'Psychologist and physiotherapist appointments',
     'services.cta.details': 'Learn more',
     'services.cta.quote': 'Request quote',
     
