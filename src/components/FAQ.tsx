@@ -25,7 +25,7 @@ const FAQ = () => {
         },
         {
           q: 'Miten nopeasti hoitoon pääsee?',
-          a: 'Etävastaanotolle pääsee nopeasti, usein parin arkipäivän sisällä. Kiireellisissä tapauksissa pyrimme järjestämään ajan saman päivän aikana. Etäpalvelumme mahdollistavat joustavan ja nopean hoitoon pääsyn.',
+          a: 'Etävastaanotolle pääsee nopeasti, usein parin an arkipäivän sisällä. Kiireellisissä tapauksissa pyrimme järjestämään ajan saman päivän aikana. Etäpalvelumme mahdollistavat joustavan ja nopean hoitoon pääsyn.',
         },
         {
           q: 'Mitä Kela-korvaukset tarkoittavat?',
@@ -33,7 +33,7 @@ const FAQ = () => {
         },
         {
           q: 'Mitä eroa on Minimum-, Basic- ja Support-paketilla?',
-          a: 'Minimum kattaa lakisääteisen ennaltaehkäisevän työterveyshuollon. Basic lisää etävastaanoton sairaanhoidon asioissa. Support tuo mukaan paikan päällä toteutettavat sairaanhoidon lähivastaanotot ja diagnostiset astaanotot ja diagnostiset tutkimukset. Valitse yrityksesi tarpeiden mukaan.',
+          a: 'Minimum kattaa lakisääteisen ennaltaehkäisevän työterveyshuollon. Basic lisää etävastaanoton sairaanhoidon asioissa. Support tuo mukaan paikan päällä toteutettavat sairaanhoidon lähivastaanotot ja diagnostiset tutkimukset. Valitse yrityksesi tarpeiden mukaan.',
         },
         {
           q: 'Miten työterveys aloitetaan StartHealthin kanssa?',
