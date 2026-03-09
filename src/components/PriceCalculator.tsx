@@ -66,6 +66,7 @@ const PriceCalculator = () => {
   const [result, setResult] = useState<CalculatorResult | null>(null);
   const [showOtherLocationInfo, setShowOtherLocationInfo] = useState(false);
   const [hasCalculatedOnce, setHasCalculatedOnce] = useState(false);
+  const resultsRef = useRef<HTMLDivElement>(null);
 
   const calculatePrice = useCallback(() => {
     const employeeCount = parseInt(employees) || 0;
