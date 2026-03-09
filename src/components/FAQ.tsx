@@ -67,7 +67,7 @@ const FAQ = () => {
         },
         {
           q: 'What is the difference between the Minimum, Basic, and Support packages?',
-          a:preventive occupational health. Basic adds remote appointments for medical matters. Support includes on-site medical appointments and diagnosticmedical care and laboratory tests. Choose based on your company\'s needs.',
+          a: "Minimum covers statutory preventive occupational health. Basic adds remote appointments for medical matters. Support includes on-site medical appointments and diagnostic tests. Choose based on your company's needs.",
         },
         {
           q: 'How do I get started with StartHealth?',
