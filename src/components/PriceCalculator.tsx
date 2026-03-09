@@ -362,7 +362,7 @@ const PriceCalculator = () => {
 
             {/* Results Section */}
             {result && (
-              <div className="mt-8 space-y-6 animate-fade-in-up">
+                <div ref={resultsRef} className="mt-8 space-y-6 animate-fade-in-up">
                 {result.showRiskWarning ? (
                   <Card className="border-orange-200 dark:border-orange-900 bg-orange-50 dark:bg-orange-950/20">
                     <CardHeader>
