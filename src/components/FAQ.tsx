@@ -33,7 +33,7 @@ const FAQ = () => {
         },
         {
           q: 'Mitä eroa on Minimum-, Basic- ja Support-paketilla?',
-          a: 'Minimum kattaa lakisääteisen työterveyshuollon. Basic lisää etävastaanoton lääkärille ja fysioterapeutille. Support tuo mukaan paikan päällä toteutettavan sairaanhoidon ja laboratoriotutkimukset. Valitse yrityksesi tarpeiden mukaan.',
+          a: 'Minimum kattaa lakisääteisen ennaltaehkäisevän työterveyshuollon. Basic lisää etävastaanoton sairaanhoidon asioissa. Support tuo mukaan paikan päällä toteutettavat sairaanhoidon lähivastaanotot ja diagnostiset astaanotot ja diagnostiset tutkimukset. Valitse yrityksesi tarpeiden mukaan.',
         },
         {
           q: 'Miten työterveys aloitetaan StartHealthin kanssa?',
@@ -67,7 +67,7 @@ const FAQ = () => {
         },
         {
           q: 'What is the difference between the Minimum, Basic, and Support packages?',
-          a: 'Minimum covers statutory occupational health. Basic adds remote doctor and physiotherapist appointments. Support includes on-site medical care and laboratory tests. Choose based on your company\'s needs.',
+          a: "Minimum covers statutory preventive occupational health. Basic adds remote appointments for medical matters. Support includes on-site medical appointments and diagnostic tests. Choose based on your company's needs.",
         },
         {
           q: 'How do I get started with StartHealth?',
