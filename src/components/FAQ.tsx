@@ -17,7 +17,7 @@ const FAQ = () => {
         },
         {
           q: 'Kenelle StartHealthin palvelu sopii?',
-          a: 'Palvelumme on suunniteltu 1–200 työntekijän pk-yrityksille, erityisesti matala-altisteisille toimialoille kuten IT, asiantuntijatyö ja toimistotyö. Palvelemme yrityksiä Helsingissä, Espoossa, Vantaalla, Tampereella sekä etäpalveluiden kautta koko Suomessa.',
+          a: 'Palvelumme on suunniteltu 1–200 työntekijän pk-yrityksille, erityisesti matala-altisteisille toimialoille kuten IT, asiantuntijatyö ja toimistotyö. Palvelemme yrityksiä Helsingissä ja Tampereella sekä etäpalveluiden kautta koko Suomessa.',
         },
         {
           q: 'Miten työterveyshuollon hinta muodostuu?',
@@ -51,7 +51,7 @@ const FAQ = () => {
         },
         {
           q: "Who is StartHealth's service designed for?",
-          a: 'Our service is designed for SMEs with 1–200 employees, especially in low-exposure industries such as IT, expert work, and office work. We serve companies in Helsinki, Espoo, Vantaa, Tampere, and nationwide through remote services.',
+          a: 'Our service is designed for SMEs with 1–200 employees, especially in low-exposure industries such as IT, expert work, and office work. We serve companies in Helsinki and Tampere, and nationwide through remote services.',
         },
         {
           q: 'How is occupational health pricing structured?',
