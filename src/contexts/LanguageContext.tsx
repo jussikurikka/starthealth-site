@@ -56,7 +56,7 @@ const translations = {
     'services.support.period': '/kk',
     'services.support.desc': 'Kokonaisvaltaisempi työterveyden tuki',
     'services.support.feature1': 'Kaikki Basic-paketin palvelut',
-    'services.support.feature2': 'Lääkärin lähivastaanotot',
+    'services.support.feature2': 'Lääkärin vastaanotot',
     'services.support.feature3': 'Laboratoriokokeet ja kuvantamistutkimukset ja kuvantamistutkimukset',
     'services.support.feature4': 'Psykologin ja fysioterapeutin vastaanotot',
     'services.cta.details': 'Lue lisää',
