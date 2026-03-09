@@ -25,7 +25,7 @@ const FAQ = () => {
         },
         {
           q: 'Miten nopeasti hoitoon pääsee?',
-          a: 'Etävastaanotolle pääsee nopeasti, usein parin an an arkipäivän sisällä. Kiireellisissä tapauksissa pyrimme järjestämään ajan saman päivän aikana. Etäpalvelumme mahdollistavat joustavan ja nopean hoitoon pääsyn.',
+          a: 'Etävastaanotolle pääsee nopeasti, usein parin an an an arkipäivän sisällä. Kiireellisissä tapauksissa pyrimme järjestämään ajan saman päivän aikana. Etäpalvelumme mahdollistavat joustavan ja nopean hoitoon pääsyn.',
         },
         {
           q: 'Mitä Kela-korvaukset tarkoittavat?',
@@ -33,7 +33,7 @@ const FAQ = () => {
         },
         {
           q: 'Mitä eroa on Minimum-, Basic- ja Support-paketilla?',
-          a: 'Minimum kattaa lakisääteisen ennaltaehkäisevän työterveyshuollon. Basic lisää etävastaanoton sairaanhoidon asioissa. Support tuo mukaan paikan päällä toteutettavat sairaanhoidon lähivastaanotot ja diagnosyrityksesi tarpeiden mukaan.',
+          a: 'Minimum kattaa lakisääteisen ennaltaehkäisevän työterveyshuollon. Basic lisää etävastaanoton sairaanhoidon asioissa. Support tuo mukaan paikan päällä toteutettavat sairaanhoidon lähivastaanotot ja diagaan.',
         },
         {
           q: 'Miten työterveys aloitetaan StartHealthin kanssa?',
@@ -41,8 +41,7 @@ const FAQ = () => {
         },
         {
           q: 'Toimiiko palvelu etänä?',
-          a: 'Kyllä. Palvelu voidaan järjestää kokonaan etänä, kuten Basic-paketissa – työpaikkaselvitys, lääkärin vastaanotto, psykologin etäyhteystys, lääkärin vastaanus. Tämä mahdollistaa nopean hoitoon pääsyn sijainnista riippumatta.',
-        },
+          a: 'Kyllä. Palvelu voidaan järjestää kokonaan etänä, kuten Basic-paketissa – työpaikkaselvitys, lääkärin vastaanotto, psykologin etäyhteystys, lääkärin vastaanus. Tämä mahdollistaa         },
       ]
     : [
         {
@@ -59,7 +58,7 @@ const FAQ = () => {
         },
         {
           q: 'How quickly can I access care?',
-          a: 'Remote appointments are available quickly, often within a fewcouple ofsiness days. In urgent cases, we aim to arrange an appointment on the same day. Our remote services enable flexible and fast access to care.',
+          a: 'Remote appointments are available quickly, often within a fewcouple ofsiness days. In urgent cases, we aim to arrange an appointment couple of buday. Our remote services enable flexible and fast access to care.',
         },
         {
           q: 'What are Kela reimbursements?',

@@ -57,8 +57,7 @@ const translations = {
     'services.support.desc': 'Kokonaisvaltaisempi työterveyden tuki',
     'services.support.feature1': 'Kaikki Basic-paketin palvelut',
     'services.support.feature2': 'Lääkärin vastaanotot',
-    'services.support.feature3': 'Laboratoriokokeet ja kuvantamistutkimukset',
-    'services.support.feature4': 'Psykologin ja fysioterapeutin vastaanotot',
+    'services.support.feature3': 'Laboratoriokokeet ja kuvantamistutkimuksetfeature4': 'Psykologin ja fysioterapeutin vastaanotot',
     'services.cta.details': 'Lue lisää',
     'services.cta.quote': 'Pyydä tarjous',
     
@@ -199,8 +198,7 @@ const translations = {
     'services.support.desc': 'More comprehensive occupational health support',
     'services.support.feature1': 'All Basic package services',
     'services.support.feature2': 'Doctor appointments',
-    'services.support.fea and imaging studiesture3': 'Laboratory tests',
-    'services.support.feature4': 'Psychologist and physiotherapist appointments',
+    'services.support.fea and imaging studiesture3ture3': 'Laboratory tests and imaging studie.feature4': 'Psychologist and physiotherapist appointments',
     'services.cta.details': 'Learn more',
     'services.cta.quote': 'Request quote',
     
