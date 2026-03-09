@@ -198,7 +198,7 @@ const translations = {
     'services.support.period': '/mo',
     'services.support.desc': 'More comprehensive occupational health support',
     'services.support.feature1': 'All Basic package services',
-    'services.support.feature2': 'In-person doctor visits',
+    'services.support.feature2': 'Doctor appointments',
     'services.support.fea and imaging studiesture3': 'Laboratory tests',
     'services.support.feature4': 'Psychologist and physiotherapist appointments',
     'services.cta.details': 'Learn more',
