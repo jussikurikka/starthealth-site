@@ -266,7 +266,7 @@ const ServicePackages = () => {
                                   </li>
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
-                                    <span className="text-base leading-relaxed">Työterveyslääkärin määräämät ja lopulliseen sopimukseen rajatut diagnostiset laboratoriotutkimukset.</span>
+                                    <span className="text-base leading-relaxed">Työterveyslääkärin määräämät ja lopulliseen sopimukseen rajatut diagnostiset laboratorio- ja kuvantamistutkimukset.</span>
                                   </li>
                                   <li className="flex items-start space-x-3">
                                     <span className="text-primary font-bold mt-1">•</span>
