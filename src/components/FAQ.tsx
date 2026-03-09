@@ -55,7 +55,7 @@ const FAQ = () => {
         },
         {
           q: 'How is occupational health pricing structured?',
-          a: 'Pricing consists of a fixed annual fee per employee. Depending on the service package, there may be visit-based additional charges. Fixed pricing makes costs predictable. Kela typically reimburses about 50–60% of preventive occupational health costs.',
+          a: 'Pricing consists of a fixed monthly fee per employee. Fixed pricing makes costs predictable. Kela typically reimburses about 50–60% of preventive occupational health costs.',
         },
         {
           q: 'How quickly can I access care?',
