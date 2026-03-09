@@ -349,6 +349,9 @@ const PriceCalculator = () => {
               onClick={() => {
                 setHasCalculatedOnce(true);
                 calculatePrice();
+                setTimeout(() => {
+                  resultsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }, 100);
               }}
               disabled={!isFormValid()}
               className="w-full bg-gradient-primary hover:opacity-90 transition-opacity shadow-lg hover:shadow-glow disabled:opacity-50"
