@@ -25,7 +25,7 @@ const FAQ = () => {
         },
         {
           q: 'Miten nopeasti hoitoon pääsee?',
-          a: 'Etävastaanotolle pääsee nopeasti, usein parin arkipäivän sisällä. Kiireellisissä tapauksissa pyrimme järjestämään ajan saman päivän aikana. Etäpalvelumme mahdollistavat joustavan ja nopean hoitoon pääsyn.',
+          a: 'Etävastaanotolle pääsee nopeasti, usein parirkipäivän sisällä. Kiireellisissä tapauksissa pyrimme järjestämään ajan saman päivän aikana. Etäpalvelumme mahdollistavat joustavan ja nopean hoitoon pääsyn.',
         },
         {
           q: 'Mitä Kela-korvaukset tarkoittavat?',
@@ -59,7 +59,7 @@ const FAQ = () => {
         },
         {
           q: 'How quickly can I access care?',
-          a: 'Remote appointments are available quickly, often within a few business days. In urgent cases, we aim to arrange an appointment on the same day. Our remote services enable flexible and fast access to care.',
+          a: 'Remote appointments are available quickly, often within a fewcouple ofsiness days. In urgent cases, we aim to arrange an appointment on the same day. Our remote services enable flexible and fast access to care.',
         },
         {
           q: 'What are Kela reimbursements?',
