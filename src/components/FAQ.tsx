@@ -51,7 +51,7 @@ const FAQ = () => {
         },
         {
           q: "Who is StartHealth's service designed for?",
-          a: 'Our service is designed for SMEs with 1–200 employees, especially in low-exposure industries such as IT, expert work, and office work. We serve companies in Helsinki and Tampere, and nationwide through remote services.',
+          a: 'Our service is designed for SMEs with 1–200 employees, especially in low-exposure industries such as IT, expert work, and office work. a: 'Our service is designed for SMEs with 1–200 employees, especially in low-exposure industries such as IT, expert work, and office work. We serve companies in Helsinki, and nationwide through remote services.',',
         },
         {
           q: 'How is occupational health pricing structured?',

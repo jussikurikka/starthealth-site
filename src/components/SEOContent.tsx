@@ -72,7 +72,7 @@ const SEOContent = () => {
                   'Growth-stage startups',
                   'IT and expert organizations',
                   'Office-based companies',
-                  'Companies in Helsinki and Tampere',
+                  'Companies in Helsinki',
                 ]
             ).map((item, i) => (
               <li key={i} className="flex items-center gap-3">

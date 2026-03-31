@@ -245,7 +245,6 @@ const PriceCalculator = () => {
                   </SelectTrigger>
                   <SelectContent>
                     <SelectItem value="uusimaa">{t('calculator.locationUusimaa')}</SelectItem>
-                    <SelectItem value="pirkanmaa">{t('calculator.locationPirkanmaa')}</SelectItem>
                     <SelectItem value="other">{t('calculator.locationOther')}</SelectItem>
                   </SelectContent>
                 </Select>
