@@ -129,7 +129,6 @@ const translations = {
     'calculator.locationLabel': 'Sijainti',
     'calculator.locationPlaceholder': 'Valitse sijainti',
     'calculator.locationUusimaa': 'Uusimaa',
-    'calculator.locationPirkanmaa': 'Pirkanmaa',
     'calculator.locationOther': 'Muu Suomi',
     'calculator.locationOtherInfo': 'Hinta ei riipu sijainnista, mutta suosittelemme olemaan meihin yhteydessä sopivimman palvelupaketin valinnassa muilla alueilla.',
     'calculator.packageLabel': 'Palvelupaketti',
@@ -271,7 +270,7 @@ const translations = {
     'calculator.locationLabel': 'Location',
     'calculator.locationPlaceholder': 'Select location',
     'calculator.locationUusimaa': 'Uusimaa',
-    'calculator.locationPirkanmaa': 'Pirkanmaa',
+    
     'calculator.locationOther': 'Rest of Finland',
     'calculator.locationOtherInfo': 'Price does not depend on location, but we recommend contacting us to select the most suitable service package in other regions.',
     'calculator.packageLabel': 'Service Package',
