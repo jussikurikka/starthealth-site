@@ -65,7 +65,7 @@ const SEOContent = () => {
                   'Kasvuvaiheen startupit',
                   'IT- ja asiantuntijaorganisaatiot',
                   'Toimistotyötä tekevät yritykset',
-                  'Yritykset Helsingissä ja Tampereella',
+                  'Yritykset Helsingissä',
                 ]
               : [
                   'SMEs with 1–200 employees',
