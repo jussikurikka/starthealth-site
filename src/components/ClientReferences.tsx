@@ -5,9 +5,9 @@ import synergiLogo from '@/assets/clients/synergi.png';
 import taigaLogo from '@/assets/clients/taiga-ai.png';
 
 const clients = [
+  { name: 'Synergi', logo: synergiLogo },
   { name: 'Bought', logo: boughtLogo },
   { name: 'Closio', logo: closioLogo },
-  { name: 'Synergi', logo: synergiLogo },
   { name: 'Taiga AI', logo: taigaLogo },
 ];
 
