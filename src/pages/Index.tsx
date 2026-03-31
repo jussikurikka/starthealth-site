@@ -7,6 +7,7 @@ import Process from '@/components/Process';
 import AboutUs from '@/components/AboutUs';
 import DataPrivacy from '@/components/DataPrivacy';
 import ContactForm from '@/components/ContactForm';
+import ClientReferences from '@/components/ClientReferences';
 import FAQ from '@/components/FAQ';
 import Footer from '@/components/Footer';
 
