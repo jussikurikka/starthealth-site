@@ -40,8 +40,8 @@ const SEOContent = () => {
           <div className="space-y-4 text-muted-foreground leading-relaxed">
             <p>
               {language === 'fi'
-                ? 'Palvelemme pk-yrityksiä Helsingissä ja Tampereella. Tarjoamme lakisääteistä työterveyshuoltoa 1–200 työntekijän yrityksille näillä paikkakunnilla. Etäpalvelumme mahdollistavat nopean hoitoon pääsyn sijainnista riippumatta.'
-                : 'We serve SMEs in Helsinki and Tampere. We offer statutory occupational health services for companies with 1–200 employees in these cities. Our remote services enable fast access to care regardless of location.'}
+                ? 'Palvelemme pk-yrityksiä Helsingissä. Tarjoamme lakisääteistä työterveyshuoltoa 1–200 työntekijän yrityksille. Etäpalvelumme mahdollistavat nopean hoitoon pääsyn sijainnista riippumatta.'
+                : 'We serve SMEs in Helsinki. We offer statutory occupational health services for companies with 1–200 employees. Our remote services enable fast access to care regardless of location.'}
             </p>
             <p>
               {language === 'fi'
