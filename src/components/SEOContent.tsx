@@ -34,8 +34,8 @@ const SEOContent = () => {
         <div className="container mx-auto px-4 max-w-4xl">
           <h2 className="text-2xl md:text-4xl font-bold mb-6 text-foreground">
             {language === 'fi'
-              ? 'Työterveyshuolto Helsingissä ja Tampereella'
-              : 'Occupational health in Helsinki and Tampere'}
+              ? 'Työterveyshuolto Helsingissä'
+              : 'Occupational health in Helsinki'}
           </h2>
           <div className="space-y-4 text-muted-foreground leading-relaxed">
             <p>
