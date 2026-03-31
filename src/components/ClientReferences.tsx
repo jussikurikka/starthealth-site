@@ -15,22 +15,12 @@ const ClientReferences = () => {
   const { language } = useLanguage();
 
   return (
-    <section className="py-20 bg-background">
+    <section className="py-12 bg-secondary/30">
       <div className="container mx-auto px-4">
-        <div className="text-center mb-12 space-y-4">
-          <h2 className="text-3xl md:text-5xl font-bold">
-            {language === 'fi'
-              ? 'Yrityksiä, jotka käyttävät StartHealthin työterveyshuoltoa'
-              : 'Companies using StartHealth occupational health'}
-          </h2>
-          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            {language === 'fi'
-              ? 'StartHealthin työterveyshuolto palvelee pk-yrityksiä eri toimialoilla, erityisesti matala-altisteisessa asiantuntija- ja toimistotyössä.'
-              : 'StartHealth occupational health serves SMEs across industries, especially in low-exposure expert and office work.'}
-          </p>
-        </div>
-
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-4xl mx-auto items-center">
+        <p className="text-center text-lg font-medium text-muted-foreground mb-8">
+          {language === 'fi' ? 'Hekin valitsivat StartHealthin' : 'They also chose StartHealth'}
+        </p>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto items-center">
           {clients.map((client) => (
             <div
               key={client.name}
@@ -48,12 +38,6 @@ const ClientReferences = () => {
             </div>
           ))}
         </div>
-
-        <p className="text-center text-sm text-muted-foreground mt-10 max-w-xl mx-auto">
-          {language === 'fi'
-            ? 'Palvelemme 1–200 työntekijän pk-yrityksiä Helsingissä ja etänä koko Suomessa.'
-            : 'We serve SMEs with 1–200 employees in Helsinki and remotely across Finland.'}
-        </p>
       </div>
     </section>
   );
