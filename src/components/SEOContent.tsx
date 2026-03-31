@@ -34,19 +34,19 @@ const SEOContent = () => {
         <div className="container mx-auto px-4 max-w-4xl">
           <h2 className="text-2xl md:text-4xl font-bold mb-6 text-foreground">
             {language === 'fi'
-              ? 'Työterveyshuolto Helsingissä ja Tampereella'
-              : 'Occupational health in Helsinki and Tampere'}
+              ? 'Työterveyshuolto Helsingissä'
+              : 'Occupational health in Helsinki'}
           </h2>
           <div className="space-y-4 text-muted-foreground leading-relaxed">
             <p>
               {language === 'fi'
-                ? 'Palvelemme pk-yrityksiä Helsingissä ja Tampereella. Tarjoamme lakisääteistä työterveyshuoltoa 1–200 työntekijän yrityksille näillä paikkakunnilla. Etäpalvelumme mahdollistavat nopean hoitoon pääsyn sijainnista riippumatta.'
-                : 'We serve SMEs in Helsinki and Tampere. We offer statutory occupational health services for companies with 1–200 employees in these cities. Our remote services enable fast access to care regardless of location.'}
+                ? 'Palvelemme pk-yrityksiä Helsingissä. Tarjoamme lakisääteistä työterveyshuoltoa 1–200 työntekijän yrityksille. Etäpalvelumme mahdollistavat nopean hoitoon pääsyn sijainnista riippumatta.'
+                : 'We serve SMEs in Helsinki. We offer statutory occupational health services for companies with 1–200 employees. Our remote services enable fast access to care regardless of location.'}
             </p>
             <p>
               {language === 'fi'
-                ? 'Helsingissä ja Tampereella toimivien yritysten on helppo aloittaa kanssamme – kartoitamme yrityksesi tarpeet ja rakennamme palvelun, joka sopii juuri teidän tilanteeseen. Myös muualla Suomessa toimivat yritykset voivat hyödyntää etäpalveluitamme.'
-                : 'Companies in Helsinki and Tampere can easily get started with us – we assess your company\'s needs and build a service that fits your situation. Companies elsewhere in Finland can also benefit from our remote services.'}
+                ? 'Helsingissä toimivien yritysten on helppo aloittaa kanssamme – kartoitamme yrityksesi tarpeet ja rakennamme palvelun, joka sopii juuri teidän tilanteeseen. Myös muualla Suomessa toimivat yritykset voivat hyödyntää etäpalveluitamme.'
+                : 'Companies in Helsinki can easily get started with us – we assess your company\'s needs and build a service that fits your situation. Companies elsewhere in Finland can also benefit from our remote services.'}
             </p>
           </div>
         </div>
@@ -65,14 +65,14 @@ const SEOContent = () => {
                   'Kasvuvaiheen startupit',
                   'IT- ja asiantuntijaorganisaatiot',
                   'Toimistotyötä tekevät yritykset',
-                  'Yritykset Helsingissä ja Tampereella',
+                  'Yritykset Helsingissä',
                 ]
               : [
                   'SMEs with 1–200 employees',
                   'Growth-stage startups',
                   'IT and expert organizations',
                   'Office-based companies',
-                  'Companies in Helsinki and Tampere',
+                  'Companies in Helsinki',
                 ]
             ).map((item, i) => (
               <li key={i} className="flex items-center gap-3">
