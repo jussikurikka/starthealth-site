@@ -45,8 +45,8 @@ const SEOContent = () => {
             </p>
             <p>
               {language === 'fi'
-                ? 'Helsingissä ja Tampereella toimivien yritysten on helppo aloittaa kanssamme – kartoitamme yrityksesi tarpeet ja rakennamme palvelun, joka sopii juuri teidän tilanteeseen. Myös muualla Suomessa toimivat yritykset voivat hyödyntää etäpalveluitamme.'
-                : 'Companies in Helsinki and Tampere can easily get started with us – we assess your company\'s needs and build a service that fits your situation. Companies elsewhere in Finland can also benefit from our remote services.'}
+                ? 'Helsingissä toimivien yritysten on helppo aloittaa kanssamme – kartoitamme yrityksesi tarpeet ja rakennamme palvelun, joka sopii juuri teidän tilanteeseen. Myös muualla Suomessa toimivat yritykset voivat hyödyntää etäpalveluitamme.'
+                : 'Companies in Helsinki can easily get started with us – we assess your company\'s needs and build a service that fits your situation. Companies elsewhere in Finland can also benefit from our remote services.'}
             </p>
           </div>
         </div>
