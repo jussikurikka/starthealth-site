@@ -4,7 +4,7 @@ meta_description: "Työterveys yrittäjälle: vapaaehtoinen mutta järkevä. Sis
 primary_keyword: "työterveys yrittäjälle"
 secondary_keywords: ["yrittäjän työterveys", "työterveys toiminimi", "työterveys yksinyrittäjälle"]
 search_intent: "commercial"
-target_url: "/blog/tyoterveys-yrittajalle"
+target_url: "/tyoterveys/yrittajalle"
 cluster: "Commercial — Yrittäjä"
 priority: "P0"
 estimated_volume: 110

@@ -4,7 +4,7 @@ meta_description: "Pienen yrityksen työterveys: konkreettinen opas alle 20 heng
 primary_keyword: "pienen yrityksen työterveys"
 secondary_keywords: ["työterveys pieni yritys", "työterveys mikroyritys", "työterveys alle 10 hlö"]
 search_intent: "commercial"
-target_url: "/blog/tyoterveys-pieni-yritys"
+target_url: "/tyoterveys/pieni-yritys"
 cluster: "Commercial — Small Business"
 priority: "P0"
 estimated_volume: 160

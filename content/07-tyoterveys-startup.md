@@ -4,7 +4,7 @@ meta_description: "Startup-yrityksen työterveys: milloin aloittaa, paljonko mak
 primary_keyword: "startup työterveys"
 secondary_keywords: ["startup yrityksen työterveys", "työterveys startup", "kasvuyritys työterveys"]
 search_intent: "commercial"
-target_url: "/blog/tyoterveys-startup"
+target_url: "/tyoterveys/startup"
 cluster: "Commercial — Startup"
 priority: "P0"
 estimated_volume: 90

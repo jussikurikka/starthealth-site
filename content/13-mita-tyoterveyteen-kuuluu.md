@@ -4,7 +4,7 @@ meta_description: "Mitä työterveyshuolto sisältää 2026: Kela 1 ja Kela 2 -t
 primary_keyword: "mitä työterveyshuoltoon kuuluu"
 secondary_keywords: ["työterveyshuollon sisältö", "työterveyden sisältö", "mitä työterveys sisältää"]
 search_intent: "informational"
-target_url: "/blog/mita-tyoterveyteen-kuuluu"
+target_url: "/tyoterveys/mita-kuuluu"
 cluster: "Educational"
 priority: "P1"
 estimated_volume: 90
