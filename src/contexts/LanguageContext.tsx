@@ -32,7 +32,7 @@ const translations = {
     'benefits.transparent.title': 'Ei yllätyskustannuksia',
     'benefits.transparent.desc': 'Aina KIINTEÄ kuukausikulu eikä yllätyksiä',
     'benefits.focused.title': 'Työnantaja keskiössä',
-    'benefits.focused.desc': 'Ei tyhjänpäiväistä launchia tai ylläpitoa',
+    'benefits.focused.desc': 'Ei tyhjänpäiväistä lanseerausta tai ylläpitoa',
     
     // Services
     'services.title': 'Palvelupaketit',
