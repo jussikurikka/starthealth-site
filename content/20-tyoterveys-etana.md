@@ -4,7 +4,7 @@ meta_description: "Työterveys etänä: miten etävastaanotto toimii, mitä voi 
 primary_keyword: "työterveys etänä"
 secondary_keywords: ["etätyöterveys", "etävastaanotto työterveys", "työterveys video"]
 search_intent: "informational commercial"
-target_url: "/blog/tyoterveys-etana"
+target_url: "/tyoterveys/etana"
 cluster: "Digital"
 priority: "P1"
 estimated_volume: 60

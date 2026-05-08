@@ -4,7 +4,7 @@ meta_description: "Työhyvinvointi pienessä yrityksessä: mitä se tarkoittaa, 
 primary_keyword: "työhyvinvointi pienyritys"
 secondary_keywords: ["työhyvinvointi pk-yritys", "työntekijöiden hyvinvointi", "hyvinvointi työpaikalla"]
 search_intent: "informational"
-target_url: "/blog/tyohyvinvointi-pienyritys"
+target_url: "/tyoterveys/tyohyvinvointi"
 cluster: "Wellbeing"
 priority: "P2"
 estimated_volume: 80

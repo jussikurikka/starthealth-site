@@ -4,7 +4,7 @@ meta_description: "Sairauspoissaolojen vähentäminen: 9 konkreettista keinoa, j
 primary_keyword: "sairauspoissaolojen vähentäminen"
 secondary_keywords: ["sairauspoissaolot pk-yritys", "sairauspoissaolot työterveys", "poissaolot vähentäminen"]
 search_intent: "informational"
-target_url: "/blog/sairauspoissaolojen-vahentaminen"
+target_url: "/tyoterveys/sairauspoissaolot"
 cluster: "Productivity"
 priority: "P2"
 estimated_volume: 110
