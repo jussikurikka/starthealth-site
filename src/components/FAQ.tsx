@@ -25,7 +25,7 @@ const FAQ = () => {
         },
         {
           q: 'Miten nopeasti hoitoon pääsee?',
-          a: 'Etävastaanotolle pääsee nopeasti, usein parin an an an arkipäivän sisällä. Kiireellisissä tapauksissa pyrimme järjestämään ajan saman päivän aikana. Etäpalvelumme mahdollistavat joustavan ja nopean hoitoon pääsyn.',
+          a: 'Etävastaanotolle pääsee nopeasti, usein parin arkipäivän sisällä. Kiireellisissä tapauksissa pyrimme järjestämään ajan saman päivän aikana. Etäpalvelumme mahdollistavat joustavan ja nopean hoitoon pääsyn.',
         },
         {
           q: 'Mitä Kela-korvaukset tarkoittavat?',
