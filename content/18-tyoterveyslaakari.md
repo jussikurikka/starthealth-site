@@ -4,7 +4,7 @@ meta_description: "Työterveyslääkäri: mitä hän tekee, mitä koulutusta vaa
 primary_keyword: "työterveyslääkäri"
 secondary_keywords: ["työterveyden lääkäri", "työterveys lääkäri", "mitä työterveyslääkäri tekee"]
 search_intent: "informational"
-target_url: "/blog/tyoterveyslaakari"
+target_url: "/tyoterveys/laakari"
 cluster: "Educational — Roles"
 priority: "P1"
 estimated_volume: 400

@@ -4,7 +4,7 @@ meta_description: "Työkykyjohtaminen pk-yrityksessä: varhainen tuki, työkykyn
 primary_keyword: "työkykyjohtaminen"
 secondary_keywords: ["työkyvyn johtaminen", "työkykyjohtamisen malli", "varhainen tuki"]
 search_intent: "informational"
-target_url: "/blog/tyokykyjohtaminen"
+target_url: "/tyoterveys/tyokykyjohtaminen"
 cluster: "Productivity"
 priority: "P2"
 estimated_volume: 90

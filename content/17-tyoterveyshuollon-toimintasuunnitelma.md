@@ -4,7 +4,7 @@ meta_description: "Työterveyshuollon toimintasuunnitelma: mitä sen pitää sis
 primary_keyword: "työterveyshuollon toimintasuunnitelma"
 secondary_keywords: ["työterveyden toimintasuunnitelma", "toimintasuunnitelma malli", "työterveys toimintasuunnitelma"]
 search_intent: "informational"
-target_url: "/blog/tyoterveyshuollon-toimintasuunnitelma"
+target_url: "/tyoterveys/toimintasuunnitelma"
 cluster: "Legal — Toimintasuunnitelma"
 priority: "P1"
 estimated_volume: 80

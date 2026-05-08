@@ -4,7 +4,7 @@ meta_description: "Burnout työssä: miten tunnistat merkit, miten ehkäistään
 primary_keyword: "burnout työssä"
 secondary_keywords: ["työuupumus", "loppuun palaminen", "burnout oireet"]
 search_intent: "informational"
-target_url: "/blog/burnout-tyossa"
+target_url: "/tyoterveys/burnout"
 cluster: "Wellbeing"
 priority: "P2"
 estimated_volume: 180

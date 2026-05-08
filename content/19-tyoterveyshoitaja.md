@@ -4,7 +4,7 @@ meta_description: "Työterveyshoitaja: mitä hän tekee, millaista koulutusta va
 primary_keyword: "työterveyshoitaja"
 secondary_keywords: ["työterveys hoitaja", "työterveyshuollon hoitaja", "työterveyshoitajan tehtävät"]
 search_intent: "informational"
-target_url: "/blog/tyoterveyshoitaja"
+target_url: "/tyoterveys/hoitaja"
 cluster: "Educational — Roles"
 priority: "P1"
 estimated_volume: 250

@@ -4,7 +4,7 @@ meta_description: "Työterveyssopimus: mitä työterveysmallin sopimus sisältä
 primary_keyword: "työterveyssopimus"
 secondary_keywords: ["työterveyshuoltosopimus", "työterveys sopimus", "työterveyssopimus malli"]
 search_intent: "informational"
-target_url: "/blog/tyoterveyssopimus"
+target_url: "/tyoterveys/sopimus"
 cluster: "Legal — Contracts"
 priority: "P1"
 estimated_volume: 70

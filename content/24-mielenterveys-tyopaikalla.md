@@ -4,7 +4,7 @@ meta_description: "Mielenterveys työpaikalla: miten tukea, miten tunnistaa onge
 primary_keyword: "mielenterveys työpaikalla"
 secondary_keywords: ["mielenterveysongelmat työssä", "työntekijän mielenterveys", "mielen hyvinvointi työpaikka"]
 search_intent: "informational"
-target_url: "/blog/mielenterveys-tyopaikalla"
+target_url: "/tyoterveys/mielenterveys"
 cluster: "Wellbeing"
 priority: "P1"
 estimated_volume: 140
