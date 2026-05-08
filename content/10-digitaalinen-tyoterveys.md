@@ -4,7 +4,7 @@ meta_description: "Digitaalinen työterveys: chat, video, etäresepti ja sairaus
 primary_keyword: "digitaalinen työterveys"
 secondary_keywords: ["etätyöterveys", "digityöterveys", "työterveys etänä"]
 search_intent: "commercial"
-target_url: "/blog/digitaalinen-tyoterveys"
+target_url: "/tyoterveys/digitaalinen"
 cluster: "Commercial — Digital"
 priority: "P0"
 estimated_volume: 50

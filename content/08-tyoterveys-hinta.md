@@ -4,7 +4,7 @@ meta_description: "Työterveys hinta 2026: paljonko työterveyshuolto maksaa pk-
 primary_keyword: "työterveys hinta"
 secondary_keywords: ["työterveyshuolto hinta", "mitä työterveys maksaa", "työterveys kustannus"]
 search_intent: "commercial"
-target_url: "/blog/tyoterveys-hinta"
+target_url: "/tyoterveys/hinta"
 cluster: "Pricing"
 priority: "P0"
 estimated_volume: 100

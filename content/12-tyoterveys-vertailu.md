@@ -4,7 +4,7 @@ meta_description: "Työterveyden vertailu 2026: Mehiläinen, Terveystalo, Pihlaj
 primary_keyword: "työterveys vertailu"
 secondary_keywords: ["työterveyspalvelut vertailu", "työterveys toimijat", "paras työterveys"]
 search_intent: "commercial investigation"
-target_url: "/blog/tyoterveys-vertailu"
+target_url: "/tyoterveys/vertailu"
 cluster: "Comparison"
 priority: "P0"
 estimated_volume: 140

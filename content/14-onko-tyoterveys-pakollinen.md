@@ -4,7 +4,7 @@ meta_description: "Onko työterveys pakollinen? Kyllä — ensimmäisestä työn
 primary_keyword: "onko työterveys pakollinen"
 secondary_keywords: ["työterveys lakisääteinen", "työterveys velvoite", "milloin työterveys pakollinen"]
 search_intent: "informational"
-target_url: "/blog/onko-tyoterveys-pakollinen"
+target_url: "/tyoterveys/pakollinen"
 cluster: "Legal"
 priority: "P1"
 estimated_volume: 200

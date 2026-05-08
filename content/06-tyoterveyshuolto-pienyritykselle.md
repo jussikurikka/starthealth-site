@@ -4,7 +4,7 @@ meta_description: "Työterveyshuolto pienelle yritykselle: mitä sisältyy, palj
 primary_keyword: "työterveyshuolto pienyritykselle"
 secondary_keywords: ["työterveys pienyritys", "työterveys pk-yritys", "työterveys alle 20 hlö"]
 search_intent: "commercial"
-target_url: "/blog/tyoterveyshuolto-pienyritykselle"
+target_url: "/tyoterveys/pienyritys"
 cluster: "Commercial — Small Business"
 priority: "P0"
 estimated_volume: 380

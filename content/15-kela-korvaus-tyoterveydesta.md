@@ -4,7 +4,7 @@ meta_description: "Kela-korvaus työterveyshuollosta 2026: korvausprosentit, kor
 primary_keyword: "kela-korvaus työterveydestä"
 secondary_keywords: ["työterveys kela korvaus", "työterveyden kela-korvaus", "kela työterveys korvaus"]
 search_intent: "informational"
-target_url: "/blog/kela-korvaus-tyoterveydesta"
+target_url: "/tyoterveys/kela-korvaus"
 cluster: "Legal — Kela"
 priority: "P1"
 estimated_volume: 110
