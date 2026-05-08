@@ -6,6 +6,9 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { LanguageProvider } from "@/contexts/LanguageContext";
 import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
+import Blog from "./pages/Blog";
+import MarkdownPage from "./pages/MarkdownPage";
+import { articles } from "./content/loader";
 
 const queryClient = new QueryClient();
 
@@ -18,6 +21,14 @@ const App = () => (
         <BrowserRouter>
           <Routes>
             <Route path="/" element={<Index />} />
+            <Route path="/blog" element={<Blog />} />
+            {articles.map((a) => (
+              <Route
+                key={a.frontmatter.target_url}
+                path={a.frontmatter.target_url}
+                element={<MarkdownPage article={a} />}
+              />
+            ))}
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<NotFound />} />
           </Routes>
