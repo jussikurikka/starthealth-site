@@ -24,9 +24,24 @@ const ClientReferences = () => {
     ? 'Luotettu kumppani kasvuyrityksille'
     : 'Trusted partner for growth companies';
 
-  const microcopy = language === 'fi'
-    ? 'Startup- ja asiantuntijayrityksiä (1–50 hlö)'
-    : 'Startups and expert companies (1–50 people)';
+  const topRow = clients.slice(0, 4);
+  const bottomRow = clients.slice(4, 7);
+
+  const renderLogo = (client: { name: string; logo: string }) => (
+    <div
+      key={client.name}
+      className="flex items-center justify-center transition-transform duration-200 ease-out hover:scale-[1.04]"
+      style={{ width: 160, height: 72 }}
+    >
+      <img
+        src={client.logo}
+        alt={`${client.name} – ${language === 'fi' ? 'työterveyshuolto' : 'occupational health'}`}
+        className="object-contain"
+        style={{ maxWidth: '100%', maxHeight: 52, width: 'auto', height: 'auto' }}
+        loading="lazy"
+      />
+    </div>
+  );
 
   return (
     <section className="py-12 md:py-16 bg-background">
@@ -37,27 +52,14 @@ const ClientReferences = () => {
           </span>
         </div>
 
-        <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-6 md:gap-x-12 max-w-6xl mx-auto">
-          {clients.map((client) => (
-            <div
-              key={client.name}
-              className="flex items-center justify-center transition-transform duration-200 ease-out hover:scale-[1.04]"
-              style={{ width: 160, height: 80 }}
-            >
-              <img
-                src={client.logo}
-                alt={`${client.name} – ${language === 'fi' ? 'työterveyshuolto' : 'occupational health'}`}
-                className="object-contain"
-                style={{ maxWidth: '100%', maxHeight: 56, width: 'auto', height: 'auto' }}
-                loading="lazy"
-              />
-            </div>
-          ))}
+        <div className="max-w-5xl mx-auto flex flex-col gap-6 md:gap-8">
+          <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-6 md:gap-x-12">
+            {topRow.map(renderLogo)}
+          </div>
+          <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-6 md:gap-x-12">
+            {bottomRow.map(renderLogo)}
+          </div>
         </div>
-
-        <p className="text-center text-sm text-muted-foreground mt-8">
-          {microcopy}
-        </p>
       </div>
     </section>
   );
