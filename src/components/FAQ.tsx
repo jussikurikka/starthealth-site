@@ -71,7 +71,7 @@ const FAQ = () => {
         },
         {
           q: 'How do I get started with StartHealth?',
-          a: 'Getting started is easy: contact us or request a quote, sign the contract electronically, and we\'ll hold a kickoff meeting. After that, we conduct a workplace assessment and launch the service. The entire process typically takes 1–2 weeks.',
+          a: 'Getting started is easy: contact us or request a quote, sign the contract electronically, and we\'ll hold a kickoff meeting. After that, we conduct a workplace assessment and launch the service. At best, the entire process requires just a bit of messaging and one remote meeting.',
         },
         {
           q: 'Does the service work remotely?',
