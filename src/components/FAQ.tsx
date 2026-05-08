@@ -59,7 +59,7 @@ const FAQ = () => {
         },
         {
           q: 'How quickly can I access care?',
-          a: 'Remote appointments are available quickly, often within a fewcouple ofsiness days. In urgent cases, we aim to arrange an appointment couple of buday. Our remote services enable flexible and fast access to care.',
+          a: 'Remote appointments are available quickly, often within a couple of business days. In urgent cases, we aim to arrange an appointment the same business day. Our remote services enable flexible and fast access to care.',
         },
         {
           q: 'What are Kela reimbursements?',
