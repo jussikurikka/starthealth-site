@@ -4,7 +4,7 @@ meta_description: "Työterveyspalvelun vaihtaminen: miksi ja milloin vaihtaa, mi
 primary_keyword: "työterveyden vaihtaminen"
 secondary_keywords: ["työterveyspalvelun vaihtaminen", "työterveys vaihto", "työterveys irtisanominen"]
 search_intent: "informational"
-target_url: "/blog/tyoterveyden-vaihtaminen"
+target_url: "/tyoterveys/vaihtaminen"
 cluster: "Decision"
 priority: "P2"
 estimated_volume: 50
