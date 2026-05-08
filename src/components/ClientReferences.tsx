@@ -31,13 +31,13 @@ const ClientReferences = () => {
     <div
       key={client.name}
       className="flex items-center justify-center transition-transform duration-200 ease-out hover:scale-[1.04]"
-      style={{ width: 160, height: 72 }}
+      style={{ width: 180, height: 100 }}
     >
       <img
         src={client.logo}
         alt={`${client.name} – ${language === 'fi' ? 'työterveyshuolto' : 'occupational health'}`}
         className="object-contain"
-        style={{ maxWidth: '100%', maxHeight: 52, width: 'auto', height: 'auto' }}
+        style={{ maxWidth: '100%', maxHeight: 68, width: 'auto', height: 'auto' }}
         loading="lazy"
       />
     </div>
