@@ -16,6 +16,7 @@ const Navigation = () => {
     { key: 'nav.privacy', href: '#privacy', hidden: false },
     { key: 'nav.about', href: '#about', hidden: false },
     { key: 'nav.contact', href: '#contact', hidden: false },
+    { key: 'nav.blog', href: '/blog', hidden: false },
   ];
 
   // Filter items based on dev mode

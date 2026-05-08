@@ -17,6 +17,7 @@ const translations = {
     'nav.privacy': 'Tietosuoja',
     'nav.about': 'Tietoa Meistä',
     'nav.contact': 'Ota yhteyttä',
+    'nav.blog': 'Blogi',
     'nav.booking': 'Ajanvaraus',
     
     // Hero
@@ -158,6 +159,7 @@ const translations = {
     'nav.privacy': 'Privacy',
     'nav.about': 'About Us',
     'nav.contact': 'Contact',
+    'nav.blog': 'Blog',
     'nav.booking': 'Book Appointment',
     
     // Hero
