@@ -4,7 +4,7 @@ meta_description: "Työterveystarkastus: mitä siihen kuuluu, kenelle se on, kui
 primary_keyword: "työterveystarkastus"
 secondary_keywords: ["terveystarkastus työ", "työterveyden tarkastus", "työhöntulotarkastus"]
 search_intent: "informational"
-target_url: "/blog/tyoterveystarkastus"
+target_url: "/tyoterveys/tarkastus"
 cluster: "Educational"
 priority: "P1"
 estimated_volume: 320

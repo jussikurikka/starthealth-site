@@ -4,7 +4,7 @@ meta_description: "Mehiläinen, Terveystalo ja Pihlajalinna työterveyspalveluin
 primary_keyword: "Mehiläinen vs Terveystalo vs Pihlajalinna"
 secondary_keywords: ["työterveys vertailu Mehiläinen Terveystalo", "iso työterveys vertailu", "työterveys yritys vertailu"]
 search_intent: "commercial investigation"
-target_url: "/blog/mehilainen-vs-terveystalo-vs-pihlajalinna"
+target_url: "/tyoterveys/mehilainen-terveystalo"
 cluster: "Comparison"
 priority: "P1"
 estimated_volume: 95

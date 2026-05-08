@@ -4,7 +4,7 @@ meta_description: "Miten valita työterveyspalvelu pk-yritykselle: 10 kriteeriä
 primary_keyword: "miten valita työterveys"
 secondary_keywords: ["työterveyden valinta", "työterveyspalvelun valinta", "työterveys pk-yritys valinta"]
 search_intent: "commercial investigation"
-target_url: "/blog/miten-valita-tyoterveys"
+target_url: "/tyoterveys/miten-valita"
 cluster: "Decision"
 priority: "P0"
 estimated_volume: 200

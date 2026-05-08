@@ -4,7 +4,7 @@ meta_description: "Työterveyden todelliset kustannukset: kiinteät maksut, Kela
 primary_keyword: "työterveyden todelliset kustannukset"
 secondary_keywords: ["työterveys kustannukset", "työterveys hinta yritys", "työterveyden TCO"]
 search_intent: "informational commercial"
-target_url: "/blog/tyoterveyden-todelliset-kustannukset"
+target_url: "/tyoterveys/kustannukset"
 cluster: "Decision"
 priority: "P1"
 estimated_volume: 80
