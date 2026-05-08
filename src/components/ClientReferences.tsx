@@ -3,12 +3,18 @@ import boughtLogo from '@/assets/clients/bought.png';
 import closioLogo from '@/assets/clients/closio.webp';
 import synergiLogo from '@/assets/clients/synergi.png';
 import taigaLogo from '@/assets/clients/taiga-ai.png';
+import homieLogo from '@/assets/clients/homie.png';
+import easLogo from '@/assets/clients/eas.png';
+import startupNationLogo from '@/assets/clients/startup-nation.png';
 
 const clients = [
   { name: 'Synergi', logo: synergiLogo },
   { name: 'Bought', logo: boughtLogo },
   { name: 'Closio', logo: closioLogo },
   { name: 'Taiga AI', logo: taigaLogo },
+  { name: 'Homie', logo: homieLogo },
+  { name: 'EAS project', logo: easLogo },
+  { name: 'Tampereen Startup tukiyhdistys', logo: startupNationLogo },
 ];
 
 const ClientReferences = () => {
