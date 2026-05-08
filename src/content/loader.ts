@@ -31,10 +31,12 @@ export const articles: Article[] = Object.entries(files)
   .map(([path, raw]) => {
     const parsed = matter(raw);
     const slug = path.replace('/content/', '').replace(/\.md$/, '');
+    // Strip leading H1 to avoid duplicating the frontmatter title
+    const body = parsed.content.replace(/^\s*#\s+.+\n+/, '');
     return {
       slug,
       frontmatter: parsed.data as ArticleFrontmatter,
-      body: parsed.content,
+      body,
     };
   })
   .filter((a) => a.frontmatter?.target_url);
