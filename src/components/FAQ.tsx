@@ -37,7 +37,7 @@ const FAQ = () => {
         },
         {
           q: 'Miten työterveys aloitetaan StartHealthin kanssa?',
-          a: 'Aloitus on helppoa: ota yhteyttä tai pyydä tarjous, allekirjoita sopimus sähköisesti, ja pidämme aloituspalaverin. Sen jälkeen teemme työpaikkaselvityksen ja käynnistämme palvelun. Koko prosessi vie tyypillisesti 1–2 viikkoa.',
+          a: 'Aloitus on helppoa: ota yhteyttä tai pyydä tarjous, allekirjoita sopimus sähköisesti, ja pidämme aloituspalaverin. Sen jälkeen teemme työpaikkaselvityksen ja käynnistämme palvelun. Koko prosessi vaatii parhaimmillaan hieman viestin vaihtoa ja yhden etätapaamisen.',
         },
         {
           q: 'Toimiiko palvelu etänä?',
