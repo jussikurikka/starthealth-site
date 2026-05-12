@@ -196,6 +196,6 @@ Starthealthin hinnoittelu on selkeää — ei yllätyksiä, selkeät käyttömak
 
 ---
 
-**Sisäiset linkit:** [Työterveys hinta](/blog/tyoterveys-hinta) · [Miten valita työterveys](/blog/miten-valita-tyoterveys) · [Työterveys Kela-korvaukset](/blog/tyoterveys-kela-korvaukset)
+**Sisäiset linkit:** [Työterveyden hinta](/tyoterveys/hinta) · [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus) · [Sairauspoissaolojen vähentäminen](/tyoterveys/sairauspoissaolot) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Työkykyjohtaminen](/tyoterveys/tyokykyjohtaminen)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto-tyonantajat) · [Työterveyslaitos](https://www.ttl.fi)

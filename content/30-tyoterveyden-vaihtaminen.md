@@ -214,6 +214,6 @@ Starthealth tekee vaihtamisen helpoksi — autamme irtisanomisprosessissa, koord
 
 ---
 
-**Sisäiset linkit:** [Miten valita työterveys](/blog/miten-valita-tyoterveys) · [Työterveyden todelliset kustannukset](/blog/tyoterveyden-todelliset-kustannukset) · [Mitä työterveyteen kuuluu](/blog/mita-tyoterveyteen-kuuluu)
+**Sisäiset linkit:** [Miten valita työterveys](/tyoterveys/miten-valita) · [Työterveyden vertailu](/tyoterveys/vertailu) · [Mehiläinen vs Terveystalo vs Pihlajalinna](/tyoterveys/mehilainen-terveystalo) · [Työterveyden hinta](/tyoterveys/hinta) · [Työterveys Helsingissä](/tyoterveys/helsinki)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuolto](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaitos](https://www.ttl.fi)

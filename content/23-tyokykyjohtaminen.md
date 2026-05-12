@@ -168,6 +168,6 @@ Starthealthin työterveys sisältää aktiivisen työkykyjohtamisen tuen — kuu
 
 ---
 
-**Sisäiset linkit:** [Sairauspoissaolojen vähentäminen](/blog/sairauspoissaolojen-vahentaminen) · [Työhyvinvointi pienyritys](/blog/tyohyvinvointi-pienyritys) · [Mielenterveys työpaikalla](/blog/mielenterveys-tyopaikalla)
+**Sisäiset linkit:** [Työhyvinvointi pienyrityksessä](/tyoterveys/tyohyvinvointi) · [Sairauspoissaolojen vähentäminen](/tyoterveys/sairauspoissaolot) · [Mielenterveys työpaikalla](/tyoterveys/mielenterveys) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Työterveyden todelliset kustannukset](/tyoterveys/kustannukset)
 
 **Ulkoiset lähteet:** [Kela: Työkyky](https://www.kela.fi/tyokyky) · [Työterveyslaitos: Työkykyjohtaminen](https://www.ttl.fi/tyokyky)

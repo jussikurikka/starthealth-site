@@ -149,6 +149,6 @@ Starthealth tarjoaa sairauspoissaolojen hallintaan suunnitellut ohjelmat — mit
 
 ---
 
-**Sisäiset linkit:** [Työkykyjohtaminen](/blog/tyokykyjohtaminen) · [Työhyvinvointi pienyritys](/blog/tyohyvinvointi-pienyritys) · [Mielenterveys työpaikalla](/blog/mielenterveys-tyopaikalla)
+**Sisäiset linkit:** [Työhyvinvointi pienyrityksessä](/tyoterveys/tyohyvinvointi) · [Työkykyjohtaminen](/tyoterveys/tyokykyjohtaminen) · [Mielenterveys työpaikalla](/tyoterveys/mielenterveys) · [Burnout työssä](/tyoterveys/burnout) · [Työterveyden todelliset kustannukset](/tyoterveys/kustannukset)
 
 **Ulkoiset lähteet:** [Työterveyslaitos: Sairauspoissaolot](https://www.ttl.fi/tyoelaman-tilastot) · [Kela: Sairauspäiväraha](https://www.kela.fi/sairauspaivaraha)

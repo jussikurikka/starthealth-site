@@ -223,6 +223,6 @@ Starthealthin työterveys sisältää lyhytterapian, työpsykologin ja aktiivise
 
 ---
 
-**Sisäiset linkit:** [Burnout työssä](/blog/burnout-tyossa) · [Työkykyjohtaminen](/blog/tyokykyjohtaminen) · [Työhyvinvointi pienyritys](/blog/tyohyvinvointi-pienyritys)
+**Sisäiset linkit:** [Burnout työssä](/tyoterveys/burnout) · [Työhyvinvointi pienyrityksessä](/tyoterveys/tyohyvinvointi) · [Sairauspoissaolojen vähentäminen](/tyoterveys/sairauspoissaolot) · [Työterveyslääkäri](/tyoterveys/laakari) · [Työterveys etänä](/tyoterveys/etana)
 
 **Ulkoiset lähteet:** [Mieli ry: Mielenterveys työelämässä](https://mieli.fi) · [Työterveyslaitos: Mielen hyvinvointi](https://www.ttl.fi/mielen-hyvinvointi)
