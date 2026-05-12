@@ -123,6 +123,6 @@ Starthealthin digitaalinen työterveys on suunniteltu pk-yrityksille ja kasvuyri
 
 ---
 
-**Sisäiset linkit:** [Työterveys etänä](/blog/tyoterveys-etana) · [Startup-yrityksen työterveys](/blog/tyoterveys-startup) · [Työterveys hinta](/blog/tyoterveys-hinta)
+**Sisäiset linkit:** [Työterveys etänä](/tyoterveys/etana) · [Työterveys startupille](/tyoterveys/startup) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Työterveyden hinta](/tyoterveys/hinta) · [Miten valita työterveys](/tyoterveys/miten-valita)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [THL: Etävastaanotot](https://thl.fi)

@@ -98,6 +98,6 @@ Starthealth on nopein tapa saada moderni työterveys käyntiin Tampereella. Pyyd
 
 ---
 
-**Sisäiset linkit:** [Työterveys Helsinki](/blog/tyoterveys-helsinki) · [Työterveyshuolto pienyritykselle](/blog/tyoterveyshuolto-pienyritykselle) · [Digitaalinen työterveys](/blog/digitaalinen-tyoterveys)
+**Sisäiset linkit:** [Työterveys Helsingissä](/tyoterveys/helsinki) · [Työterveyden hinta](/tyoterveys/hinta) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Onko työterveys pakollinen](/tyoterveys/pakollinen) · [Miten valita työterveys](/tyoterveys/miten-valita)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaitos](https://www.ttl.fi)

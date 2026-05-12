@@ -38,7 +38,7 @@ Lisäksi tarjoamme:
 
 Helsingissä työterveyden vuosittaiset kokonaiskustannukset asettuvat tyypillisesti 250–600 euron välille per työntekijä Kela-korvausten jälkeen. Hinta riippuu sairaanhoitotason laajuudesta, henkilöstörakenteesta ja paikallisten vastaanottojen käytöstä.
 
-Starthealthin hinnoittelu on kiinteä kuukausimaksu per työntekijä — ei piilokuluja, ei yllättäviä lisälaskuja. [Lue tarkemmin työterveyden hinnoittelusta](/blog/tyoterveys-hinta).
+Starthealthin hinnoittelu on kiinteä kuukausimaksu per työntekijä — ei piilokuluja, ei yllättäviä lisälaskuja. [Lue tarkemmin työterveyden hinnoittelusta](/tyoterveys/hinta).
 
 ## Helsingin parhaiden työterveyslääkärien kanssa
 
@@ -63,7 +63,7 @@ Starthealth on suunniteltu erityisesti 5–250 hengen yrityksille Helsingissä. 
 Kyllä. Lakisääteinen työterveys (Kela 1 -taso) on pakollinen kaikille työnantajille, joilla on vähintään yksi työntekijä, riippumatta toimialasta tai sijainnista.
 
 ### Mitä työterveys Helsingissä maksaa?
-Tyypillisesti 250–600 € / työntekijä / vuosi Kela-korvausten jälkeen. Tarkka hinta riippuu sairaanhoitotason laajuudesta. Lue lisää: [työterveys hinta](/blog/tyoterveys-hinta).
+Tyypillisesti 250–600 € / työntekijä / vuosi Kela-korvausten jälkeen. Tarkka hinta riippuu sairaanhoitotason laajuudesta. Lue lisää: [työterveys hinta](/tyoterveys/hinta).
 
 ### Voiko työterveyttä käyttää etänä?
 Kyllä. Starthealthin digitaalinen vastaanotto toimii koko Suomessa. Helsingissä asuvat työntekijät voivat valita etä- tai lähivastaanoton tilanteen mukaan.
@@ -90,6 +90,6 @@ Starthealth on Helsingin nykyaikaisin valinta pk-yritysten työterveyteen. Pyyd�
 
 ---
 
-**Sisäiset linkit:** [Työterveyshuolto pienyritykselle](/blog/tyoterveyshuolto-pienyritykselle) · [Työterveys hinta](/blog/tyoterveys-hinta) · [Digitaalinen työterveys](/blog/digitaalinen-tyoterveys)
+**Sisäiset linkit:** [Työterveys Espoossa](/tyoterveys/espoo) · [Työterveys Vantaalla](/tyoterveys/vantaa) · [Työterveys pääkaupunkiseudulla](/tyoterveys/paakaupunkiseutu) · [Työterveyden hinta pk-yritykselle](/tyoterveys/hinta) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Miten valita työterveys](/tyoterveys/miten-valita)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaitos](https://www.ttl.fi)

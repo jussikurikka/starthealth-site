@@ -109,6 +109,6 @@ Starthealth on suunniteltu kasvuyrityksille: kiinteä hinta, nopea aloitus, digi
 
 ---
 
-**Sisäiset linkit:** [Työterveys hinta](/blog/tyoterveys-hinta) · [Digitaalinen työterveys](/blog/digitaalinen-tyoterveys) · [Työterveys yrittäjälle](/blog/tyoterveys-yrittajalle) · [Työterveyshuolto pienyritykselle](/blog/tyoterveyshuolto-pienyritykselle)
+**Sisäiset linkit:** [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Digitaalinen työterveys](/tyoterveys/digitaalinen) · [Työterveyden hinta](/tyoterveys/hinta) · [Työterveys yrittäjälle](/tyoterveys/yrittajalle) · [Työterveys etänä](/tyoterveys/etana)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaitos: Mielenterveys työelämässä](https://www.ttl.fi)
