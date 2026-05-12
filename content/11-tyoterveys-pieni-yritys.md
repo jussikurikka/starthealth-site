@@ -119,6 +119,6 @@ Starthealth on suunniteltu nimenomaan pienille yrityksille: kiinteä hinta, digi
 
 ---
 
-**Sisäiset linkit:** [Työterveyshuolto pienyritykselle](/blog/tyoterveyshuolto-pienyritykselle) · [Työterveys hinta](/blog/tyoterveys-hinta) · [Onko työterveys pakollinen](/blog/onko-tyoterveys-pakollinen)
+**Sisäiset linkit:** [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Työterveyden hinta](/tyoterveys/hinta) · [Työterveys yrittäjälle](/tyoterveys/yrittajalle) · [Onko työterveys pakollinen](/tyoterveys/pakollinen) · [Työterveyden todelliset kustannukset](/tyoterveys/kustannukset)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Suomen Yrittäjät](https://www.yrittajat.fi)

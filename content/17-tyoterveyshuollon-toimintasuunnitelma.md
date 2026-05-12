@@ -176,6 +176,6 @@ Starthealth laatii toimintasuunnitelman yhdessä kanssasi 2 viikon sisällä ty�
 
 ---
 
-**Sisäiset linkit:** [Työterveyssopimus](/blog/tyoterveyssopimus) · [Kela-korvaus työterveydestä](/blog/kela-korvaus-tyoterveydesta) · [Mitä työterveyteen kuuluu](/blog/mita-tyoterveyteen-kuuluu)
+**Sisäiset linkit:** [Työterveydenhuollon sopimus](/tyoterveys/sopimus) · [Onko työterveys pakollinen](/tyoterveys/pakollinen) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Mitä työterveyshuoltoon kuuluu](/tyoterveys/mita-kuuluu) · [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus)
 
 **Ulkoiset lähteet:** [Työterveyshuoltolaki 1383/2001](https://www.finlex.fi/fi/laki/ajantasa/2001/20011383) · [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto)
