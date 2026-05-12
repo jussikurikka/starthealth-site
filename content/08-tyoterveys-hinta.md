@@ -115,6 +115,6 @@ Starthealthin hinnoittelu on läpinäkyvä: kiinteä kuukausimaksu per työnteki
 
 ---
 
-**Sisäiset linkit:** [Työterveyshuolto pienyritykselle](/blog/tyoterveyshuolto-pienyritykselle) · [Kela-korvaus työterveydestä](/blog/kela-korvaus-tyoterveydesta) · [Työterveyden todelliset kustannukset](/blog/tyoterveyden-todelliset-kustannukset)
+**Sisäiset linkit:** [Työterveyden todelliset kustannukset](/tyoterveys/kustannukset) · [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Työterveys yrittäjälle](/tyoterveys/yrittajalle) · [Miten valita työterveys](/tyoterveys/miten-valita) · [Työterveys Helsingissä](/tyoterveys/helsinki)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaitos: Työterveys lukuina](https://www.ttl.fi)

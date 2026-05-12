@@ -26,7 +26,7 @@ Yrittäjä voi hankkia työterveyden myös itselleen vapaaehtoisesti, ja useimma
 
 ### Pakollinen osa (Kela 1)
 - **Työpaikkaselvitys** — työterveyslääkäri ja -hoitaja arvioivat työolot, riskit ja kuormitustekijät
-- **Toimintasuunnitelma** — dokumentti, joka ohjaa työterveyden toteuttamista (ks. [työterveyshuollon toimintasuunnitelma](/blog/tyoterveyshuollon-toimintasuunnitelma))
+- **Toimintasuunnitelma** — dokumentti, joka ohjaa työterveyden toteuttamista (ks. [työterveyshuollon toimintasuunnitelma](/tyoterveys/toimintasuunnitelma))
 - **Terveystarkastukset** — aloittava, säännölliset ja kohdennetut
 - **Työkyvyn tuki** — varhainen tuki, ammatillinen kuntoutusharkinta
 
@@ -91,6 +91,6 @@ Starthealth on suunniteltu juuri pienille ja keskisuurille yrityksille. Saat hin
 
 ---
 
-**Sisäiset linkit:** [Työterveys hinta](/blog/tyoterveys-hinta) · [Onko työterveys pakollinen](/blog/onko-tyoterveys-pakollinen) · [Työterveyssopimus](/blog/tyoterveyssopimus) · [Työterveyshuollon toimintasuunnitelma](/blog/tyoterveyshuollon-toimintasuunnitelma)
+**Sisäiset linkit:** [Työterveyden hinta pk-yritykselle](/tyoterveys/hinta) · [Työterveys yrittäjälle](/tyoterveys/yrittajalle) · [Työterveys startupille](/tyoterveys/startup) · [Onko työterveys pakollinen](/tyoterveys/pakollinen) · [Työterveyden todelliset kustannukset](/tyoterveys/kustannukset) · [Työterveyden hinta alle 10 hengen yritykselle](/tyoterveys/pieni-yritys)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaki 1383/2001](https://www.finlex.fi/fi/laki/ajantasa/2001/20011383)

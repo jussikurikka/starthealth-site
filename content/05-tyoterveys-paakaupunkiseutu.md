@@ -93,6 +93,6 @@ Ajanvarauksen korkea löydettävyys on palvelulupauksen ydin — hoitoon pääsy
 
 ---
 
-**Sisäiset linkit:** [Työterveys Helsinki](/blog/tyoterveys-helsinki) · [Työterveys Espoo](/blog/tyoterveys-espoo) · [Työterveys Vantaa](/blog/tyoterveys-vantaa) · [Mehiläinen vs Terveystalo vs Pihlajalinna](/blog/mehilainen-vs-terveystalo-vs-pihlajalinna)
+**Sisäiset linkit:** [Työterveys Helsingissä](/tyoterveys/helsinki) · [Työterveys Espoossa](/tyoterveys/espoo) · [Työterveys Vantaalla](/tyoterveys/vantaa) · [Työterveyden hinta](/tyoterveys/hinta) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaki 1383/2001](https://www.finlex.fi/fi/laki/ajantasa/2001/20011383)

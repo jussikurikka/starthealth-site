@@ -76,6 +76,6 @@ Ajanvaraus: [starthealth.fi/varaa-aika](/varaa-aika). Tämä tekee palvelusta ma
 
 ---
 
-**Sisäiset linkit:** [Työterveys Helsinki](/blog/tyoterveys-helsinki) · [Digitaalinen työterveys](/blog/digitaalinen-tyoterveys) · [Startup-yrityksen työterveys](/blog/tyoterveys-startup)
+**Sisäiset linkit:** [Työterveys Helsingissä](/tyoterveys/helsinki) · [Työterveys pääkaupunkiseudulla](/tyoterveys/paakaupunkiseutu) · [Työterveys Vantaalla](/tyoterveys/vantaa) · [Työterveyden hinta](/tyoterveys/hinta) · [Miten valita työterveys](/tyoterveys/miten-valita)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaki 1383/2001](https://www.finlex.fi/fi/laki/ajantasa/2001/20011383)

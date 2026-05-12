@@ -81,6 +81,6 @@ Työnantajan ei tarvitse hallinnoida ajanvarausta — järjestelmä hoitaa sen s
 
 ---
 
-**Sisäiset linkit:** [Työterveys Helsinki](/blog/tyoterveys-helsinki) · [Työterveyshuolto pienyritykselle](/blog/tyoterveyshuolto-pienyritykselle) · [Työterveys pääkaupunkiseutu](/blog/tyoterveys-paakaupunkiseutu)
+**Sisäiset linkit:** [Työterveys Helsingissä](/tyoterveys/helsinki) · [Työterveys Espoossa](/tyoterveys/espoo) · [Työterveys pääkaupunkiseudulla](/tyoterveys/paakaupunkiseutu) · [Työterveyden hinta](/tyoterveys/hinta) · [Miten valita työterveys](/tyoterveys/miten-valita)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaitos](https://www.ttl.fi)

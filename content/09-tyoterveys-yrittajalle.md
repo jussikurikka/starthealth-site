@@ -123,6 +123,6 @@ Starthealthissa yrittäjä on osa pakettia ilman erillistä yrittäjähinnoittel
 
 ---
 
-**Sisäiset linkit:** [Työterveyshuolto pienyritykselle](/blog/tyoterveyshuolto-pienyritykselle) · [Työterveys hinta](/blog/tyoterveys-hinta) · [Kela-korvaus työterveydestä](/blog/kela-korvaus-tyoterveydesta)
+**Sisäiset linkit:** [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Työterveyden hinta](/tyoterveys/hinta) · [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus) · [Onko työterveys pakollinen](/tyoterveys/pakollinen) · [Työterveyden todelliset kustannukset](/tyoterveys/kustannukset)
 
 **Ulkoiset lähteet:** [Kela: Yrittäjän työterveyshuolto](https://www.kela.fi/yrittajan-tyoterveys) · [Työterveyslaitos](https://www.ttl.fi)
