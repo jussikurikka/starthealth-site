@@ -136,6 +136,6 @@ Starthealthin sopimus sisältää selkeän listan siitä, mitä pakettiin kuuluu
 
 ---
 
-**Sisäiset linkit:** [Työterveyshuollon toimintasuunnitelma](/blog/tyoterveyshuollon-toimintasuunnitelma) · [Työterveyssopimus](/blog/tyoterveyssopimus) · [Työterveyslääkäri](/blog/tyoterveyslaakari)
+**Sisäiset linkit:** [Onko työterveys pakollinen](/tyoterveys/pakollinen) · [Työterveyslääkäri](/tyoterveys/laakari) · [Työterveydenhoitaja](/tyoterveys/hoitaja) · [Työterveystarkastus](/tyoterveys/tarkastus) · [Työterveyden hinta](/tyoterveys/hinta) · [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaki 1383/2001](https://www.finlex.fi/fi/laki/ajantasa/2001/20011383)

@@ -137,6 +137,6 @@ Starthealthin sopimus on lyhyt, selkeä ja sähköinen — ei yli 3 sivua, ei pi
 
 ---
 
-**Sisäiset linkit:** [Työterveyshuollon toimintasuunnitelma](/blog/tyoterveyshuollon-toimintasuunnitelma) · [Kela-korvaus työterveydestä](/blog/kela-korvaus-tyoterveydesta) · [Työterveyspalvelun vaihtaminen](/blog/tyoterveyden-vaihtaminen)
+**Sisäiset linkit:** [Onko työterveys pakollinen](/tyoterveys/pakollinen) · [Työterveydenhuollon toimintasuunnitelma](/tyoterveys/toimintasuunnitelma) · [Työterveyden hinta](/tyoterveys/hinta) · [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
 
 **Ulkoiset lähteet:** [Työterveyshuoltolaki 1383/2001](https://www.finlex.fi/fi/laki/ajantasa/2001/20011383) · [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto)

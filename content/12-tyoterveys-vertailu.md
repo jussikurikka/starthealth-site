@@ -123,6 +123,6 @@ Paras vertailu tapahtuu konkreettisten tarjousten perusteella. Pyydä Starthealt
 
 ---
 
-**Sisäiset linkit:** [Mehiläinen vs Terveystalo vs Pihlajalinna](/blog/mehilainen-vs-terveystalo-vs-pihlajalinna) · [Miten valita työterveys](/blog/miten-valita-tyoterveys) · [Työterveys hinta](/blog/tyoterveys-hinta)
+**Sisäiset linkit:** [Mehiläinen vs Terveystalo vs Pihlajalinna](/tyoterveys/mehilainen-terveystalo) · [Miten valita työterveys](/tyoterveys/miten-valita) · [Työterveyden hinta](/tyoterveys/hinta) · [Työterveyden vaihtaminen](/tyoterveys/vaihtaminen) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaitos](https://www.ttl.fi)

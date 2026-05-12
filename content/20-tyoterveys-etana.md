@@ -152,6 +152,6 @@ Starthealthin etätyöterveys on suunniteltu modernin, hajautetun tiimin tarpeis
 
 ---
 
-**Sisäiset linkit:** [Digitaalinen työterveys](/blog/digitaalinen-tyoterveys) · [Startup-yrityksen työterveys](/blog/tyoterveys-startup) · [Mitä työterveyteen kuuluu](/blog/mita-tyoterveyteen-kuuluu)
+**Sisäiset linkit:** [Digitaalinen työterveys](/tyoterveys/digitaalinen) · [Työterveys startupille](/tyoterveys/startup) · [Työterveyslääkäri](/tyoterveys/laakari) · [Työterveyden hinta](/tyoterveys/hinta) · [Miten valita työterveys](/tyoterveys/miten-valita)
 
 **Ulkoiset lähteet:** [Kela: Etävastaanotot](https://www.kela.fi/etavastaanotot) · [THL: Etäpalvelut terveydenhuollossa](https://thl.fi)

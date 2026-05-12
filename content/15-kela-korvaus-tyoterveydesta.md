@@ -153,6 +153,6 @@ Starthealthin asiakkaat saavat valmiit kustannuserittelyt Kela-hakemusta varten 
 
 ---
 
-**Sisäiset linkit:** [Työterveys hinta](/blog/tyoterveys-hinta) · [Työterveyshuollon toimintasuunnitelma](/blog/tyoterveyshuollon-toimintasuunnitelma) · [Työterveys yrittäjälle](/blog/tyoterveys-yrittajalle)
+**Sisäiset linkit:** [Työterveyden hinta](/tyoterveys/hinta) · [Onko työterveys pakollinen](/tyoterveys/pakollinen) · [Työterveydenhuollon sopimus](/tyoterveys/sopimus) · [Työterveyden todelliset kustannukset](/tyoterveys/kustannukset) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Kela: Korvauskatot](https://www.kela.fi/tyoterveyshuolto-korvauskatot)
