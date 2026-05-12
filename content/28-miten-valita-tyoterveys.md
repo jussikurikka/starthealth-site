@@ -222,6 +222,6 @@ Starthealth tekee kilpailutuksen helpoksi — saat tarjouksen 48 tunnissa, selke
 
 ---
 
-**Sisäiset linkit:** [Työterveyden todelliset kustannukset](/blog/tyoterveyden-todelliset-kustannukset) · [Työterveyden vaihtaminen](/blog/tyoterveyden-vaihtaminen) · [Mitä työterveyteen kuuluu](/blog/mita-tyoterveyteen-kuuluu)
+**Sisäiset linkit:** [Työterveyden vertailu](/tyoterveys/vertailu) · [Mehiläinen vs Terveystalo vs Pihlajalinna](/tyoterveys/mehilainen-terveystalo) · [Työterveyden hinta](/tyoterveys/hinta) · [Työterveyden vaihtaminen](/tyoterveys/vaihtaminen) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuolto](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaitos](https://www.ttl.fi)

@@ -147,6 +147,6 @@ Starthealth auttaa pk-yrityksiä mittaamaan ja kehittämään työhyvinvointia k
 
 ---
 
-**Sisäiset linkit:** [Työkykyjohtaminen](/blog/tyokykyjohtaminen) · [Sairauspoissaolojen vähentäminen](/blog/sairauspoissaolojen-vahentaminen) · [Mielenterveys työpaikalla](/blog/mielenterveys-tyopaikalla)
+**Sisäiset linkit:** [Mielenterveys työpaikalla](/tyoterveys/mielenterveys) · [Burnout työssä](/tyoterveys/burnout) · [Sairauspoissaolojen vähentäminen](/tyoterveys/sairauspoissaolot) · [Työkykyjohtaminen](/tyoterveys/tyokykyjohtaminen) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
 
 **Ulkoiset lähteet:** [Työterveyslaitos: Työhyvinvointi](https://www.ttl.fi/tyohyvinvointi) · [STM: Työhyvinvointi](https://stm.fi/tyohyvinvointi)

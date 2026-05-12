@@ -203,6 +203,6 @@ Starthealthin työterveystarkastukset ovat selkeitä, ajansäästäviä ja jätt
 
 ---
 
-**Sisäiset linkit:** [Mitä työterveyteen kuuluu](/blog/mita-tyoterveyteen-kuuluu) · [Työterveyshoitaja](/blog/tyoterveyshoitaja) · [Työterveyslääkäri](/blog/tyoterveyslaakari)
+**Sisäiset linkit:** [Työterveyslääkäri](/tyoterveys/laakari) · [Työterveydenhoitaja](/tyoterveys/hoitaja) · [Mitä työterveyshuoltoon kuuluu](/tyoterveys/mita-kuuluu) · [Työterveyden hinta](/tyoterveys/hinta) · [Onko työterveys pakollinen](/tyoterveys/pakollinen)
 
 **Ulkoiset lähteet:** [Työterveyslaitos: Terveystarkastukset](https://www.ttl.fi/terveystarkastukset) · [Finlex: Työterveyshuoltolaki](https://www.finlex.fi/fi/laki/ajantasa/2001/20011383)

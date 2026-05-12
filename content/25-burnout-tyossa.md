@@ -242,6 +242,6 @@ Starthealth tukee pk-yrityksiä burnoutin ennaltaehkäisyssä ja hoidossa — ly
 
 ---
 
-**Sisäiset linkit:** [Mielenterveys työpaikalla](/blog/mielenterveys-tyopaikalla) · [Työhyvinvointi pienyritys](/blog/tyohyvinvointi-pienyritys) · [Työkykyjohtaminen](/blog/tyokykyjohtaminen)
+**Sisäiset linkit:** [Mielenterveys työpaikalla](/tyoterveys/mielenterveys) · [Työhyvinvointi pienyrityksessä](/tyoterveys/tyohyvinvointi) · [Sairauspoissaolojen vähentäminen](/tyoterveys/sairauspoissaolot) · [Työterveyslääkäri](/tyoterveys/laakari) · [Työterveys etänä](/tyoterveys/etana)
 
 **Ulkoiset lähteet:** [Työterveyslaitos: Työuupumus](https://www.ttl.fi/tyouupumus) · [Mieli ry](https://mieli.fi)
