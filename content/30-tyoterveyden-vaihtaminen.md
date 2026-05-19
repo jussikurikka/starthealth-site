@@ -210,7 +210,7 @@ Kyllä, erityisesti jos kasvun aikataulu ja vaihdon aikataulu koordinoituvat. Uu
 
 Starthealth tekee vaihtamisen helpoksi — autamme irtisanomisprosessissa, koordinoimme aikataulun ja käynnistämme palvelun niin, että tiimi ei tunne siirtymää.
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

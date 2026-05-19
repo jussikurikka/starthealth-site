@@ -192,7 +192,7 @@ Kerran vuodessa budjetoinnin yhteydessä. Tarkista hinnankorotukset ja käyttöm
 
 Starthealthin hinnoittelu on selkeää — ei yllätyksiä, selkeät käyttömaksut ja läpinäkyvä Kela-korvausten hallinta.
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

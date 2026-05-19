@@ -143,7 +143,7 @@ Lyhyt (5 min) kyselyssä 2–4 kertaa vuodessa on riittävä. Pitkä (15 min) 1 
 
 Starthealth auttaa pk-yrityksiä mittaamaan ja kehittämään työhyvinvointia käytännönläheisesti.
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

@@ -213,13 +213,13 @@ Mielen hyvinvoinnin palveluiden kynnystä alentaa se, että ajanvaraus tapahtuu 
 - **Lyhytterapia** Kela 2 -tasolla sisältyvissä sopimuksissa
 - **Työnantaja ei näe yksilökohtaisia tietoja** — vain anonyymit yhteenvedot
 
-Ajanvaraus: [starthealth.fi/varaa-aika](/varaa-aika). Digitaalinen kanava madaltaa kynnystä hakea apua aikaisessa vaiheessa — ennen kuin oireet kehittyvät vakaviksi.
+Ajanvaraus: [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Digitaalinen kanava madaltaa kynnystä hakea apua aikaisessa vaiheessa — ennen kuin oireet kehittyvät vakaviksi.
 
 ## Varaa aika tai pyydä tarjous
 
 Starthealthin työterveys sisältää lyhytterapian, työpsykologin ja aktiivisen mielen hyvinvoinnin seurannan.
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 
