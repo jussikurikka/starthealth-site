@@ -68,11 +68,11 @@ Starthealth.fi ei ole pelkkä markkinointisivu — se on palvelun ydin, josta es
 - **Lähivastaanotto** tarvittaessa
 - **Psykologi ja työpsykologi** ajanvaraus samasta näkymästä
 
-Ajanvaraus: [starthealth.fi/varaa-aika](/varaa-aika). Tämä tekee palvelusta matalakynnyksisen — moni tarvitsee vain chat-viestin ratkaistakseen asiansa.
+Ajanvaraus: [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Tämä tekee palvelusta matalakynnyksisen — moni tarvitsee vain chat-viestin ratkaistakseen asiansa.
 
 ## Varaa aika tai pyydä tarjous työterveydestä Espooseen
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

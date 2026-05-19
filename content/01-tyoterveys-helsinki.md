@@ -80,13 +80,13 @@ Starthealthin nettisivut toimivat myös varsinaisena ajanvarauksen käyttöliitt
 - **Lähivastaanotto Helsingin toimipisteessä** — kun fyysinen käynti on tarpeen
 - **Työpsykologi ja lyhytterapia** — ajanvaraus samassa näkymässä
 
-Ajanvaraus löytyy osoitteesta [starthealth.fi/varaa-aika](/varaa-aika). Työnantaja näkee käytön anonyymit yhteenvedot kuukausiraportissa.
+Ajanvaraus löytyy osoitteesta [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Työnantaja näkee käytön anonyymit yhteenvedot kuukausiraportissa.
 
 ## Varaa aika tai pyydä tarjous työterveydestä Helsinkiin
 
 Starthealth on Helsingin nykyaikaisin valinta pk-yritysten työterveyteen. Pyydä tarjous tästä — saat hinnan 24 tunnissa, ja työterveys voidaan käynnistää viikossa.
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

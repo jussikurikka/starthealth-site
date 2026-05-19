@@ -88,13 +88,13 @@ Starthealthin sivusto on myös ajanvarauksen käyttöliittymä. Tampereella työ
 - **Lähivastaanotto Tampereen keskustassa** kun fyysinen käynti on tarpeen
 - **Mielen hyvinvoinnin palvelut** (psykologi, lyhytterapia) samasta näkymästä
 
-Varaus tehdään osoitteessa [starthealth.fi/varaa-aika](/varaa-aika). Kirjautuminen työpaikan kautta, ja hoitohistoria pysyy samassa paikassa vastaanottotyypistä riippumatta.
+Varaus tehdään osoitteessa [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Kirjautuminen työpaikan kautta, ja hoitohistoria pysyy samassa paikassa vastaanottotyypistä riippumatta.
 
 ## Varaa aika tai pyydä tarjous työterveydestä Tampereelle
 
 Starthealth on nopein tapa saada moderni työterveys käyntiin Tampereella. Pyydä tarjous tästä.
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 
