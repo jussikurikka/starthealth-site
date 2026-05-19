@@ -13,18 +13,47 @@ const SEOHead = ({ title, description, canonicalPath }: Props) => {
     const prevTitle = document.title;
     document.title = title;
 
-    const setMeta = (name: string, content: string) => {
+    const url = `${SITE}${canonicalPath}`;
+
+    const setNamedMeta = (name: string, content: string) => {
       let el = document.querySelector(`meta[name="${name}"]`) as HTMLMetaElement | null;
+      const created = !el;
+      const prev = el?.getAttribute('content');
       if (!el) {
         el = document.createElement('meta');
         el.setAttribute('name', name);
         document.head.appendChild(el);
       }
       el.setAttribute('content', content);
-      return el;
+      return { el, created, prev };
+    };
+    const setPropMeta = (property: string, content: string) => {
+      let el = document.querySelector(`meta[property="${property}"]`) as HTMLMetaElement | null;
+      const created = !el;
+      const prev = el?.getAttribute('content');
+      if (!el) {
+        el = document.createElement('meta');
+        el.setAttribute('property', property);
+        document.head.appendChild(el);
+      }
+      el.setAttribute('content', content);
+      return { el, created, prev };
     };
 
-    const desc = setMeta('description', description);
+    const restores: Array<() => void> = [];
+    const apply = (r: { el: HTMLMetaElement; created: boolean; prev?: string | null }) => {
+      restores.push(() => {
+        if (r.created) r.el.remove();
+        else if (r.prev != null) r.el.setAttribute('content', r.prev);
+      });
+    };
+
+    apply(setNamedMeta('description', description));
+    apply(setPropMeta('og:title', title));
+    apply(setPropMeta('og:description', description));
+    apply(setPropMeta('og:url', url));
+    apply(setNamedMeta('twitter:title', title));
+    apply(setNamedMeta('twitter:description', description));
 
     let canonical = document.querySelector('link[rel="canonical"]') as HTMLLinkElement | null;
     const hadCanonical = !!canonical;
@@ -34,10 +63,11 @@ const SEOHead = ({ title, description, canonicalPath }: Props) => {
       canonical.setAttribute('rel', 'canonical');
       document.head.appendChild(canonical);
     }
-    canonical.href = `${SITE}${canonicalPath}`;
+    canonical.href = url;
 
     return () => {
       document.title = prevTitle;
+      restores.forEach((fn) => fn());
       if (canonical && !hadCanonical) canonical.remove();
       else if (canonical && prevHref) canonical.href = prevHref;
     };

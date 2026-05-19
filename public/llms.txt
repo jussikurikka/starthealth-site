@@ -1,0 +1,36 @@
+# StartHealth
+
+> Lakisääteinen työterveyshuolto 1–200 hengen pk-yrityksille Helsingissä ja etänä koko Suomessa. Kiinteä hinta, nopea hoitoonpääsy ja selkeä palvelumalli.
+
+## Pages
+
+- [Etusivu](/): Palvelupaketit, hinnoittelu, prosessi ja yhteydenotto.
+- [Blogi](/blog): Artikkelit työterveyshuollosta ja työhyvinvoinnista.
+
+## Työterveys-oppaat
+
+- [Työterveys Helsinki](/tyoterveys/helsinki): Työterveyshuolto Helsingin pk-yrityksille.
+- [Työterveys pk-yritykselle](/tyoterveys/pienyritys): Opas pk-yrityksen työterveyteen.
+- [Työterveys startupille](/tyoterveys/startup): Työterveysratkaisut startupeille.
+- [Työterveyden hinta](/tyoterveys/hinta): Mitä työterveys maksaa 2026.
+- [Työterveys yrittäjälle](/tyoterveys/yrittajalle): YEL-yrittäjän työterveys.
+- [Digitaalinen työterveys](/tyoterveys/digitaalinen): Etätyöterveys ja digipalvelut.
+- [Työterveyden vertailu](/tyoterveys/vertailu): Toimijoiden vertailu.
+- [Mitä työterveyteen kuuluu](/tyoterveys/mita-kuuluu): Kela 1 ja Kela 2 sisällöt.
+- [Onko työterveys pakollinen](/tyoterveys/pakollinen): Lakisääteiset velvoitteet.
+- [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus): Korvaustasot ja haku.
+- [Työterveyssopimus](/tyoterveys/sopimus): Sopimuksen sisältö ja vaiheet.
+- [Toimintasuunnitelma](/tyoterveys/toimintasuunnitelma): Työterveyshuollon toimintasuunnitelma.
+- [Työterveyslääkäri](/tyoterveys/laakari): Lääkärin rooli ja tehtävät.
+- [Työterveydenhoitaja](/tyoterveys/hoitaja): Hoitajan rooli.
+- [Työterveys etänä](/tyoterveys/etana): Etävastaanotot.
+- [Sairauspoissaolojen vähentäminen](/tyoterveys/sairauspoissaolot)
+- [Työhyvinvointi pienyrityksessä](/tyoterveys/tyohyvinvointi)
+- [Työkykyjohtaminen](/tyoterveys/tyokykyjohtaminen)
+- [Mielenterveys työpaikalla](/tyoterveys/mielenterveys)
+- [Burnout työssä](/tyoterveys/burnout)
+- [Työterveystarkastus](/tyoterveys/tarkastus)
+- [Mehiläinen vs Terveystalo vs Pihlajalinna](/tyoterveys/mehilainen-terveystalo)
+- [Miten valita työterveys](/tyoterveys/miten-valita)
+- [Työterveyden todelliset kustannukset](/tyoterveys/kustannukset)
+- [Työterveyden vaihtaminen](/tyoterveys/vaihtaminen)

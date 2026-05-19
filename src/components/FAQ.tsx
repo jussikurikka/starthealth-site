@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import {
   Accordion,
@@ -78,6 +79,26 @@ const FAQ = () => {
           a: "Yes. The service can be arranged entirely remotely, as in the Basic package – workplace assessment, doctor appointments, psychologist remote consultation, and physiotherapy guidance. This enables fast access to care regardless of location.",
         },
       ];
+
+  useEffect(() => {
+    const ld = {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqs.map((f) => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a },
+      })),
+    };
+    const script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.text = JSON.stringify(ld);
+    script.dataset.seo = 'faq';
+    document.head.appendChild(script);
+    return () => {
+      script.remove();
+    };
+  }, [language]);
 
   return (
     <section className="py-16 bg-background">
