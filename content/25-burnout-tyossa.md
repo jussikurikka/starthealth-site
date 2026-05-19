@@ -232,13 +232,13 @@ Burnoutissa kynnys soittaa tai lähettää sähköpostia voi olla korkea. Starth
 - **Lyhytterapia** Kela 2 -tasolla sisältyvissä sopimuksissa
 - **Lääkärin arvio sairauspoissaolon tarpeesta** tarvittaessa
 
-Ajanvaraus: [starthealth.fi/varaa-aika](/varaa-aika). Matalampi kynnys → aikaisempi kontakti → lyhyempi palautuminen.
+Ajanvaraus: [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Matalampi kynnys → aikaisempi kontakti → lyhyempi palautuminen.
 
 ## Varaa aika tai pyydä tarjous
 
 Starthealth tukee pk-yrityksiä burnoutin ennaltaehkäisyssä ja hoidossa — lyhytterapia, työpsykologi, esimiesvalmennus.
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 
