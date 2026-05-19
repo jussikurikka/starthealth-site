@@ -78,7 +78,7 @@ Suurissa ketjuissa 3–8 viikkoa, digitaalisilla haastajilla 1–2 viikkoa.
 
 ## Varaa aika verkossa — yhtenäinen kokemus pääkaupunkiseudulla
 
-Helsinki, Espoo, Vantaa — Starthealthin ajanvaraus on sama riippumatta siitä missä työntekijä asuu tai työskentelee. Sivusto toimii käyttöliittymänä: [starthealth.fi/varaa-aika](/varaa-aika).
+Helsinki, Espoo, Vantaa — Starthealthin ajanvaraus on sama riippumatta siitä missä työntekijä asuu tai työskentelee. Sivusto toimii käyttöliittymänä: [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi).
 
 - **Chat ja videovastaanotto** toimivat kaikkialla pääkaupunkiseudulla
 - **Lähivastaanotto** kumppaniverkoston kautta Helsingissä (ja tulossa Espoon/Vantaan lisäpisteitä)
@@ -89,7 +89,7 @@ Ajanvarauksen korkea löydettävyys on palvelulupauksen ydin — hoitoon pääsy
 
 ## Varaa aika tai pyydä tarjous pääkaupunkiseudulle
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

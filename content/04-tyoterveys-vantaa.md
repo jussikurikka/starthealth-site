@@ -66,7 +66,7 @@ Tyypillisesti 250–500 € / työntekijä / vuosi. Pyydä tarjous saadaksesi ta
 
 ## Varaa aika verkossa — vantaalaiselle työntekijälle
 
-Starthealthin ajanvaraus on osa varsinaista palvelua, ei erillinen kanava. Vantaalainen työntekijä varaa ajan itse osoitteessa [starthealth.fi/varaa-aika](/varaa-aika).
+Starthealthin ajanvaraus on osa varsinaista palvelua, ei erillinen kanava. Vantaalainen työntekijä varaa ajan itse osoitteessa [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi).
 
 - **Chat** (nopein tapa)
 - **Videovastaanotto** (sama päivä useimmiten)
@@ -77,7 +77,7 @@ Työnantajan ei tarvitse hallinnoida ajanvarausta — järjestelmä hoitaa sen s
 
 ## Varaa aika tai pyydä tarjous
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 
