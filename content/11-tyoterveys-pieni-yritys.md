@@ -115,7 +115,7 @@ Hyvä toimija lisää työntekijän saman päivän aikana. Laskutus alkaa seuraa
 
 Starthealth on suunniteltu nimenomaan pienille yrityksille: kiinteä hinta, digitaalinen vastaanotto, nopea aloitus.
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

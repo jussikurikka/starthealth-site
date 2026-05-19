@@ -145,13 +145,13 @@ Starthealthin sivusto toimii myös ajanvarauksen käyttöliittymänä: työnteki
 - **Lähivastaanotto** kun tutkimus tai toimenpide vaatii
 - **Sähköinen resepti** suoraan Kanta-palveluun
 
-Kaikki ajanvaraus tapahtuu osoitteessa [starthealth.fi/varaa-aika](/varaa-aika). Hoitohistoria säilyy samassa paikassa vastaanottotyypistä riippumatta.
+Kaikki ajanvaraus tapahtuu osoitteessa [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Hoitohistoria säilyy samassa paikassa vastaanottotyypistä riippumatta.
 
 ## Varaa aika tai pyydä tarjous
 
 Starthealth nimeää jokaiselle asiakkaalle vastuulääkärin — et asioi kasvottoman tiimin kanssa, vaan tiedät, kenen kanssa teet työtä.
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 
