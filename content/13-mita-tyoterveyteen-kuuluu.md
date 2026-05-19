@@ -132,7 +132,7 @@ Työterveys on sidottu työnantajaan, sen piiriin pääsevät vain kyseisen yrit
 
 Starthealthin sopimus sisältää selkeän listan siitä, mitä pakettiin kuuluu — ei piilokuluja, ei yllätyksiä.
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

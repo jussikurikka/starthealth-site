@@ -142,13 +142,13 @@ Etätyöterveyden ydin on itsepalveluajanvaraus. Starthealthin sivusto toimii va
 - **Lähivastaanotto** kumppaniverkoston kautta kun tarve on
 - **Psykologi, työpsykologi ja lyhytterapia** kaikki saman ajanvarauksen alla
 
-Ajanvaraus: [starthealth.fi/varaa-aika](/varaa-aika). Koska sivusto on palvelun ydin, myös hakukonehaut kuten "työterveyslääkäri video" tai "työterveyshoitaja chat" johtavat suoraan hoitoon.
+Ajanvaraus: [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Koska sivusto on palvelun ydin, myös hakukonehaut kuten "työterveyslääkäri video" tai "työterveyshoitaja chat" johtavat suoraan hoitoon.
 
 ## Varaa aika tai pyydä tarjous
 
 Starthealthin etätyöterveys on suunniteltu modernin, hajautetun tiimin tarpeisiin — chat, video, sähköiset reseptit ja sairauslomatodistukset.
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

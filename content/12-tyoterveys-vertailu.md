@@ -119,7 +119,7 @@ Heltti on keskittynyt Helsingin kasvuyrityksiin ja tarjoaa laajempaa design-orie
 
 Paras vertailu tapahtuu konkreettisten tarjousten perusteella. Pyydä Starthealthilta tarjous 5 minuutin kyselyllä — saat hinnan 24 tunnissa.
 
-[Varaa aika verkossa →](/varaa-aika) · [Pyydä tarjous →](/tarjous)
+[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 
