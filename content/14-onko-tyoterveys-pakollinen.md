@@ -112,11 +112,11 @@ Työnantaja on vastuullinen, mutta käytännön järjestelyn voi tehdä kuka tah
 ### Voiko työterveyttä lykätä, jos yrityksellä on vain yksi työntekijä?
 Ei. Velvoite alkaa ensimmäisestä työntekijästä. Onneksi pienen yrityksen työterveys on edullinen (n. 10–50 €/kk/hlö).
 
-## Varaa aika tai pyydä tarjous työterveydestä
+## Pyydä tarjous
 
 Starthealth aloittaa työterveyden viikossa — saat sopimuksen voimaan ennen uuden työntekijän aloittamista.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

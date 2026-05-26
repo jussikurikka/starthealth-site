@@ -111,11 +111,11 @@ Kiinteähintaisessa mallissa käyttömäärä ei vaikuta hintaan kuukausittain. 
 ### Mitä jos palkkaan uuden työntekijän kesken kuukauden?
 Hyvä toimija lisää työntekijän saman päivän aikana. Laskutus alkaa seuraavan kuun alusta (tai pro rata).
 
-## Varaa aika tai pyydä tarjous pienen yrityksesi työterveydestä
+## Pyydä tarjous
 
 Starthealth on suunniteltu nimenomaan pienille yrityksille: kiinteä hinta, digitaalinen vastaanotto, nopea aloitus.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

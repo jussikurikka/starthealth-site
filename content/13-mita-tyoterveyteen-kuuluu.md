@@ -128,11 +128,11 @@ Ei. Työterveys koskee ainoastaan työntekijää (ja yrittäjää, jos mukana).
 ### Miten työterveyspalvelut eroavat yksityisestä lääkäriasemasta?
 Työterveys on sidottu työnantajaan, sen piiriin pääsevät vain kyseisen yrityksen työntekijät, ja sen hinta on työnantajan neuvottelema. Yksityinen lääkäriasema on yksilön oma valinta ja laskutus.
 
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealthin sopimus sisältää selkeän listan siitä, mitä pakettiin kuuluu — ei piilokuluja, ei yllätyksiä.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

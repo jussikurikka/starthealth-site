@@ -115,11 +115,11 @@ Digitaaliset toimijat (Starthealth, Heltti) ovat yleensä edullisimpia pk-yrityk
 ### Miten Heltti ja Starthealth eroavat?
 Heltti on keskittynyt Helsingin kasvuyrityksiin ja tarjoaa laajempaa design-orientoitunutta palvelua. Starthealth on keskittynyt pk-yritysten kustannustehokkaaseen palveluun koko pääkaupunkiseudulla.
 
-## Varaa aika tai pyydä tarjous ja vertaa
+## Pyydä tarjous
 
 Paras vertailu tapahtuu konkreettisten tarjousten perusteella. Pyydä Starthealthilta tarjous 5 minuutin kyselyllä — saat hinnan 24 tunnissa.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 
