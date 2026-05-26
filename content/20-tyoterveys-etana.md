@@ -133,22 +133,11 @@ Kyllä. Kela korvaa etävastaanoton samoilla periaatteilla kuin lähivastaanoton
 ### Mitä jos etävastaanoton lääkäri suosittelee lähikäyntiä?
 Ohjaus lähivastaanotolle on saumaton. Yleensä saat ajan saman päivän tai seuraavan päivän aikana.
 
-## Varaa aika etänä — sivusto on itse palvelu
-
-Etätyöterveyden ydin on itsepalveluajanvaraus. Starthealthin sivusto toimii varsinaisena käyttöliittymänä: työntekijä kirjautuu, valitsee palvelun ja varaa ajan itse.
-
-- **Chat-vastaanotto** käynnistyy yleensä minuuteissa
-- **Videopuhelu lääkärin tai hoitajan kanssa** saman päivän aikana
-- **Lähivastaanotto** kumppaniverkoston kautta kun tarve on
-- **Psykologi, työpsykologi ja lyhytterapia** kaikki saman ajanvarauksen alla
-
-Ajanvaraus: [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Koska sivusto on palvelun ydin, myös hakukonehaut kuten "työterveyslääkäri video" tai "työterveyshoitaja chat" johtavat suoraan hoitoon.
-
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealthin etätyöterveys on suunniteltu modernin, hajautetun tiimin tarpeisiin — chat, video, sähköiset reseptit ja sairauslomatodistukset.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

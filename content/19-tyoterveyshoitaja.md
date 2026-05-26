@@ -157,22 +157,11 @@ Arviointi, ohjausta itsehoitoon tai ohjaus lääkärille, sairauslomatodistus jo
 ### Voinko itse valita työterveyshoitajan?
 Joissain toimijoissa kyllä, isommissa yleensä ei. Yleensä kuitenkin työterveyshoitajan löytää sama, joka vastaa oman yrityksen sopimuksesta.
 
-## Varaa aika työterveyshoitajalle verkossa
-
-Työterveyshoitaja on useimmiten se, johon työntekijä ensin ottaa yhteyttä. Starthealthissa tämä tapahtuu suoraan sivuston kautta — ei puhelinaikoja, ei jonotusta.
-
-- **Chat** on nopein tapa saada yhteys työterveyshoitajaan — vastaus minuuteissa
-- **Videovastaanotto** kun keskustelu vaatii enemmän aikaa
-- **Lähivastaanotto** terveystarkastuksiin ja toimenpiteisiin
-- **Hoitaja koordinoi** lääkäriajanvaraukset automaattisesti jos tarvitaan
-
-Ajanvaraus: [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Tämä madaltaa kynnystä ottaa yhteyttä — moni asia ratkeaa pelkällä chat-viestillä.
-
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealthissa jokainen asiakas saa nimetyn työterveyshoitajan, joka tuntee yrityksesi ja tiimin.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

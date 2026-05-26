@@ -168,11 +168,11 @@ Kela voi pienentää korvausta tai evätä se kokonaan. Päivitä mahdollisimman
 ### Onko työsuojeluvaltuutetun allekirjoitus pakollinen?
 Ei pakollinen, mutta suositeltava. Pienissä yrityksissä työsuojeluvaltuutettua ei ole, jolloin toimintasuunnitelman hyväksyy työnantaja.
 
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealth laatii toimintasuunnitelman yhdessä kanssasi 2 viikon sisällä työpaikkaselvityksestä — räätälöity, ei valmis kopioitu sapluuna.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

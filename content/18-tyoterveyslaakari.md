@@ -136,22 +136,11 @@ Kyllä, täysin sama. Potilastiedot eivät siirry työnantajalle muuta kuin anon
 ### Voiko työterveyslääkärin kanssa käydä ennaltaehkäisevän tarkastuksen?
 Kyllä. Säännölliset terveystarkastukset ovat osa työterveyden peruspakettia.
 
-## Varaa aika työterveyslääkärille verkossa
-
-Starthealthin sivusto toimii myös ajanvarauksen käyttöliittymänä: työntekijä varaa ajan työterveyslääkärille itse, ilman puhelinaikoja. Hakutermit kuten "työterveyslääkäri video", "työterveyslääkäri ajanvaraus" tai "työterveyslääkäri Helsinki" johtavat suoraan ajanvaraukseen.
-
-- **Chat-ensikontakti** työterveyshoitajalta — lääkäri kutsutaan mukaan tarvittaessa
-- **Videovastaanotto lääkärin kanssa** saman päivän aikana
-- **Lähivastaanotto** kun tutkimus tai toimenpide vaatii
-- **Sähköinen resepti** suoraan Kanta-palveluun
-
-Kaikki ajanvaraus tapahtuu osoitteessa [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Hoitohistoria säilyy samassa paikassa vastaanottotyypistä riippumatta.
-
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealth nimeää jokaiselle asiakkaalle vastuulääkärin — et asioi kasvottoman tiimin kanssa, vaan tiedät, kenen kanssa teet työtä.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

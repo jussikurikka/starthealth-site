@@ -129,11 +129,11 @@ Kyllä, osapuolten suostumuksella. Työntekijämäärän muutokset ovat yleensä
 ### Mitä jos olen tyytymätön työterveyteen?
 Ensisijaisesti keskustele toimijan kanssa — moni ongelma ratkeaa. Jos ei, irtisanomisaika juoksuttaa. Joissain sopimuksissa on purkulauseke.
 
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealthin sopimus on lyhyt, selkeä ja sähköinen — ei yli 3 sivua, ei piilokuluja.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 
