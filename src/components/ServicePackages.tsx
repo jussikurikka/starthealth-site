@@ -75,7 +75,6 @@ const ServicePackages = () => {
         'Erikoislääkärikonsultaatiot',
         'Fysioterapia ja kuntoutuspalvelut',
         'Yritykselle räätälöidyt lisäpalvelut',
-        'Kiireellinen 24/7 neuvonta',
       ],
       popular: false,
     },
