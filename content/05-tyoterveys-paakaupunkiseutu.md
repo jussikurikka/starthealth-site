@@ -26,7 +26,7 @@ Pääkaupunkiseudulla markkinaa hallitsevat kolme suurta toimijaa: **Mehiläinen
 | Terveystalo | Kattava palvelu | Hinnoittelu epäläpinäkyvää | Perinteinen kaivaten |
 | Pihlajalinna | Vahva brändi | Raskas prosessi | Keskisuuret |
 | Heltti | Digitaalisuus | Vahva Helsinki-fokus | Kasvuyritykset |
-| Starthealth | Kiinteä hinta, nopea aloitus | Uudempi toimija | 5–250 hlö pk-yritykset |
+| Starthealth | Kiinteä hinta, nopea aloitus | Uudempi toimija | alle 200 hlön pk-yritykset |
 
 ## Mitä työterveys maksaa pääkaupunkiseudulla
 
@@ -51,13 +51,13 @@ Pienet yritykset pärjäävät usein 200–400 € / työntekijä / vuosi hinnal
 ## Vertailu: suuri ketju vs digitaalinen haastaja
 
 **Suuri ketju sopii kun:**
-- Yritys on yli 250 henkeä
+- Yritys on yli 200 henkeä
 - Toimipaikkoja on useita ja eri paikkakunnilla
 - Erityislaboratorioita ja kuvantamista tarvitaan paljon
 - Työpaikalla tapahtuu suuria riskejä
 
 **Digitaalinen haastaja sopii kun:**
-- Yritys on 5–250 henkilöä
+- Yritys on alle 200 henkilöä
 - Asiantuntijatyötä, toimistotyötä tai etätyötä
 - Haluat läpinäkyvän kuukausihinnan
 - Arvostat nopeaa aloitusta ja helppoutta
@@ -81,7 +81,7 @@ Suurissa ketjuissa 3–8 viikkoa, digitaalisilla haastajilla 1–2 viikkoa.
 Helsinki, Espoo, Vantaa — Starthealthin ajanvaraus on sama riippumatta siitä missä työntekijä asuu tai työskentelee. Sivusto toimii käyttöliittymänä: [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi).
 
 - **Chat ja videovastaanotto** toimivat kaikkialla pääkaupunkiseudulla
-- **Lähivastaanotto** kumppaniverkoston kautta Helsingissä (ja tulossa Espoon/Vantaan lisäpisteitä)
+- **Lähivastaanotto** Kampissa
 - **Sama profiili ja hoitohistoria** — ei tarvitse vaihtaa toimipaikkaa jos muuttaa
 - **Työpsykologi ja lyhytterapia** kaikille käyttäjille
 

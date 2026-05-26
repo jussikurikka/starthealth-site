@@ -24,7 +24,7 @@ Suomen työterveysmarkkinalla toimii useita isoja ja pienempiä toimijoita. Oike
 | **Terveystalo** | 50+ hlö, monta toimipaikkaa | Keskitaso–korkea | Hyvä | Pitkät sopimukset |
 | **Pihlajalinna** | 50+ hlö | Keskitaso | Kohtalainen | Pitkät sopimukset |
 | **Heltti** | Kasvuyritykset, Helsinki | Keskitaso | Erinomainen | Lyhyet sopimukset |
-| **Starthealth** | 5–250 hlö pk-yritykset | Läpinäkyvä, kiinteä | Erinomainen | Joustava |
+| **Starthealth** | alle 200 hlön pk-yritykset | Läpinäkyvä, kiinteä | Erinomainen | Joustava |
 
 ## Mehiläinen
 
@@ -62,9 +62,9 @@ Suomen työterveysmarkkinalla toimii useita isoja ja pienempiä toimijoita. Oike
 
 **Vahvuudet:** Kiinteä kuukausihinta, nopea aloitus (1 viikko), digitaalinen vastaanotto, joustava sopimus.
 
-**Heikkoudet:** Uudempi toimija (pienempi brändi), verkosto rakentuu pääkaupunkiseudulle ja Tampereelle.
+**Heikkoudet:** Uudempi toimija (pienempi brändi), verkosto rakentuu pääkaupunkiseudulle.
 
-**Sopii:** 5–250 hengen pk-yrityksille, jotka arvostavat läpinäkyvyyttä ja joustavuutta.
+**Sopii:** alle 200 hengen pk-yrityksille, jotka arvostavat läpinäkyvyyttä ja joustavuutta.
 
 ## Vertailukriteerit — mikä todella merkitsee
 
@@ -88,7 +88,7 @@ Nyt standardi, mutta toteutus vaihtelee. Tärkeää kasvuyrityksissä ja asiantu
 
 ## Päätöskartta
 
-**< 20 hlö, kasvuyritys, Helsinki/Tampere?** → Starthealth tai Heltti
+**< 20 hlö, kasvuyritys, Helsinki?** → Starthealth tai Heltti
 
 **20–100 hlö, pk-yritys, pääkaupunkiseutu?** → Starthealth, Heltti tai Terveystalo
 
@@ -113,7 +113,7 @@ Kyllä, irtisanomisajan puitteissa. Joissain sopimuksissa on purkulauseke tyytym
 Digitaaliset toimijat (Starthealth, Heltti) ovat yleensä edullisimpia pk-yrityksille. Pelkkä Kela 1 on halvempi mutta ei aina riittävä.
 
 ### Miten Heltti ja Starthealth eroavat?
-Heltti on keskittynyt Helsingin kasvuyrityksiin ja tarjoaa laajempaa design-orientoitunutta palvelua. Starthealth on keskittynyt pk-yritysten kustannustehokkaaseen palveluun koko pääkaupunkiseudulla ja Tampereella.
+Heltti on keskittynyt Helsingin kasvuyrityksiin ja tarjoaa laajempaa design-orientoitunutta palvelua. Starthealth on keskittynyt pk-yritysten kustannustehokkaaseen palveluun koko pääkaupunkiseudulla.
 
 ## Varaa aika tai pyydä tarjous ja vertaa
 
