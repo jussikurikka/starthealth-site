@@ -206,11 +206,11 @@ Yleensä ei — työpaikkaselvitys uudelle voi maksaa 800–2 500 €, mutta muu
 ### Voiko vaihdon tehdä kasvussa ilman häiriötä?
 Kyllä, erityisesti jos kasvun aikataulu ja vaihdon aikataulu koordinoituvat. Uudet työntekijät voi tuoda suoraan uuteen palveluun.
 
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealth tekee vaihtamisen helpoksi — autamme irtisanomisprosessissa, koordinoimme aikataulun ja käynnistämme palvelun niin, että tiimi ei tunne siirtymää.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

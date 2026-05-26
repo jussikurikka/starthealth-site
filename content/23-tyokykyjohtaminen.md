@@ -160,11 +160,11 @@ Kyllä — jopa enemmän kuin suuren. Yhden ihmisen työkyvyttömyys pienessä y
 ### Miten työterveys tukee työkykyjohtamista?
 Hyvä työterveys on aktiivinen kumppani: tunnistaa riskit, ohjaa varhaiseen tukeen, osallistuu työkykyneuvotteluihin, koordinoi kuntoutusta.
 
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealthin työterveys sisältää aktiivisen työkykyjohtamisen tuen — kuukausiraportit, varhaisen tuen mallit ja työkykyneuvottelut.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

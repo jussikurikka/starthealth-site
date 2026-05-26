@@ -223,22 +223,11 @@ Useimmiten kyllä — jos työnantaja tukee muutoksessa. Joskus tilanne vaatii v
 ### Auttaako liikunta burnoutissa?
 Akuutissa vaiheessa voi pahentaa. Toipumisessa säännöllinen kevyt liikunta (kävely, jooga) auttaa. Kuuntele kehoa.
 
-## Varaa aika burnout-tilanteessa verkossa
-
-Burnoutissa kynnys soittaa tai lähettää sähköpostia voi olla korkea. Starthealthin sivusto toimii ajanvarauksen käyttöliittymänä: työntekijä voi varata ajan itsenäisesti, matalalla kynnyksellä.
-
-- **Chat** on nopein tapa aloittaa — työterveyshoitaja vastaa yleensä minuuteissa
-- **Videovastaanotto työpsykologille tai lääkärille** saman viikon sisällä
-- **Lyhytterapia** Kela 2 -tasolla sisältyvissä sopimuksissa
-- **Lääkärin arvio sairauspoissaolon tarpeesta** tarvittaessa
-
-Ajanvaraus: [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Matalampi kynnys → aikaisempi kontakti → lyhyempi palautuminen.
-
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealth tukee pk-yrityksiä burnoutin ennaltaehkäisyssä ja hoidossa — lyhytterapia, työpsykologi, esimiesvalmennus.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

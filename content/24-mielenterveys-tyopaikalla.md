@@ -204,22 +204,11 @@ Kyllä. Mutta se voi vaikuttaa työhön paluuseen ja tukiin. Pakollista se ei ol
 ### Miten tunnistan, että työntekijä tarvitsee ohjausta ammattilaiselle?
 Jos käyttäytymismuutos kestää yli 2 viikkoa, jos työntekijä itse toivoo apua, tai jos tilanne vaikuttaa akuutilta — ohjaa ajoissa.
 
-## Varaa aika työpsykologille tai lyhytterapiaan verkossa
-
-Mielen hyvinvoinnin palveluiden kynnystä alentaa se, että ajanvaraus tapahtuu yksityisesti ja digitaalisesti. Starthealthin sivusto on myös ajanvarauksen käyttöliittymä: työntekijä varaa ajan itse ilman välikäsiä.
-
-- **Chat työterveyshoitajalle** kun ei vielä tiedä, mitä tarvitsee
-- **Videovastaanotto työpsykologille** useimmissa tapauksissa saman viikon sisällä
-- **Lyhytterapia** Kela 2 -tasolla sisältyvissä sopimuksissa
-- **Työnantaja ei näe yksilökohtaisia tietoja** — vain anonyymit yhteenvedot
-
-Ajanvaraus: [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Digitaalinen kanava madaltaa kynnystä hakea apua aikaisessa vaiheessa — ennen kuin oireet kehittyvät vakaviksi.
-
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealthin työterveys sisältää lyhytterapian, työpsykologin ja aktiivisen mielen hyvinvoinnin seurannan.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

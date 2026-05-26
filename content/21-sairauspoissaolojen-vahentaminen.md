@@ -141,11 +141,11 @@ Osittain. Työterveys tukee työnantajaa — mutta esimiesten ja työntekijän o
 ### Milloin ilmoittaa työsuojeluun poissaoloista?
 Jos poissaolojen taustalla epäillään työperäisyyttä (esim. kuormitus, huono ergonomia), työsuojelutarkastaja voi olla mukana. Normaalit flunssat eivät vaadi ilmoitusta.
 
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealth tarjoaa sairauspoissaolojen hallintaan suunnitellut ohjelmat — mittarit, kuukausiraportointi, työkykyjohtamisen tuki.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 
