@@ -166,11 +166,11 @@ Sopivat, mutta pienemmät tai modernimmat toimijat voivat tarjota henkilökohtai
 ### Voiko valita useamman toimijan eri toimipaikkoihin?
 Teknisesti mahdollista, mutta sopimusten hallinta monimutkaistuu. Useimmat valitsevat yhden toimijan.
 
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealth on moderni, etävastaanottoa painottava työterveys pk-yrityksille — pyydä tarjous ja vertaile isoihin toimijoihin.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

@@ -214,11 +214,11 @@ Käytännössä ei — sopimus tehdään koko yritykselle.
 ### Milloin työterveys pitää olla valittuna uuden yrityksen?
 Heti ensimmäisestä työntekijästä alkaen. Työterveys on lakisääteinen.
 
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealth tekee kilpailutuksen helpoksi — saat tarjouksen 48 tunnissa, selkeän hinnoittelun ja sovelluksen testattavaksi.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

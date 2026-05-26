@@ -139,11 +139,11 @@ Employee Net Promoter Score: "Asteikolla 0–10, suosittelisitko yritystämme ty
 ### Kuinka usein pitäisi tehdä työhyvinvointikysely?
 Lyhyt (5 min) kyselyssä 2–4 kertaa vuodessa on riittävä. Pitkä (15 min) 1 kerran vuodessa.
 
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealth auttaa pk-yrityksiä mittaamaan ja kehittämään työhyvinvointia käytännönläheisesti.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

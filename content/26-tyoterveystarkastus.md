@@ -193,13 +193,13 @@ Työterveystarkastuksen ajanvaraus tapahtuu Starthealthissa suoraan verkkosivuje
 - **Kohdennetut tarkastukset** erityisriskien perusteella
 - **Automaattinen kutsu** kun tarkastus tulee ajankohtaiseksi
 
-Ajanvaraus: [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Työnantaja saa yhteenvedon osallistumisesta ja anonyymit löydökset ilman yksilökohtaisia tietoja.
+Työnantaja saa yhteenvedon osallistumisesta ja anonyymit löydökset ilman yksilökohtaisia tietoja.
 
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealthin työterveystarkastukset ovat selkeitä, ajansäästäviä ja jättävät työntekijälle konkreettisia suosituksia.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

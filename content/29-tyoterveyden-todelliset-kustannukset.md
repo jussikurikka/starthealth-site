@@ -188,11 +188,11 @@ Kela 1 minimipaketti on halvin (~100 €/hlö/v netto), mutta ei kata sairaanhoi
 ### Kuinka usein työterveyden budjetti pitää päivittää?
 Kerran vuodessa budjetoinnin yhteydessä. Tarkista hinnankorotukset ja käyttömäärät.
 
-## Varaa aika tai pyydä tarjous
+## Pyydä tarjous
 
 Starthealthin hinnoittelu on selkeää — ei yllätyksiä, selkeät käyttömaksut ja läpinäkyvä Kela-korvausten hallinta.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 
