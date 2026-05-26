@@ -59,20 +59,9 @@ Tyypillisesti 250–450 € / työntekijä / vuosi Kela 2 -tasolla. Kela 1 -taso
 ### Voiko työterveyden hoitaa pelkästään etänä?
 Kyllä. Useimmat Starthealthin asiakkaat hoitavat 80–90 % käynneistä digitaalisesti. Fyysinen vastaanotto on aina saatavilla tarvittaessa.
 
-## Varaa aika verkossa — espoolaiselle työntekijälle
+## Pyydä tarjous
 
-Starthealth.fi ei ole pelkkä markkinointisivu — se on palvelun ydin, josta espoolainen työntekijä varaa ajan itsenäisesti.
-
-- **Chat työterveyshoitajalle** tai lääkärille
-- **Videovastaanotto** saman päivän aikana
-- **Lähivastaanotto** tarvittaessa
-- **Psykologi ja työpsykologi** ajanvaraus samasta näkymästä
-
-Ajanvaraus: [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Tämä tekee palvelusta matalakynnyksisen — moni tarvitsee vain chat-viestin ratkaistakseen asiansa.
-
-## Varaa aika tai pyydä tarjous työterveydestä Espooseen
-
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

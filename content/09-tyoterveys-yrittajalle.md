@@ -115,11 +115,11 @@ Saat saman palvelun. Kuukausihinta on hieman korkeampi kuin tiimillä, mutta kä
 ### Voinko vaihtaa nykyisestä yksityisestä lääkäriasemasta työterveyteen?
 Kyllä. Työterveys ei estä yksityisen lääkärin käyttöä, mutta useimmat yrittäjät korvaavat yksityisen lääkäripaketin työterveydellä, koska hinta-laatusuhde on parempi.
 
-## Varaa aika tai pyydä tarjous yrittäjän työterveydestä
+## Pyydä tarjous
 
 Starthealthissa yrittäjä on osa pakettia ilman erillistä yrittäjähinnoittelua.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

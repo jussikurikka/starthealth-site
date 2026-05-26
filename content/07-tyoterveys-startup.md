@@ -101,11 +101,11 @@ Digitaalisesti edellä olevat toimijat (Starthealth, Heltti) ovat suunniteltu er
 ### Mitä jos startup kaksinkertaistuu 6 kuukaudessa?
 Hyvä työterveystoimija skaalautuu ilman uusia sopimusneuvotteluja. Starthealth lisää työntekijöitä sopimukseen saman päivän aikana.
 
-## Varaa aika tai pyydä tarjous startupin työterveydestä
+## Pyydä tarjous
 
 Starthealth on suunniteltu kasvuyrityksille: kiinteä hinta, nopea aloitus, digitaalinen vastaanotto.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

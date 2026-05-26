@@ -107,11 +107,11 @@ Kyllä. Erityisesti suurissa ketjuissa hinnat ovat yksilöllisiä ja neuvoteltav
 ### Onko yrittäjän oma työterveys vähennyskelpoinen?
 Kyllä, yrittäjän työterveyskustannukset ovat vähennyskelpoisia ja Kela-korvauksen piirissä tietyin edellytyksin.
 
-## Varaa aika tai pyydä tarjous työterveydestä
+## Pyydä tarjous
 
 Starthealthin hinnoittelu on läpinäkyvä: kiinteä kuukausimaksu per työntekijä. Saat hinnan 24 tunnissa.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

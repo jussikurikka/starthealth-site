@@ -83,11 +83,11 @@ Useimmat käynnit (80–90 %) voidaan hoitaa etänä. Työpaikkaselvitys edellyt
 ### Mitä jos vaihdan työterveyden toiseen toimijaan?
 Vaihto on mahdollista. Irtisanomisaika vaihtelee toimijoittain (tyypillisesti 1–3 kk). Uusi toimija aloittaa välittömästi sopimuksen päättymisen jälkeen.
 
-## Varaa aika tai pyydä tarjous pienyrityksesi työterveydestä
+## Pyydä tarjous
 
 Starthealth on suunniteltu juuri pienille ja keskisuurille yrityksille. Saat hinnan 24 tunnissa ja työterveyden käyntiin viikossa.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

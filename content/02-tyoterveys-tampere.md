@@ -79,22 +79,11 @@ Tyypillisesti 220–500 € / työntekijä / vuosi Kela-korvausten jälkeen. Pyy
 ### Voinko saada lähivastaanoton Tampereella?
 Kyllä. Starthealth tarjoaa lähivastaanoton Tampereen keskustassa silloin, kun etävastaanotto ei ole paras ratkaisu.
 
-## Varaa aika verkossa — tamperelaiselle työntekijälle
-
-Starthealthin sivusto on myös ajanvarauksen käyttöliittymä. Tampereella työskentelevä voi varata ajan itsenäisesti, ilman välikäsiä.
-
-- **Chat-vastaanotto** työterveyshoitajalle tai lääkärille
-- **Videopuhelu** samana päivänä useimpina arkipäivinä
-- **Lähivastaanotto Tampereen keskustassa** kun fyysinen käynti on tarpeen
-- **Mielen hyvinvoinnin palvelut** (psykologi, lyhytterapia) samasta näkymästä
-
-Varaus tehdään osoitteessa [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Kirjautuminen työpaikan kautta, ja hoitohistoria pysyy samassa paikassa vastaanottotyypistä riippumatta.
-
-## Varaa aika tai pyydä tarjous työterveydestä Tampereelle
+## Pyydä tarjous
 
 Starthealth on nopein tapa saada moderni työterveys käyntiin Tampereella. Pyydä tarjous tästä.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 
