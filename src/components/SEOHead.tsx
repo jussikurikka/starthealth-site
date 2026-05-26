@@ -4,11 +4,12 @@ interface Props {
   title: string;
   description: string;
   canonicalPath: string;
+  noindex?: boolean;
 }
 
 const SITE = 'https://starthealth.fi';
 
-const SEOHead = ({ title, description, canonicalPath }: Props) => {
+const SEOHead = ({ title, description, canonicalPath, noindex }: Props) => {
   useEffect(() => {
     const prevTitle = document.title;
     document.title = title;
@@ -55,6 +56,14 @@ const SEOHead = ({ title, description, canonicalPath }: Props) => {
     apply(setNamedMeta('twitter:title', title));
     apply(setNamedMeta('twitter:description', description));
 
+    let robotsMeta: HTMLMetaElement | null = null;
+    if (noindex) {
+      robotsMeta = document.createElement('meta');
+      robotsMeta.setAttribute('name', 'robots');
+      robotsMeta.setAttribute('content', 'noindex, nofollow');
+      document.head.appendChild(robotsMeta);
+    }
+
     let canonical = document.querySelector('link[rel="canonical"]') as HTMLLinkElement | null;
     const hadCanonical = !!canonical;
     const prevHref = canonical?.href;
@@ -68,10 +77,11 @@ const SEOHead = ({ title, description, canonicalPath }: Props) => {
     return () => {
       document.title = prevTitle;
       restores.forEach((fn) => fn());
+      if (robotsMeta) robotsMeta.remove();
       if (canonical && !hadCanonical) canonical.remove();
       else if (canonical && prevHref) canonical.href = prevHref;
     };
-  }, [title, description, canonicalPath]);
+  }, [title, description, canonicalPath, noindex]);
 
   return null;
 };

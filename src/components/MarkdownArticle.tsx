@@ -43,6 +43,7 @@ const MarkdownArticle = ({ article }: { article: Article }) => {
         title={frontmatter.title}
         description={frontmatter.meta_description}
         canonicalPath={frontmatter.target_url}
+        noindex
       />
       <Navigation />
       <main className="flex-1 pt-24 md:pt-32 pb-16">
