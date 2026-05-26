@@ -62,7 +62,7 @@ Kiinteä perusmaksu + osittain käyttöpohjainen laskutus. Yleinen malli perinte
 - **Kela 1+2**: 250–450 € / hlö / vuosi (netto)
 - **Kuukausikustannus 25 hlö tiimi**: ~550–950 € / kk netto
 
-### 50–250 henkilöä
+### 50–200 henkilöä
 - **Kela 1+2**: 220–420 € / hlö / vuosi (netto)
 - Skaalaedut näkyvät erityisesti kiinteiden kustannusten osalta
 
