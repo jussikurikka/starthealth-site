@@ -64,20 +64,9 @@ Kyllä. Tarjoamme työterveyttä vuorotyötä tekeville — yölliset chat-yhtey
 ### Mitä Vantaalla toimivan pienen yrityksen työterveys maksaa?
 Tyypillisesti 250–500 € / työntekijä / vuosi. Pyydä tarjous saadaksesi tarkan hinnan.
 
-## Varaa aika verkossa — vantaalaiselle työntekijälle
+## Pyydä tarjous
 
-Starthealthin ajanvaraus on osa varsinaista palvelua, ei erillinen kanava. Vantaalainen työntekijä varaa ajan itse osoitteessa [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi).
-
-- **Chat** (nopein tapa)
-- **Videovastaanotto** (sama päivä useimmiten)
-- **Lähivastaanotto** silloin, kun fyysinen tutkimus on tarpeen
-- **Mielen hyvinvointi** samassa näkymässä
-
-Työnantajan ei tarvitse hallinnoida ajanvarausta — järjestelmä hoitaa sen suoraan työntekijän ja ammattilaisen välillä.
-
-## Varaa aika tai pyydä tarjous
-
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 

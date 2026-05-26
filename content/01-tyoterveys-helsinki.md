@@ -29,7 +29,7 @@ Lakisääteinen työterveyshuolto (Kela 1 -taso) kuuluu jokaiseen pakettiimme: t
 Sairaanhoitotaso (Kela 2) on vapaaehtoinen mutta useimmille kasvuyrityksille suositeltu. Se sisältää yleislääkärin vastaanoton, laboratoriotutkimukset, kuvantamisen ja erikoislääkärikonsultaatiot.
 
 Lisäksi tarjoamme:
-- **Digitaalinen vastaanotto 24/7** — chat ja videopuhelu työterveyslääkärin kanssa
+- **Etävastaanotto** — chat ja videopuhelu työterveyslääkärin kanssa
 - **Lähivastaanotto Helsingin keskustassa** — tarvittaessa fyysinen tapaaminen
 - **Mielen hyvinvoinnin tuki** — psykologi ja lyhytterapia osana pakettia
 - **Työkykyjohtamisen tuki** — kuukausiraportointi ja varhaisen tuen mallit
@@ -71,22 +71,11 @@ Kyllä. Starthealthin digitaalinen vastaanotto toimii koko Suomessa. Helsingiss�
 ### Voinko vaihtaa nykyisen työterveyden Starthealthiin?
 Kyllä. Vaihto on yleensä helppoa: irtisano nykyinen sopimus (yleensä 1–3 kk irtisanomisaika) ja Starthealth aloittaa heti tämän jälkeen. Autamme siirtoprosessissa.
 
-## Varaa aika verkossa — Helsingin työntekijälle
-
-Starthealthin nettisivut toimivat myös varsinaisena ajanvarauksen käyttöliittymänä. Helsingissä työskentelevä työntekijä voi kirjautua ja varata ajan suoraan — ei puhelinjonoja, ei sähköpostin edestakaisin vaihtoa.
-
-- **Chat työterveyshoitajalle** — vastaus yleensä minuuteissa
-- **Videovastaanotto lääkärin kanssa** — saman päivän aika useimpina arkipäivinä
-- **Lähivastaanotto Helsingin toimipisteessä** — kun fyysinen käynti on tarpeen
-- **Työpsykologi ja lyhytterapia** — ajanvaraus samassa näkymässä
-
-Ajanvaraus löytyy osoitteesta [starthealth.fihttps://asiointi.starthealth.fi](https://asiointi.starthealth.fi). Työnantaja näkee käytön anonyymit yhteenvedot kuukausiraportissa.
-
-## Varaa aika tai pyydä tarjous työterveydestä Helsinkiin
+## Pyydä tarjous
 
 Starthealth on Helsingin nykyaikaisin valinta pk-yritysten työterveyteen. Pyydä tarjous tästä — saat hinnan 24 tunnissa, ja työterveys voidaan käynnistää viikossa.
 
-[Varaa aika verkossa →](https://asiointi.starthealth.fi) · [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
+[Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
 ---
 
