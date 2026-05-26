@@ -15,6 +15,7 @@ const Blog = () => {
         title="Blogi – StartHealth"
         description="Artikkeleita työterveyshuollosta, työhyvinvoinnista ja pk-yritysten arjesta."
         canonicalPath="/blog"
+        noindex
       />
       <Navigation />
       <main className="flex-1 pt-24 md:pt-32 pb-16">
