@@ -27,7 +27,7 @@ const ClientReferences = () => {
     : 'Trusted partner for growth companies';
 
   const topRow = clients.slice(0, 4);
-  const bottomRow = clients.slice(4, 7);
+  const bottomRow = clients.slice(4, 8);
 
   const renderLogo = (client: { name: string; logo: string }) => (
     <div
