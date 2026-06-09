@@ -30,8 +30,9 @@ const ClientReferences = () => {
     ? 'Luotettu kumppani kasvuyrityksille'
     : 'Trusted partner for growth companies';
 
-  const topRow = clients.slice(0, 5);
-  const bottomRow = clients.slice(5, 10);
+  const row1 = clients.slice(0, 4);
+  const row2 = clients.slice(4, 7);
+  const row3 = clients.slice(7, 10);
 
   const renderLogo = (client: { name: string; logo: string }) => (
     <div
@@ -60,10 +61,13 @@ const ClientReferences = () => {
 
         <div className="max-w-5xl mx-auto flex flex-col gap-6 md:gap-8">
           <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-6 md:gap-x-12">
-            {topRow.map(renderLogo)}
+            {row1.map(renderLogo)}
           </div>
           <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-6 md:gap-x-12">
-            {bottomRow.map(renderLogo)}
+            {row2.map(renderLogo)}
+          </div>
+          <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-6 md:gap-x-12">
+            {row3.map(renderLogo)}
           </div>
         </div>
       </div>
