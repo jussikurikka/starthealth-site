@@ -134,7 +134,7 @@ const Navigation = () => {
                   </div>
                 )}
                 <a
-                  href={item.href}
+                  href={resolveHref(item.href)}
                   onClick={() => setIsOpen(false)}
                   className={`block py-2 text-foreground hover:text-primary transition-colors font-medium ${
                     item.hidden && isDevMode 
