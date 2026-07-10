@@ -9,6 +9,8 @@ const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
   const { language, setLanguage, t } = useLanguage();
   const isDevMode = import.meta.env.DEV;
+  const location = useLocation();
+  const isHome = location.pathname === '/';
 
   const navItems = [
     { key: 'nav.home', href: '#home', hidden: false },
@@ -20,12 +22,15 @@ const Navigation = () => {
     { key: 'nav.blog', href: '/blog', hidden: false },
   ];
 
-  // Filter items based on dev mode
   const visibleNavItems = navItems.filter(item => !item.hidden || isDevMode);
+
+  const resolveHref = (href: string) =>
+    href.startsWith('#') && !isHome ? `/${href}` : href;
 
   const toggleLanguage = () => {
     setLanguage(language === 'fi' ? 'en' : 'fi');
   };
+
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border">
