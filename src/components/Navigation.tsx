@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Link, useLocation } from 'react-router-dom';
 import { Menu, X, Globe, EyeOff } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useLanguage } from '@/contexts/LanguageContext';
@@ -8,6 +9,8 @@ const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
   const { language, setLanguage, t } = useLanguage();
   const isDevMode = import.meta.env.DEV;
+  const location = useLocation();
+  const isHome = location.pathname === '/';
 
   const navItems = [
     { key: 'nav.home', href: '#home', hidden: false },
@@ -19,25 +22,29 @@ const Navigation = () => {
     { key: 'nav.blog', href: '/blog', hidden: false },
   ];
 
-  // Filter items based on dev mode
   const visibleNavItems = navItems.filter(item => !item.hidden || isDevMode);
+
+  const resolveHref = (href: string) =>
+    href.startsWith('#') && !isHome ? `/${href}` : href;
 
   const toggleLanguage = () => {
     setLanguage(language === 'fi' ? 'en' : 'fi');
   };
+
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
-          <a href="#home" className="flex items-center cursor-pointer">
+          <Link to="/" className="flex items-center cursor-pointer">
             <img 
               src={logo} 
               alt="StartHealth" 
               className="h-12 md:h-14 w-auto object-contain" 
             />
-          </a>
+          </Link>
+
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
@@ -52,7 +59,7 @@ const Navigation = () => {
                   </div>
                 )}
                 <a
-                  href={item.href}
+                  href={resolveHref(item.href)}
                   className={`text-foreground hover:text-primary transition-colors font-medium ${
                     item.hidden && isDevMode 
                       ? 'border border-dashed border-amber-400 px-2 py-1 rounded bg-amber-50/50' 
@@ -127,7 +134,7 @@ const Navigation = () => {
                   </div>
                 )}
                 <a
-                  href={item.href}
+                  href={resolveHref(item.href)}
                   onClick={() => setIsOpen(false)}
                   className={`block py-2 text-foreground hover:text-primary transition-colors font-medium ${
                     item.hidden && isDevMode 
