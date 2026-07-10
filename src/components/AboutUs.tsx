@@ -1,5 +1,4 @@
 import aboutHeroImage from '@/assets/about-hero.jpg';
-import foundersImage from '@/assets/founders.png';
 import { useLanguage } from '@/contexts/LanguageContext';
 
 const AboutUs = () => {
@@ -53,7 +52,7 @@ const AboutUs = () => {
       </div>
 
       {/* 4. Story Section */}
-      <div className="bg-secondary/20 py-20 lg:py-28">
+      <div className="bg-secondary/20 pt-20 lg:pt-28 pb-16 lg:pb-20">
         <div className="container mx-auto px-4">
           <div className="max-w-5xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-12 text-center lg:text-left">
@@ -76,25 +75,6 @@ const AboutUs = () => {
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
                   {t('about.story.p4')}
-                </p>
-              </div>
-            </div>
-
-            {/* Founders subsection */}
-            <div className="mt-16 lg:mt-20">
-              <h3 className="text-2xl md:text-3xl font-bold text-foreground mb-8 text-center">
-                {t('founders.title')}
-              </h3>
-              <div className="max-w-2xl mx-auto">
-                <div className="aspect-[3/2] rounded-2xl overflow-hidden shadow-elegant mb-6">
-                  <img 
-                    src={foundersImage} 
-                    alt={t('founders.caption')} 
-                    className="w-full h-full object-cover"
-                  />
-                </div>
-                <p className="text-muted-foreground text-center text-lg">
-                  {t('founders.caption')}
                 </p>
               </div>
             </div>
