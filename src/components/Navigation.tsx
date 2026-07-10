@@ -59,7 +59,7 @@ const Navigation = () => {
                   </div>
                 )}
                 <a
-                  href={item.href}
+                  href={resolveHref(item.href)}
                   className={`text-foreground hover:text-primary transition-colors font-medium ${
                     item.hidden && isDevMode 
                       ? 'border border-dashed border-amber-400 px-2 py-1 rounded bg-amber-50/50' 
