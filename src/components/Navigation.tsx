@@ -37,13 +37,14 @@ const Navigation = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
-          <a href="#home" className="flex items-center cursor-pointer">
+          <Link to="/" className="flex items-center cursor-pointer">
             <img 
               src={logo} 
               alt="StartHealth" 
               className="h-12 md:h-14 w-auto object-contain" 
             />
-          </a>
+          </Link>
+
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
