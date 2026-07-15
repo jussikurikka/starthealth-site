@@ -1,4 +1,5 @@
 import { useLanguage } from '@/contexts/LanguageContext';
+import ClaudeQuickStart from './ClaudeQuickStart';
 
 const Footer = () => {
   const { t } = useLanguage();
@@ -13,6 +14,7 @@ const Footer = () => {
           </p>
           
           <div className="flex items-center gap-6 text-sm">
+            <ClaudeQuickStart />
             <a 
               href="/tietosuoja.pdf" 
               target="_blank" 
