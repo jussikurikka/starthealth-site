@@ -117,8 +117,17 @@ const translations = {
     'footer.rights': 'Kaikki oikeudet pidätetään',
     'footer.privacy': 'Tietosuojaseloste',
     'footer.terms': 'Käyttöehdot',
-    
-    // Calculator
+    'footer.claudeQuickStart': 'Claude Quick Start',
+
+    // Claude Quick Start
+    'claudeQuickStart.title': 'Claude Quick Start',
+    'claudeQuickStart.description': 'Liitä StartHealth Claudeen MCP-palvelimena.',
+    'claudeQuickStart.copy': 'Kopioi',
+    'claudeQuickStart.copied': 'Kopioitu!',
+    'claudeQuickStart.step1': 'Kopioi MCP-linkki yllä olevasta kentästä.',
+    'claudeQuickStart.step2': 'Avaa Claude ja siirry Settings → Developer.',
+    'claudeQuickStart.step3': 'Lisää uusi MCP-server ja liitä kopioitu linkki.',
+    'claudeQuickStart.step4': 'Testaa kysymällä: "Listaa StartHealthin palvelupaketit".',
     'calculator.openButton': 'Avaa hintalaskuri',
     'calculator.close': 'Sulje laskuri',
     'calculator.title': 'Hintalaskuri',
