@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "sdk_version": "0.22.1",
+  "path": "/functions/v1/mcp",
+  "auth": {
+    "type": "none"
+  },
+  "mcp": {
+    "server": {
+      "name": "starthealth-mcp",
+      "version": "0.1.0",
+      "title": "StartHealth MCP"
+    },
+    "tools": [
+      {
+        "name": "list_service_packages",
+        "title": "List StartHealth service packages",
+        "description": "List StartHealth's occupational health service packages (Minimum, Basic, Support) with features and descriptions.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "$schema": "http://json-schema.org/draft-07/schema#",
+          "type": "object",
+          "properties": {}
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "estimate_price",
+        "title": "Estimate StartHealth monthly price",
+        "description": "Estimate the monthly occupational health price for a company. Intended for low-exposure industries. Not valid for restaurant, construction, machine shop, or night-shift work.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "$schema": "http://json-schema.org/draft-07/schema#",
+          "type": "object",
+          "properties": {
+            "employees": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 9007199254740991,
+              "description": "Number of employees excluding founders."
+            },
+            "founders": {
+              "default": 0,
+              "description": "Number of founders.",
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 9007199254740991
+            },
+            "package": {
+              "type": "string",
+              "enum": [
+                "minimum",
+                "basic",
+                "support"
+              ],
+              "description": "Service package."
+            },
+            "riskIndustry": {
+              "default": false,
+              "description": "True if the company has restaurant, construction, machine shop, or night-shift work.",
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "employees",
+            "package"
+          ]
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "list_articles",
+        "title": "List StartHealth articles",
+        "description": "List all StartHealth occupational-health guide articles. Optional keyword filter matches against title and description (case-insensitive).",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "$schema": "http://json-schema.org/draft-07/schema#",
+          "type": "object",
+          "properties": {
+            "query": {
+              "description": "Optional keyword filter.",
+              "type": "string"
+            }
+          }
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "get_contact_info",
+        "title": "Get StartHealth contact info",
+        "description": "Get contact and booking details for StartHealth (email, booking URL, website, service area).",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "$schema": "http://json-schema.org/draft-07/schema#",
+          "type": "object",
+          "properties": {}
+        },
+        "outputSchema": null
+      }
+    ]
+  }
+}
