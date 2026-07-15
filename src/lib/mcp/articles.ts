@@ -1,4 +1,4 @@
-[
+export const articles = [
   {
     "title": "Työterveys Helsinki — modernit työterveyspalvelut helsinkiläisille pk-yrityksille",
     "url": "/tyoterveys/helsinki",
@@ -149,4 +149,4 @@
     "url": "/tyoterveys/vaihtaminen",
     "description": "Työterveyspalvelun vaihtaminen: miksi ja milloin vaihtaa, mitä valmistella ja miten siirtymä sujuu ilman katkoja. Pk-yrityksen opas."
   }
-]
+] as const;
