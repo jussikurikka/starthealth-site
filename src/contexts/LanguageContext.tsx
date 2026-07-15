@@ -117,8 +117,17 @@ const translations = {
     'footer.rights': 'Kaikki oikeudet pidätetään',
     'footer.privacy': 'Tietosuojaseloste',
     'footer.terms': 'Käyttöehdot',
-    
-    // Calculator
+    'footer.claudeQuickStart': 'Claude Quick Start',
+
+    // Claude Quick Start
+    'claudeQuickStart.title': 'Claude Quick Start',
+    'claudeQuickStart.description': 'Liitä StartHealth Claudeen MCP-palvelimena.',
+    'claudeQuickStart.copy': 'Kopioi',
+    'claudeQuickStart.copied': 'Kopioitu!',
+    'claudeQuickStart.step1': 'Kopioi MCP-linkki yllä olevasta kentästä.',
+    'claudeQuickStart.step2': 'Avaa Claude ja siirry Settings → Developer.',
+    'claudeQuickStart.step3': 'Lisää uusi MCP-server ja liitä kopioitu linkki.',
+    'claudeQuickStart.step4': 'Testaa kysymällä: "Listaa StartHealthin palvelupaketit".',
     'calculator.openButton': 'Avaa hintalaskuri',
     'calculator.close': 'Sulje laskuri',
     'calculator.title': 'Hintalaskuri',
@@ -259,8 +268,17 @@ const translations = {
     'footer.rights': 'All rights reserved',
     'footer.privacy': 'Privacy Policy',
     'footer.terms': 'Terms of Use',
-    
-    // Calculator
+    'footer.claudeQuickStart': 'Claude Quick Start',
+
+    // Claude Quick Start
+    'claudeQuickStart.title': 'Claude Quick Start',
+    'claudeQuickStart.description': 'Connect StartHealth to Claude as an MCP server.',
+    'claudeQuickStart.copy': 'Copy',
+    'claudeQuickStart.copied': 'Copied!',
+    'claudeQuickStart.step1': 'Copy the MCP link from the field above.',
+    'claudeQuickStart.step2': 'Open Claude and go to Settings → Developer.',
+    'claudeQuickStart.step3': 'Add a new MCP server and paste the copied link.',
+    'claudeQuickStart.step4': 'Test by asking: "List StartHealth service packages".',
     'calculator.openButton': 'Open Price Calculator',
     'calculator.close': 'Close calculator',
     'calculator.title': 'Price Calculator',
