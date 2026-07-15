@@ -268,8 +268,17 @@ const translations = {
     'footer.rights': 'All rights reserved',
     'footer.privacy': 'Privacy Policy',
     'footer.terms': 'Terms of Use',
-    
-    // Calculator
+    'footer.claudeQuickStart': 'Claude Quick Start',
+
+    // Claude Quick Start
+    'claudeQuickStart.title': 'Claude Quick Start',
+    'claudeQuickStart.description': 'Connect StartHealth to Claude as an MCP server.',
+    'claudeQuickStart.copy': 'Copy',
+    'claudeQuickStart.copied': 'Copied!',
+    'claudeQuickStart.step1': 'Copy the MCP link from the field above.',
+    'claudeQuickStart.step2': 'Open Claude and go to Settings → Developer.',
+    'claudeQuickStart.step3': 'Add a new MCP server and paste the copied link.',
+    'claudeQuickStart.step4': 'Test by asking: "List StartHealth service packages".',
     'calculator.openButton': 'Open Price Calculator',
     'calculator.close': 'Close calculator',
     'calculator.title': 'Price Calculator',
