@@ -9,6 +9,9 @@ import startupNationLogo from '@/assets/clients/startup-nation.png';
 import aiatellaLogo from '@/assets/clients/aiatella.png';
 import synlabLogo from '@/assets/clients/synlab.png';
 import arvoterveysLogo from '@/assets/clients/arvoterveys.png';
+import eminusLogo from '@/assets/clients/eminus.png';
+import omplyLogo from '@/assets/clients/omply.png';
+import foundersHouseLogo from '@/assets/clients/founders-house.png';
 
 const clients = [
   { name: 'Synergi', logo: synergiLogo },
@@ -19,6 +22,9 @@ const clients = [
   { name: 'Aiatella', logo: aiatellaLogo },
   { name: 'Synlab', logo: synlabLogo },
   { name: 'ArvoTerveys', logo: arvoterveysLogo },
+  { name: 'Eminus Industries', logo: eminusLogo },
+  { name: 'Omply', logo: omplyLogo },
+  { name: 'Founders House Helsinki', logo: foundersHouseLogo },
   { name: 'EAS project', logo: easLogo },
   { name: 'Tampereen Startup tukiyhdistys', logo: startupNationLogo },
 ];
@@ -30,9 +36,10 @@ const ClientReferences = () => {
     ? 'Luotettu kumppani kasvuyrityksille'
     : 'Trusted partner for growth companies';
 
-  const row1 = clients.slice(0, 4);
-  const row2 = clients.slice(4, 7);
-  const row3 = clients.slice(7, 10);
+  const row1 = clients.slice(0, 5);
+  const row2 = clients.slice(5, 9);
+  const row3 = clients.slice(9, 13);
+
 
   const renderLogo = (client: { name: string; logo: string }) => (
     <div
