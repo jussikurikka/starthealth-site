@@ -126,7 +126,7 @@ Hinta riippuu sopimuksen sisällöstä, henkilömäärästä ja paikkakunnasta.
 
 ## Mihin nämä isot toimijat eivät sovi
 
-Vaikka kaikki kolme ovat varteenotettavia, on tilanteita joissa pienempi tai modernimpi toimija (kuten Heltti, Mehiläisen yritysten esim. Pirte tai Starthealth) voi sopia paremmin:
+Vaikka kaikki kolme ovat varteenotettavia, on tilanteita joissa pienempi tai modernimpi toimija (kuten Heltti tai Starthealth) voi sopia paremmin:
 
 - **Pieni startup tai kasvuyritys (alle 20 hlö)** — saatat hukkua massaan
 - **Hajautettu/etätyö-tiimi** — etämahdollisuus tärkeämpi kuin lähitoimipaikat
