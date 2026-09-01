@@ -26,7 +26,7 @@ Käytännössä tarkoittaa, että **työterveyssopimus on oltava allekirjoitettu
 
 ## 2. Perinteinen työterveys ei ole suunniteltu startupille
 
-Perinteinen työterveys on usein rakennettu suuryritysten tarpeisiin. Startup-yritykselle tämä voi käytännössä tarkoittaa:
+Perinteiset työterveyden suuret toimijat ovat rakentaneet tarjoamansa pääasiassa suuryritysten tarpeisiin. Tyypillisesti tämä tarkoittaa:
 
 - **Pitkiä sitoutumisaikoja** (1–3 vuotta)
 - **Raskasta käyttöönottoprosessia** (3–8 viikkoa)
@@ -44,11 +44,11 @@ Startup-tiimi on yleensä nuori, terve ja toimistotyöläinen. Suuri osa käynti
 - Mielen hyvinvoinnin tuki (stressi, uupumus)
 - Ergonomia (etätyö)
 
-Osaan tarpeista tarvitaan kuitenkin fyysinen vastaanotto (esim. laboratoriotutkimukset, kuvantaminen, pitkittyneet vaivat). Digitaalinen ja lähivastaanotto täydentävät toisiaan.
+Suuri osa käyntitarpeista sopii etävastaanotolle. Fyysinen vastaanotto tarvitaan poikkeustilanteissa (laboratoriotutkimukset, kuvantaminen, pitkittyneet vaivat). Digitaalinen ja lähivastaanotto täydentävät toisiaan.
 
 ## 4. Mielen hyvinvointituen merkitys kasvuvaiheessa
 
-Startup-työ on korkean stressin, epävarmuuden ja venyvien työpäivien ympäristö. Tutkimusten mukaan 30–40 % perustajista kokee uupumusoireita. Hyvän työterveyssopimuksen keskeisiä osia kasvuyrityksessä ovat:
+Startup-työ on korkean stressin, epävarmuuden ja venyvien työpäivien ympäristö. Hyvän työterveyssopimuksen keskeisiä osia kasvuyrityksessä ovat:
 
 - **Työterveyspsykologi** — sisältyy Starthealthin Basic- ja Support-paketteihin
 - **Burnout-ennaltaehkäisy**
