@@ -16,7 +16,7 @@ last_updated: 2026-09-01
 
 Startup-yritykselle työterveys on usein vieras hallinnollinen aihe, joka jää perustajan "pitäisi selvittää joskus" -listalle. Ongelma on, että listalla se pysyy liian pitkään — ja kun ensimmäiset palkatut saapuvat, lakisääteinen velvoite on voimassa heti.
 
-Tämä opas kokoaa yhteen 7 asiaa, jotka startup-perustajan kannattaa tietää työterveydestä. Sisältää käytännön neuvot, hintahaarukat ja suurimmat sudenkuopat.
+Tämä opas kokoaa yhteen 7 asiaa, jotka startup-perustajan kannattaa tietää työterveydestä.
 
 ## 1. Työterveys on pakollinen ensimmäisestä työntekijästä alkaen
 
