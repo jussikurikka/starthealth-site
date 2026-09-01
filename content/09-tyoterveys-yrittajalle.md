@@ -93,7 +93,7 @@ Verotuksellisesti molemmat ovat tehokkaita.
 ## Usein kysyttyä
 
 ### Kuinka paljon yrittäjän työterveys maksaa Suomessa?
-Tyypillisesti 250–500 € / vuosi Kela-korvausten jälkeen, Kela 2 -tason palvelulla.
+Hinta riippuu valitusta paketista ja tiimin koosta. Tarkan hinnan näet Starthealthin hintalaskurista.
 
 ### Saako yrittäjä Kela-korvauksen työterveydestä?
 Kyllä, edellyttäen YEL-vakuutusta ja kirjallista työterveyssopimusta.
