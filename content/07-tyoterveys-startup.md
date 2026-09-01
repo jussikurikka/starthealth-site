@@ -35,16 +35,16 @@ Perinteinen työterveys on usein rakennettu suuryritysten tarpeisiin. Startup-yr
 
 Siksi markkinoille on noussut toimijoita, jotka ovat rakentaneet työterveyden uudelleen ketterän yrityksen tarpeisiin.
 
-## 3. Digitaalinen työterveys kattaa 80–90 % tarpeista
+## 3. Digitaalinen vastaanotto sopii moneen tilanteeseen
 
-Startup-tiimi on yleensä nuori, terve ja toimistotyöläinen. Käytännön käyntitarpeet koostuvat pääasiassa:
+Startup-tiimi on yleensä nuori, terve ja toimistotyöläinen. Suuri osa käyntitarpeista sopii etävastaanotolle, kuten:
 
 - Yleislääkärin konsultaatiot (flunssa, pienet vaivat, sairauslomat)
 - Reseptit
 - Mielen hyvinvoinnin tuki (stressi, uupumus)
 - Ergonomia (etätyö)
 
-Kaikki nämä hoituvat etävastaanotolla. Fyysinen vastaanotto tarvitaan poikkeustilanteissa (laboratoriotutkimukset, kuvantaminen, pitkittyneet vaivat).
+Osaan tarpeista tarvitaan kuitenkin fyysinen vastaanotto (esim. laboratoriotutkimukset, kuvantaminen, pitkittyneet vaivat). Digitaalinen ja lähivastaanotto täydentävät toisiaan.
 
 ## 4. Mielen hyvinvointituen merkitys kasvuvaiheessa
 
