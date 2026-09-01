@@ -26,14 +26,14 @@ Käytännössä tarkoittaa, että **työterveyssopimus on oltava allekirjoitettu
 
 ## 2. Perinteinen työterveys ei ole suunniteltu startupille
 
-Mehiläinen, Terveystalo ja Pihlajalinna ovat rakentaneet tarjoamansa suuryrityksiä varten. Tyypillisesti tämä tarkoittaa:
+Perinteinen työterveys on usein rakennettu suuryritysten tarpeisiin. Startup-yritykselle tämä voi käytännössä tarkoittaa:
 
 - **Pitkiä sitoutumisaikoja** (1–3 vuotta)
 - **Raskasta käyttöönottoprosessia** (3–8 viikkoa)
-- **Käyttöpohjaista laskutusta**, joka tekee budjetoinnin mahdottomaksi
-- **Geneeristä toimintasuunnitelmaa**, joka ei huomioi etätyötä tai digitaalisia tiimejä
+- **Käyttöpohjaista laskutusta**, joka tekee budjetoinnin vaikeaksi
+- **Geneeristä toimintasuunnitelmaa**, joka ei aina huomioi etätyötä tai digitaalisia tiimejä
 
-Startup-yritykselle tämä on huonosti istuva malli. Siksi **digitaalisesti edellä olevat toimijat** (Starthealth, Heltti) ovat nousseet markkinoille.
+Siksi markkinoille on noussut toimijoita, jotka ovat rakentaneet työterveyden uudelleen ketterän yrityksen tarpeisiin.
 
 ## 3. Digitaalinen työterveys kattaa 80–90 % tarpeista
 
