@@ -20,7 +20,7 @@ Työterveyspalvelun valinta on yksi merkittävimpiä henkilöstöpäätöksiä, 
 
 ### 1. Tarpeiden tunnistaminen — mitä tiimi oikeasti tarvitsee
 Ennen kilpailutusta vastaa:
-- **Kuinka monta työntekijää ja missä he sijaitsevat** (pääkaupunkiseutu, Tampere, hajautettu)
+- **Kuinka monta työntekijää ja missä he sijaitsevat** (pääkaupunkiseutu, hajautettu)
 - **Minkä ikäistä tiimi** (alle 40 → etätyöpainotteinen; yli 50 → enemmän seurantaa)
 - **Työn luonne** (toimisto, kenttä, fyysinen)
 - **Kasvunopeus** (3 kk:n päästä 20 → 40 hlö?)
