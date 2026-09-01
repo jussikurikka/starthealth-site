@@ -1,65 +1,61 @@
 ---
 title: "Työterveys Vantaa — käytännöllinen työterveyshuolto vantaalaisille yrityksille"
-meta_description: "Työterveys Vantaa yrityksille. Nopea aloitus, läpinäkyvä hinta, etä- ja lähivastaanotto Tikkurilassa ja Aviapolis-alueella. Pyydä tarjous."
+meta_description: "Työterveys Vantaa yrityksille. Nopea aloitus, läpinäkyvä hinta, digitaalinen vastaanotto + lähivastaanotto Helsingissä. Pyydä tarjous."
 primary_keyword: "työterveys vantaa"
-secondary_keywords: ["työterveyshuolto vantaa", "työterveys tikkurila", "työterveys aviapolis"]
+secondary_keywords: ["työterveyshuolto vantaa", "työterveys pk-yritys vantaa", "työterveys vantaa startup"]
 search_intent: "commercial"
 target_url: "/tyoterveys/vantaa"
 cluster: "Local — Vantaa"
 priority: "P0"
 estimated_volume: 50
 estimated_kd: 1
-last_updated: 2026-04-20
+last_updated: 2026-09-01
 ---
 
 # Työterveys Vantaa — käytännöllinen työterveyshuolto vantaalaisille yrityksille
 
-Vantaa on logistiikan, lentokentän ja kasvavien teknologiayritysten keskus. Starthealth tarjoaa työterveyspalvelut vantaalaisille pk-yrityksille yhdistämällä digitaalisen vastaanoton ja lähitapaamiset Tikkurilan ja Aviapoliksen alueella.
+Vantaa on logistiikan, lentokentän ja kasvavien teknologiayritysten keskus. Starthealth tarjoaa työterveyspalvelut vantaalaisille pk-yrityksille yhdistämällä digitaalisen vastaanoton ja lähitapaamiset Helsingissä.
 
 ## Vantaalaisten yritysten työterveyden erityispiirteet
 
 Vantaalla työskentelee paljon vuorotyöläisiä, logistiikka-alan henkilöstöä ja teknologia-alan asiantuntijoita. Näiden ryhmien työterveystarpeet poikkeavat toisistaan merkittävästi:
 
-- **Logistiikkayritykset** hyötyvät varhaisesta tuki- ja liikuntaelinriskien seurannasta
 - **Asiantuntijaorganisaatiot** tarvitsevat mielenterveyden tukea ja ergonomia-arviointeja
-- **Vuorotyö** edellyttää unen ja palautumisen ammattilaistukea
+- **Kasvuyritykset** hyötyvät nopeasta käyttöönotosta ja digitaalisesta vastaanotosta
 
-Starthealth rakentaa työterveyden räätälöidysti yrityksesi henkilöstörakenteen mukaan.
+Starthealth palvelee erityisesti toimisto- ja asiantuntijatyötä tekeviä yrityksiä. Otamme myös palveltaviksi esim. hotelli- ja ravintola-alan yrityksiä — ota yhteyttä ja selvitetään sopivuus yhdessä.
 
 ## Mitä Starthealthin työterveys sisältää Vantaalla
 
 **Kela 1 — lakisääteinen osa:**
-- Työpaikkaselvitykset Vantaan toimipisteissä
+- Työpaikkaselvitykset Vantaan toimitiloissa
 - Aloittavat, säännölliset ja kohdennetut terveystarkastukset
 - Ergonomian ja työolosuhteiden arviointi
 - Työkyvyn varhaisen tuen mallit
 
 **Kela 2 — sairaanhoitotaso (valinnainen):**
-- Yleislääkärin vastaanotto (etä/lähi)
+- Yleislääkärin vastaanotto (etä tai lähi)
 - Laboratoriotutkimukset
 - Kuvantaminen
 - Erikoislääkärikonsultaatiot
 - Reseptit ja sairauslomatodistukset
 
 **Mielen hyvinvointi:**
-- Työpsykologi ja lyhytterapia
+- Työterveyspsykologi Basic- ja Support-paketeissa
 - Burnout-ennaltaehkäisy
 - Kriisituki
 
 ## Työterveyden hinta Vantaalla
 
-Vantaan kustannustaso on samaa luokkaa kuin Helsingissä ja Espoossa: 250–550 € / työntekijä / vuosi Kela-korvausten jälkeen. Logistiikka-ala ja vuorotyötä tekevät hinnoittelevat usein 10–20 % korkeammalle johtuen korkeammasta sairauspoissaoloriskistä.
+Kustannustaso on samaa luokkaa kuin Helsingissä ja Espoossa: 250–550 € / työntekijä / vuosi Kela-korvausten jälkeen.
 
 ## Usein kysyttyä
 
 ### Onko työterveys pakollinen Vantaalla toimivalle yritykselle?
 Kyllä. Työterveys on pakollinen kaikille työnantajille sijainnista riippumatta.
 
-### Saanko lähivastaanoton Tikkurilassa?
-Kyllä. Starthealth tarjoaa lähivastaanoton keskeisillä alueilla pääkaupunkiseudulla.
-
-### Voiko työterveyden ulottaa lentokenttäalueella työskenteleville vuorotyöläisille?
-Kyllä. Tarjoamme työterveyttä vuorotyötä tekeville — yölliset chat-yhteydet ja joustavat ajanvarausikkunat ovat osa palvelua.
+### Saanko lähivastaanoton vantaalaisille työntekijöille?
+Lähivastaanotto on saatavilla Helsingissä Kampissa. Suurin osa käynneistä hoidetaan digitaalisesti — etävastaanotto toimii koko Suomessa.
 
 ### Mitä Vantaalla toimivan pienen yrityksen työterveys maksaa?
 Tyypillisesti 250–500 € / työntekijä / vuosi. Pyydä tarjous saadaksesi tarkan hinnan.
