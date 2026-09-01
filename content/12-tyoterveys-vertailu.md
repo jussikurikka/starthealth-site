@@ -75,7 +75,7 @@ Suomen työterveysmarkkinalla toimii useita isoja ja pienempiä toimijoita. Oike
 Nopeat toimijat (Starthealth, Heltti) 1–2 viikkoa, perinteiset 3–8 viikkoa. Kasvuyrityksessä tämä on iso ero.
 
 ### 3. Digitaalinen vastaanotto
-**Digitaalinen vastaanotto** — suuri osa käynneistä sopii etävastaanotolle
+Kaikki tarjoavat nykyään etävastaanottoa, mutta laatu vaihtelee. Pyydä demo ennen sopimuksen allekirjoittamista.
 
 ### 4. Sopimuksen joustavuus
 Pitkä irtisanomisaika (6+ kk) on ongelma, jos olet tyytymätön. Suosi lyhyttä (1–3 kk) irtisanomisaikaa.
