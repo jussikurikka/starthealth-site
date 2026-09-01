@@ -120,6 +120,6 @@ Starthealth aloittaa työterveyden parissa päivässä — saat sopimuksen voima
 
 ---
 
-**Sisäiset linkit:** [Mitä työterveyshuoltoon kuuluu](/tyoterveys/mita-kuuluu) · [Työterveyden hinta](/tyoterveys/hinta) · [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus) · [Työterveydenhuollon sopimus](/tyoterveys/sopimus)
+**Sisäiset linkit:** [Mitä työterveyshuoltoon kuuluu](/tyoterveys/mita-kuuluu) · [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus) · [Työterveydenhuollon sopimus](/tyoterveys/sopimus)
 
 **Ulkoiset lähteet:** [Työterveyshuoltolaki 1383/2001](https://www.finlex.fi/fi/laki/ajantasa/2001/20011383) · [Aluehallintovirasto: Työsuojelu](https://www.avi.fi) · [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto)

@@ -82,6 +82,6 @@ Suurissa ketjuissa 3–8 viikkoa, digitaalisilla haastajilla 1–2 viikkoa.
 
 ---
 
-**Sisäiset linkit:** [Työterveys Helsingissä](/tyoterveys/helsinki) · [Työterveys Espoossa](/tyoterveys/espoo) · [Työterveys Vantaalla](/tyoterveys/vantaa) · [Työterveyden hinta](/tyoterveys/hinta) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
+**Sisäiset linkit:** [Työterveys Helsingissä](/tyoterveys/helsinki) · [Työterveys Espoossa](/tyoterveys/espoo) · [Työterveys Vantaalla](/tyoterveys/vantaa) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaki 1383/2001](https://www.finlex.fi/fi/laki/ajantasa/2001/20011383)

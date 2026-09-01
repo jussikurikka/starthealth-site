@@ -165,6 +165,6 @@ Starthealthissa jokainen asiakas saa nimetyn työterveyshoitajan, joka tuntee yr
 
 ---
 
-**Sisäiset linkit:** [Työterveyslääkäri](/tyoterveys/laakari) · [Mitä työterveyshuoltoon kuuluu](/tyoterveys/mita-kuuluu) · [Työterveystarkastus](/tyoterveys/tarkastus) · [Työterveys etänä](/tyoterveys/etana) · [Työterveyden hinta](/tyoterveys/hinta)
+**Sisäiset linkit:** [Työterveyslääkäri](/tyoterveys/laakari) · [Mitä työterveyshuoltoon kuuluu](/tyoterveys/mita-kuuluu) · [Työterveystarkastus](/tyoterveys/tarkastus) · [Työterveys etänä](/tyoterveys/etana)
 
 **Ulkoiset lähteet:** [Työterveyslaitos](https://www.ttl.fi) · [Suomen Terveydenhoitajaliitto](https://www.terveydenhoitajaliitto.fi)
