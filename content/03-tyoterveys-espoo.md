@@ -51,13 +51,13 @@ Vuosittaiset kokonaiskustannukset vastaavat Helsinkiä: 250–600 € / työntek
 Kyllä. Työterveyslain mukaan jokaisen työnantajan tulee järjestää lakisääteinen työterveyshuolto heti, kun palkkaa ensimmäisen työntekijän.
 
 ### Saanko lähivastaanoton espoolaisille työntekijöille?
-Lähivastaanotto on saatavilla Helsingissä Kampissa. Suurin osa (80–90 %) käynneistä hoidetaan digitaalisesti, jolloin sijainnilla ei ole merkitystä.
+Lähivastaanotto on saatavilla Helsingissä Kampissa. Suuri osa käynneistä hoidetaan digitaalisesti, jolloin sijainnilla ei ole merkitystä.
 
 ### Mitä työterveys maksaa espoolaiselle startupille?
 Tyypillisesti 250–450 € / työntekijä / vuosi Kela 2 -tasolla. Kela 1 -taso (pelkkä lakisääteinen) on edullisempi.
 
 ### Voiko työterveyden hoitaa pelkästään etänä?
-Kyllä. Useimmat Starthealthin asiakkaat hoitavat 80–90 % käynneistä digitaalisesti. Fyysinen vastaanotto on aina saatavilla Helsingissä tarvittaessa.
+Kyllä. Suuri osa käynneistä hoituu digitaalisesti. Fyysinen vastaanotto on saatavilla Helsingissä tarvittaessa.
 
 ## Pyydä tarjous
 
