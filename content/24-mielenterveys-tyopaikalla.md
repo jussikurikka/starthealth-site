@@ -99,15 +99,6 @@ Työntekijän terveystiedot ovat luottamuksellisia. Et tarvitse diagnoosia — r
 
 ## Mitä työterveys tarjoaa mielenterveydelle
 
-### Lyhytterapia
-**5–10 keskustelukertaa psykologin kanssa** — useimmat työterveyspalvelut sisältävät tämän Kela 2 -tasolla.
-
-Käytetään:
-- Stressi
-- Ahdistus (lievä–keskivaikea)
-- Masennus (lievä–keskivaikea)
-- Ihmissuhdehaasteet
-- Elämänkriisit
 
 ### Työpsykologi
 Keskittyy työhön liittyviin haasteisiin:
@@ -206,7 +197,7 @@ Jos käyttäytymismuutos kestää yli 2 viikkoa, jos työntekijä itse toivoo ap
 
 ## Pyydä tarjous
 
-Starthealthin työterveys sisältää lyhytterapian, työpsykologin ja aktiivisen mielen hyvinvoinnin seurannan.
+Starthealthin työterveys sisältää työpsykologin ja aktiivisen mielen hyvinvoinnin seurannan.
 
 [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
