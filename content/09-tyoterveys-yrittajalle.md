@@ -51,12 +51,7 @@ Yrittäjälle erityisen arvokkaita ovat **mielen hyvinvointipalvelut**, koska yr
 
 ## Yrittäjän työterveyden hinta
 
-Yrittäjän työterveys maksaa tyypillisesti samaa luokkaa kuin työntekijän:
-
-- **Pelkkä Kela 1 -taso**: 100–200 € / vuosi netto
-- **Kela 1 + 2 -taso**: 250–500 € / vuosi netto
-
-Hinta riippuu valitusta laajuudesta. Starthealthissa yrittäjä lasketaan samaan tapaan kuin työntekijä — yhtenäinen hinnoittelu, ei erillistä yrittäjäpakettia.
+Starthealthissa yrittäjä lasketaan samaan tapaan kuin työntekijä — yhtenäinen hinnoittelu, ei erillistä yrittäjäpakettia. Tarkan hinnan näet [hintalaskurista](https://starthealth.fi).
 
 ## Kela-korvaus yrittäjän työterveydestä
 
