@@ -48,7 +48,7 @@ Suomen työterveysmarkkinalla toimii useita isoja ja pienempiä toimijoita. Oike
 
 **Heikkoudet:** Digitaalinen kokemus jäänyt jälkeen kilpailijoista, pienyritysten palvelut ei päätuote.
 
-**Sopii:** Keskisuurille ja suurille yrityksille, erityisesti Tampereen ja Etelä-Suomen alueella.
+**Sopii:** Keskisuurille ja suurille yrityksille, erityisesti Etelä-Suomen alueella.
 
 ## Heltti
 
@@ -93,8 +93,6 @@ Nyt standardi, mutta toteutus vaihtelee. Tärkeää kasvuyrityksissä ja asiantu
 **20–100 hlö, pk-yritys, pääkaupunkiseutu?** → Starthealth, Heltti tai Terveystalo
 
 **100+ hlö, monta toimipaikkaa koko Suomessa?** → Terveystalo tai Mehiläinen
-
-**50+ hlö Tampereen seudulla?** → Pihlajalinna, Pirte tai Terveystalo
 
 **Kokonaan etätyöyritys?** → Starthealth tai Heltti
 

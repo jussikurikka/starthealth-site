@@ -44,7 +44,6 @@ Suomen kolme suurinta yksityistä terveydenhuoltoyritystä — Mehiläinen, Terv
 | | Mehiläinen | Terveystalo | Pihlajalinna |
 |---|------------|-------------|--------------|
 | **Toimipaikat pk-seudulla** | 30+ | 25+ | 15+ |
-| **Toimipaikat Tampereella** | 5+ | 5+ | 5+ |
 | **Etävastaanotto (chat/video)** | Kyllä | Kyllä | Kyllä |
 | **OmaMehiläinen / OmaTerveystalo / OmaPihlajalinna -sovellus** | Kyllä | Kyllä | Kyllä |
 | **Kela 1 hinta /hlö/v** | 200–300 € | 200–300 € | 180–280 € |
@@ -99,7 +98,7 @@ Suomen kolme suurinta yksityistä terveydenhuoltoyritystä — Mehiläinen, Terv
 ### Vahvuudet
 - **Hinnasta hieman edullisempi** kuin Mehiläinen ja Terveystalo
 - **Joustavampi sopimusrakenne** kuin isot kilpailijat
-- **Vakaa palvelu** isoissa kaupungeissa (Helsinki, Tampere, Turku)
+- **Vakaa palvelu** isoissa kaupungeissa (Helsinki, Turku)
 - **Aktiivinen kasvustrategia** — investoi palvelun kehittämiseen
 
 ### Heikkoudet
@@ -110,7 +109,7 @@ Suomen kolme suurinta yksityistä terveydenhuoltoyritystä — Mehiläinen, Terv
 
 ### Sopii parhaiten
 - Pk-yrityksille, jotka etsivät hieman edullisempaa vaihtoehtoa
-- Pääkaupunkiseudun ja Tampereen yrityksille
+- Pääkaupunkiseudun yrityksille
 - Tiimeille, joille sovelluksen ominaisuudet eivät ole ratkaiseva
 
 ## Hintojen vertailu pk-yritykselle (15–50 hlö)
