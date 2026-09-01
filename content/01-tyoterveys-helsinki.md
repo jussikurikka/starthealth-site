@@ -10,6 +10,7 @@ priority: "P0"
 estimated_volume: 2400
 estimated_kd: 0
 last_updated: 2026-09-01
+
 ---
 
 # Työterveys Helsinki — modernit työterveyspalvelut helsinkiläisille pk-yrityksille
