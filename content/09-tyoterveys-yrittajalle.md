@@ -105,7 +105,7 @@ Kyllä. Työterveyskustannukset ovat vähennyskelpoisia elinkeinotoiminnan kulun
 Kyllä. Toiminimi-yrittäjä voi tehdä työterveyssopimuksen samalla tavalla kuin osakeyhtiö.
 
 ### Mitä jos vain minä yrittäjänä tarvitsen työterveyden, ei vielä työntekijöitä?
-Saat saman palvelun. Kuukausihinta on hieman korkeampi kuin tiimillä, mutta käytännössä yhden hengen kuukausimaksu asettuu välille 25–60 €.
+Saat saman palvelun. Kuukausimaksu riippuu valitusta paketista.
 
 ### Voinko vaihtaa nykyisestä yksityisestä lääkäriasemasta työterveyteen?
 Kyllä. Työterveys ei estä yksityisen lääkärin käyttöä, mutta useimmat yrittäjät korvaavat yksityisen lääkäripaketin työterveydellä, koska hinta-laatusuhde on parempi.
