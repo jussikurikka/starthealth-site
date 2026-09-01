@@ -47,7 +47,7 @@ Toimistotyötä tekevien yritysten hinta on saatavilla suoraan [hintalaskuristam
 2. **Allekirjoita työterveyssopimus** — sähköinen allekirjoitus, ei printtiä
 3. **Työpaikkaselvitys** — tehdään yleensä 2 viikon sisällä sopimuksesta
 4. **Toimintasuunnitelma** — laaditaan yhdessä, hyväksytään digitaalisesti
-5. **Työntekijät käyttöön** — saavat appin, jolla varaavat ajat ja saavat reseptit
+5. **Työntekijät käyttöön** — pääsevät palvelun piiriin ja voivat varata ajat digitaalisesti
 
 Toimistoyrityksille koko prosessi käynnistyy tyypillisesti parissa päivässä.
 
