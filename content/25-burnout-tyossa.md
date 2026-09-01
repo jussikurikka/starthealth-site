@@ -135,8 +135,8 @@ Mitä aikaisemmassa vaiheessa puututaan, sitä lyhyempi toipuminen.
 - **Etätyö tai osa-aika**
 - **Konkreettinen irtisanoutuminen työhön liittyvistä yhteyksistä** lomalla
 
-### Lyhytterapia
-Työterveyden kautta 5–10 käyntiä psykologilla. Auttaa ymmärtämään omaa mallia ja rakentamaan uusia työkaluja.
+### Psykologikäynnit
+Työterveyden kautta käyntejä psykologilla. Auttaa ymmärtämään omaa mallia ja rakentamaan uusia työkaluja.
 
 ### Työkokeilu
 Työhön paluun jälkeen:
@@ -225,7 +225,7 @@ Akuutissa vaiheessa voi pahentaa. Toipumisessa säännöllinen kevyt liikunta (k
 
 ## Pyydä tarjous
 
-Starthealth tukee pk-yrityksiä burnoutin ennaltaehkäisyssä ja hoidossa — lyhytterapia, työpsykologi, esimiesvalmennus.
+Starthealth tukee pk-yrityksiä burnoutin ennaltaehkäisyssä ja hoidossa — työpsykologi ja aktiivinen seuranta.
 
 [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
