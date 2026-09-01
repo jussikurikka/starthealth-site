@@ -50,7 +50,7 @@ Tuki- ja liikuntaelinvaivat ovat yleisin syy sairauspoissaoloihin toimistotyöss
 Mielen hyvinvointi on nopeimmin kasvava syy sairauspoissaoloihin. Tutkimusten mukaan 30–40 % pitkistä sairauspoissaoloista liittyy mielenterveyteen.
 
 Käytännön keinot:
-- **Lyhytterapia työterveyden kautta** (yleensä Kela 2 -tasolla)
+
 - **Työpsykologi** säännöllisesti saatavilla
 - **Kuormituksen seuranta** yksilötasolla
 - **Työaikajoustot** — etätyö, joustava työaika
