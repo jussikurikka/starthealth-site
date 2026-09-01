@@ -1,20 +1,20 @@
 ---
 title: "Työterveys Espoo — moderni työterveyshuolto espoolaisille yrityksille"
-meta_description: "Työterveys Espoo kasvuyrityksille. Nopea aloitus, kiinteä kk-hinta, etä- ja lähivastaanotto Keilaniemessä ja Leppävaarassa. Pyydä tarjous."
+meta_description: "Työterveys Espoo kasvuyrityksille. Nopea aloitus, kiinteä kk-hinta, digitaalinen vastaanotto + lähivastaanotto Helsingissä. Pyydä tarjous."
 primary_keyword: "työterveys espoo"
-secondary_keywords: ["työterveyshuolto espoo", "työterveys keilaniemi", "työterveys leppävaara"]
+secondary_keywords: ["työterveyshuolto espoo", "työterveys espoo pk-yritys", "työterveys espoo startup"]
 search_intent: "commercial"
 target_url: "/tyoterveys/espoo"
 cluster: "Local — Espoo"
 priority: "P0"
 estimated_volume: 70
 estimated_kd: 1
-last_updated: 2026-04-20
+last_updated: 2026-09-01
 ---
 
 # Työterveys Espoo — moderni työterveyshuolto espoolaisille yrityksille
 
-Espoo on Suomen teknologiapääkaupunki, ja teknologiayritysten tarpeet eroavat vanhasta työterveysmallista. Starthealth tarjoaa työterveyden espoolaisille kasvuyrityksille — nopeasti käyttöön, digitaalisesti edellä ja lähivastaanotolla tuettuna Keilaniemessä ja muualla pääkaupunkiseudulla.
+Espoo on Suomen teknologiapääkaupunki, ja teknologiayritysten tarpeet eroavat vanhasta työterveysmallista. Starthealth tarjoaa työterveyden espoolaisille kasvuyrityksille — nopeasti käyttöön, digitaalisesti edellä ja lähivastaanotolla tuettuna Helsingissä.
 
 ## Miksi espoolaisten yritysten kannattaa kiinnittää huomiota työterveyteen
 
@@ -26,8 +26,8 @@ Espoossa toimivat kaikki suurimmat työterveysketjut (Mehiläinen, Terveystalo, 
 
 Starthealth tuo vaihtoehdon:
 - **Kiinteä kuukausihinta** per työntekijä — ei yllätyksiä
-- **Digitaalinen ensikontakti** — 90 % asioista hoituu chatillä tai videopuhelulla
-- **Lähivastaanotto tarvittaessa** — Keilaniemi, Leppävaara, Tapiola
+- **Digitaalinen ensikontakti** — 80–90 % asioista hoituu chatillä tai videopuhelulla
+- **Lähivastaanotto tarvittaessa** — Helsingissä Kampissa
 - **Ei pitkää sitoutumista** — lyhyt irtisanomisaika
 
 ## Mitä työterveys Espoossa sisältää
@@ -38,26 +38,26 @@ Sairaanhoito (Kela 2): yleislääkäri, laboratoriotutkimukset, kuvantaminen, er
 
 Erityispalvelut espoolaisille teknologiayrityksille:
 - **Ergonomia-arviointi etätyössä** — kun tiimi hajautuu koteihin
-- **Mielen hyvinvointituki** — lyhytterapia, työpsykologi
+- **Mielen hyvinvointituki** — työterveyspsykologi Basic- ja Support-paketeissa
 - **Burnout-ennaltaehkäisy** — tunnistaminen varhaisessa vaiheessa
 
 ## Työterveyden hinta Espoossa
 
-Espoossa työterveyden kokonaiskustannukset vastaavat Helsinkiä: 250–600 € / työntekijä / vuosi Kela-korvausten jälkeen. Pienet yritykset (alle 20 henkilöä) pärjäävät usein matalammalla hinnalla, koska riskit ja käyttö ovat pienempiä.
+Vuosittaiset kokonaiskustannukset vastaavat Helsinkiä: 250–600 € / työntekijä / vuosi Kela-korvausten jälkeen. Pienet yritykset (alle 20 henkilöä) pärjäävät usein matalammalla hinnalla, koska riskit ja käyttö ovat pienempiä.
 
 ## Usein kysyttyä
 
 ### Onko työterveys pakollinen espoolaisessa startupissa?
 Kyllä. Työterveyslain mukaan jokaisen työnantajan tulee järjestää lakisääteinen työterveyshuolto heti, kun palkkaa ensimmäisen työntekijän.
 
-### Saanko lähivastaanoton Keilaniemessä?
-Kyllä. Starthealth tarjoaa lähivastaanoton keskeisillä alueilla pääkaupunkiseudulla, mukaan lukien Keilaniemi ja Tapiola.
+### Saanko lähivastaanoton espoolaisille työntekijöille?
+Lähivastaanotto on saatavilla Helsingissä Kampissa. Suurin osa (80–90 %) käynneistä hoidetaan digitaalisesti, jolloin sijainnilla ei ole merkitystä.
 
 ### Mitä työterveys maksaa espoolaiselle startupille?
 Tyypillisesti 250–450 € / työntekijä / vuosi Kela 2 -tasolla. Kela 1 -taso (pelkkä lakisääteinen) on edullisempi.
 
 ### Voiko työterveyden hoitaa pelkästään etänä?
-Kyllä. Useimmat Starthealthin asiakkaat hoitavat 80–90 % käynneistä digitaalisesti. Fyysinen vastaanotto on aina saatavilla tarvittaessa.
+Kyllä. Useimmat Starthealthin asiakkaat hoitavat 80–90 % käynneistä digitaalisesti. Fyysinen vastaanotto on aina saatavilla Helsingissä tarvittaessa.
 
 ## Pyydä tarjous
 

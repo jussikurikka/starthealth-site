@@ -9,7 +9,7 @@ cluster: "Decision"
 priority: "P1"
 estimated_volume: 80
 estimated_kd: 2
-last_updated: 2026-04-20
+last_updated: 2026-09-01
 ---
 
 # Työterveyden todelliset kustannukset — TCO-analyysi pk-yritykselle
@@ -49,12 +49,12 @@ Tämä voi olla 30–60 % kokonaiskustannuksista.
 
 ### Kela 1 (ennaltaehkäisy)
 - **Korvausprosentti**: 60 % hyväksytyistä kustannuksista
-- **Kattokorvaus**: noin 460 €/hlö/v
+- **Kattokorvaus**: noin 215 €/hlö/v
 - Koskee: työpaikkaselvityksiä, terveystarkastuksia, työkykytyötä
 
 ### Kela 2 (sairaanhoito)
 - **Korvausprosentti**: 50 % hyväksytyistä kustannuksista
-- **Kattokorvaus**: noin 280 €/hlö/v
+- **Kattokorvaus**: noin 295 €/hlö/v
 - Koskee: yleislääkärikäyntejä, laboratoriota, osaa erikoislääkäreitä
 
 **Tärkeää**: korvaus ei kata kaikkia kustannuksia. "Hyväksytyt kustannukset" ovat yleensä alempia kuin todelliset.
@@ -174,7 +174,7 @@ Mittakaavaetu näkyy — mitä isompi yritys, sitä alempi per hlö.
 Kyllä. Täysi vähennysoikeus. Arvonlisäveroa ei ole.
 
 ### Kuinka paljon Kela korvaa prosenttina?
-Kela 1: 60 % hyväksytyistä. Kela 2: 50 % hyväksytyistä. Kattokorvaukset 460 € ja 280 € /hlö/v.
+Kela 1: 60 % hyväksytyistä kustannuksista, kattokorvaus noin 215 €/hlö/v. Kela 2: 50 % hyväksytyistä, kattokorvaus noin 295 €/hlö/v.
 
 ### Miksi käytön mukaiset maksut ovat niin suuri osa?
 Koska ihmiset käyttävät palvelua. Hyvä asia! Käyttö on merkki toimivasta palvelusta.

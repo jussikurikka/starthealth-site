@@ -9,18 +9,18 @@ cluster: "Local — Helsinki"
 priority: "P0"
 estimated_volume: 2400
 estimated_kd: 0
-last_updated: 2026-04-20
+last_updated: 2026-09-01
 ---
 
 # Työterveys Helsinki — modernit työterveyspalvelut helsinkiläisille pk-yrityksille
 
-Etsitkö työterveyttä Helsingissä toimivalle yritykselle? Starthealth tarjoaa nykyaikaisen, kustannustehokkaan työterveyshuollon helsinkiläisille pienille ja keskisuurille yrityksille — ilman vanhojen suurten ketjujen monimutkaisuutta. Saat työterveyden käyntiin yhdessä viikossa, läpinäkyvällä hinnalla ja yhteistyössä Helsingin parhaiden lääkärien kanssa.
+Etsitkö työterveyttä Helsingissä toimivalle yritykselle? Starthealth tarjoaa nykyaikaisen, kustannustehokkaan työterveyshuollon helsinkiläisille pienille ja keskisuurille yrityksille — ilman vanhojen suurten ketjujen monimutkaisuutta. Toimistoyrityksille saat työterveyden käyntiin parissa päivässä, läpinäkyvällä hinnalla ja yhteistyössä Helsingin lääkäreiden kanssa.
 
 ## Miksi työterveys kannattaa hankkia Helsingissä toimivassa yrityksessä
 
 Helsingissä työllistäminen tarkoittaa kovaa kilpailua osaajista. Hyvin järjestetty työterveys ei ole pelkkä lakisääteinen velvoite vaan rekrytointietu, sairauspoissaolojen vähentäjä ja työnantajamielikuvan rakentaja.
 
-Pääkaupunkiseudulla työterveyttä leimaa kolme asiaa: vastaanottoaikojen niukkuus suurissa ketjuissa, korkeat hinnat ja vanhat työkalut. Starthealth ratkaisee nämä kaikki yhdistämällä digitaalisen ensikontaktin ja lähivastaanoton Helsingin keskeisillä alueilla.
+Pääkaupunkiseudulla työterveyttä leimaa kolme asiaa: vastaanottoaikojen niukkuus suurissa ketjuissa, korkeat hinnat ja vanhat työkalut. Starthealth ratkaisee nämä kaikki yhdistämällä digitaalisen ensikontaktin ja lähivastaanoton Helsingissä.
 
 ## Mitä työterveys Helsingissä Starthealthilta sisältää
 
@@ -30,34 +30,30 @@ Sairaanhoitotaso (Kela 2) on vapaaehtoinen mutta useimmille kasvuyrityksille suo
 
 Lisäksi tarjoamme:
 - **Etävastaanotto** — chat ja videopuhelu työterveyslääkärin kanssa
-- **Lähivastaanotto Helsingin keskustassa** — tarvittaessa fyysinen tapaaminen
-- **Mielen hyvinvoinnin tuki** — psykologi ja lyhytterapia osana pakettia
+- **Lähivastaanotto Helsingissä Kampissa** — tarvittaessa fyysinen tapaaminen
+- **Mielen hyvinvoinnin tuki** — työterveyspsykologi sisältyy Basic- ja Support-paketteihin
 - **Työkykyjohtamisen tuki** — kuukausiraportointi ja varhaisen tuen mallit
 
 ## Työterveyden hinta Helsingissä
 
 Helsingissä työterveyden vuosittaiset kokonaiskustannukset asettuvat tyypillisesti 250–600 euron välille per työntekijä Kela-korvausten jälkeen. Hinta riippuu sairaanhoitotason laajuudesta, henkilöstörakenteesta ja paikallisten vastaanottojen käytöstä.
 
-Starthealthin hinnoittelu on kiinteä kuukausimaksu per työntekijä — ei piilokuluja, ei yllättäviä lisälaskuja. [Lue tarkemmin työterveyden hinnoittelusta](/tyoterveys/hinta).
-
-## Helsingin parhaiden työterveyslääkärien kanssa
-
-Starthealth tekee yhteistyötä Helsingissä toimivien työterveyslääkäreiden, -hoitajien, fysioterapeuttien ja työpsykologien kanssa. Tarjoamme käyntejä keskeisillä asemilla: Kamppi, Pasila, Kalasatama. Etävastaanotto on aina käytettävissäsi koko Suomesta.
+Toimistotyötä tekevien yritysten hinta on saatavilla suoraan [hintalaskuristamme](https://starthealth.fi). Starthealthin hinnoittelu on kiinteä kuukausimaksu per työntekijä — ei piilokuluja, ei yllättäviä lisälaskuja. [Lue tarkemmin työterveyden hinnoittelusta](/tyoterveys/hinta).
 
 ## Miten työterveys käynnistetään Starthealthin kanssa
 
-1. **Pyydä tarjous** — kerro yrityksesi koko ja toimiala, saat hinnan ja aloitusaikataulun 24 tunnissa
+1. **Pyydä tarjous** — kerro yrityksesi koko ja toimiala, saat hinnan ja aloitusaikataulun
 2. **Allekirjoita työterveyssopimus** — sähköinen allekirjoitus, ei printtiä
 3. **Työpaikkaselvitys** — tehdään yleensä 2 viikon sisällä sopimuksesta
 4. **Toimintasuunnitelma** — laaditaan yhdessä, hyväksytään digitaalisesti
 5. **Työntekijät käyttöön** — saavat appin, jolla varaavat ajat ja saavat reseptit
 
-Koko prosessi vie tyypillisesti 5–10 työpäivää.
+Toimistoyrityksille koko prosessi käynnistyy tyypillisesti parissa päivässä.
 
 ## Usein kysyttyä työterveydestä Helsingissä
 
 ### Mistä saan työterveyden Helsingissä pienelle yritykselle?
-Starthealth on suunniteltu erityisesti 5–250 hengen yrityksille Helsingissä. Saat työterveyden käyntiin yhdessä viikossa ilman pitkiä neuvotteluja.
+Starthealth on suunniteltu erityisesti alle 200 hengen yrityksille Helsingissä. Toimistoyrityksille saat työterveyden käyntiin parissa päivässä.
 
 ### Onko työterveys pakollinen Helsingissä toimivalle yritykselle?
 Kyllä. Lakisääteinen työterveys (Kela 1 -taso) on pakollinen kaikille työnantajille, joilla on vähintään yksi työntekijä, riippumatta toimialasta tai sijainnista.
@@ -73,7 +69,7 @@ Kyllä. Vaihto on yleensä helppoa: irtisano nykyinen sopimus (yleensä 1–3 kk
 
 ## Pyydä tarjous
 
-Starthealth on Helsingin nykyaikaisin valinta pk-yritysten työterveyteen. Pyydä tarjous tästä — saat hinnan 24 tunnissa, ja työterveys voidaan käynnistää viikossa.
+Starthealth on Helsingin nykyaikainen valinta pk-yritysten työterveyteen. Pyydä tarjous tästä — toimistoyrityksille hinta löytyy myös suoraan laskurista.
 
 [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 

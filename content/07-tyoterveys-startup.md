@@ -9,7 +9,7 @@ cluster: "Commercial — Startup"
 priority: "P0"
 estimated_volume: 90
 estimated_kd: 1
-last_updated: 2026-04-20
+last_updated: 2026-09-01
 ---
 
 # Startup-yrityksen työterveys — 7 asiaa, jotka perustajan kannattaa tietää
@@ -33,7 +33,7 @@ Mehiläinen, Terveystalo ja Pihlajalinna ovat rakentaneet tarjoamansa suuryrityk
 - **Käyttöpohjaista laskutusta**, joka tekee budjetoinnin mahdottomaksi
 - **Geneeristä toimintasuunnitelmaa**, joka ei huomioi etätyötä tai digitaalisia tiimejä
 
-Startup-yritykselle tämä on huonosti istuva malli. Siksi **digitaalisesti edellä olevat toimijat** (Heltti, Starthealth) ovat nousseet markkinoille.
+Startup-yritykselle tämä on huonosti istuva malli. Siksi **digitaalisesti edellä olevat toimijat** (Starthealth, Heltti) ovat nousseet markkinoille.
 
 ## 3. Digitaalinen työterveys kattaa 80–90 % tarpeista
 
@@ -50,22 +50,19 @@ Kaikki nämä hoituvat etävastaanotolla. Fyysinen vastaanotto tarvitaan poikkeu
 
 Startup-työ on korkean stressin, epävarmuuden ja venyvien työpäivien ympäristö. Tutkimusten mukaan 30–40 % perustajista kokee uupumusoireita. Hyvän työterveyssopimuksen keskeisiä osia kasvuyrityksessä ovat:
 
-- **Lyhytterapia** (Kela 2 -tason alla)
-- **Työpsykologi**
+- **Työterveyspsykologi** — sisältyy Starthealthin Basic- ja Support-paketteihin
 - **Burnout-ennaltaehkäisy**
 - **Kriisituki**
 
-Varmista, että nämä sisältyvät pakettiin.
+Varmista, että mielenhyvinvointituki sisältyy pakettiin — se on yksi tärkeimmistä rekrytointivalteista.
 
 ## 5. Työterveyden hinta startup-yritykselle
 
-Startupin työterveyden kuukausikustannukset asettuvat tyypillisesti välille:
+Toimistotyötä tekevien startup-yritysten hinta on saatavilla suoraan [Starthealthin hintalaskurista](https://starthealth.fi). Hinta on kiinteä kuukausimaksu per työntekijä — ei käyttöpohjaisia yllätyksiä.
 
-- **3–10 hlö tiimi**: 150–350 € / kk per työntekijä
-- **10–50 hlö tiimi**: 130–300 € / kk per työntekijä
-- **50+ hlö tiimi**: 120–280 € / kk per työntekijä
+Kela-korvaukset palautetaan jälkikäteen. Tyypillisesti Kela 1 kattaa n. 60 % lakisääteisen osan hyväksytyistä kustannuksista (katto n. 215 €/hlö/v) ja Kela 2 n. 50 % sairaanhoidon kustannuksista (katto n. 295 €/hlö/v).
 
-Kela-korvaukset palautetaan jälkikäteen ja vuosittaiset nettokustannukset ovat tyypillisesti 250–500 € / työntekijä / vuosi.
+Lue tarkempi hintaopas: [Työterveyden hinta](/tyoterveys/hinta).
 
 ## 6. Yrittäjä voi hankkia työterveyden itselleen
 
@@ -82,7 +79,7 @@ Järjestä valinta näin:
 3. **Hae läpinäkyvää kuukausihintaa** — kiinteä hinta per työntekijä
 4. **Varmista lyhyt sitoutuminen** — vältä yli vuoden sopimuksia
 5. **Varmista mielenhyvinvointituki** — ei vain fyysinen terveys
-6. **Tarkista aloitusaikataulu** — hyvä toimija käynnistyy 1–2 viikossa
+6. **Tarkista aloitusaikataulu** — toimistoyrityksille Starthealth käynnistyy tyypillisesti parissa päivässä
 
 ## Usein kysyttyä
 
