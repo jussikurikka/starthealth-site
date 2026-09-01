@@ -114,7 +114,7 @@ Ei. Velvoite alkaa ensimmäisestä työntekijästä. Onneksi pienen yrityksen ty
 
 ## Pyydä tarjous
 
-Starthealth aloittaa työterveyden viikossa — saat sopimuksen voimaan ennen uuden työntekijän aloittamista.
+Starthealth aloittaa työterveyden parissa päivässä — saat sopimuksen voimaan ennen uuden työntekijän aloittamista.
 
 [Pyydä tarjous →](https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl)
 
