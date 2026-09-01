@@ -131,7 +131,7 @@ Kuinka hyvin toimija tukee työnantajaa:
 - [ ] Vasteajat etävastaanotolle (chat, video, lähi)?
 - [ ] Erikoislääkäreiden saatavuus?
 - [ ] Sovellus ja digitaaliset palvelut?
-- [ ] Työpsykologian ja lyhytterapian määrä?
+- [ ] Onko psykologipalvelut saatavilla?
 - [ ] Kuukausiraportoinnin sisältö?
 - [ ] Oman yhteyshenkilön nimi ja rooli?
 - [ ] Kela-korvausprosentti?
@@ -184,13 +184,13 @@ Anna pisteet 1–5 kullekin kriteerille, paina oman tärkeytesi mukaan:
 ## Milloin kannattaa valita pieni toimija
 
 Pienempi tai modernimpi työterveys (kuten Starthealth) sopii kun:
-- **Tiimi on alle 50 hlö**
+- **Tiimi on alle 200 hlö**
 - **Etätyö ja digitaaliset palvelut ovat prioriteetteja**
 - **Henkilökohtainen palvelu on tärkeä**
 - **Joustavuus sopimuksessa on arvoa**
 
 Iso toimija (Mehiläinen, Terveystalo, Pihlajalinna) sopii kun:
-- **Tiimi on 50+ ja hajautettu**
+- **Tiimi on 200+ ja hajautettu**
 - **Erikoissairaanhoito ja sairaalapalvelut ovat tarpeen**
 - **Valtakunnallinen kattavuus on välttämätön**
 
@@ -203,7 +203,7 @@ Iso toimija (Mehiläinen, Terveystalo, Pihlajalinna) sopii kun:
 Kyllä. Tyypillinen irtisanomisaika 3–6 kk. Käynnistyksen voi ajoittaa irtisanomisen päätyttyä.
 
 ### Mikä on kohtuullinen budjetti pk-yritykselle?
-Kela 1+2: 350–550 € / hlö / v. Premium-paketit 600–900 €.
+Hinnat vaihtelevat toimijoittain — katso Starthealthin hintalaskurilta esimerkkihinta omalle yrityksellesi.
 
 ### Kuka päättää työterveydestä yrityksessä?
 Vastuu on työnantajalla (toimitusjohtaja, HR). Henkilöstöä on hyvä kuulla.
