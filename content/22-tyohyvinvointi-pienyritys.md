@@ -64,7 +64,7 @@ Lyhyt tauko tunnin välein, lounaalla pois näytöltä. Ei "työskennellä louna
 Kevyet mutta tehokkaat etuudet: liikuntaseteli tai vastaava etuus kuuluu vero-tehokkaasti etusetelin piiriin.
 
 ### 7. Mielenhyvinvointitukea saatavilla
-Työterveyden kautta lyhytterapia ja työpsykologi. Matala kynnys käyttää.
+Työterveyden kautta työpsykologi. Matala kynnys käyttää.
 
 ### 8. Tiimin yhteishenki
 Säännölliset tiimitapaamiset (lounas, virkistys), mutta ei pakollisia "hauskaa"-tapahtumia.
