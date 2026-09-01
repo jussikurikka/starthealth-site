@@ -76,6 +76,6 @@ Starthealth on Helsingin nykyaikainen valinta pk-yritysten työterveyteen. Pyyd�
 
 ---
 
-**Sisäiset linkit:** [Työterveys Espoossa](/tyoterveys/espoo) · [Työterveys Vantaalla](/tyoterveys/vantaa) · [Työterveys pääkaupunkiseudulla](/tyoterveys/paakaupunkiseutu) · [Työterveyden hinta pk-yritykselle](/tyoterveys/hinta) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Miten valita työterveys](/tyoterveys/miten-valita)
+**Sisäiset linkit:** [Työterveys Espoossa](/tyoterveys/espoo) · [Työterveys Vantaalla](/tyoterveys/vantaa) · [Työterveys pääkaupunkiseudulla](/tyoterveys/paakaupunkiseutu) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Miten valita työterveys](/tyoterveys/miten-valita)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaitos](https://www.ttl.fi)

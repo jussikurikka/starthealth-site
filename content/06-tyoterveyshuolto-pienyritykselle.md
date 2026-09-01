@@ -91,6 +91,6 @@ Starthealth on suunniteltu juuri pienille ja keskisuurille yrityksille. Saat hin
 
 ---
 
-**Sisäiset linkit:** [Työterveyden hinta pk-yritykselle](/tyoterveys/hinta) · [Työterveys yrittäjälle](/tyoterveys/yrittajalle) · [Työterveys startupille](/tyoterveys/startup) · [Onko työterveys pakollinen](/tyoterveys/pakollinen) · [Työterveyden hinta alle 10 hengen yritykselle](/tyoterveys/pieni-yritys)
+**Sisäiset linkit:**  · [Työterveys yrittäjälle](/tyoterveys/yrittajalle) · [Työterveys startupille](/tyoterveys/startup) · [Onko työterveys pakollinen](/tyoterveys/pakollinen) · [Työterveyden hinta alle 10 hengen yritykselle](/tyoterveys/pieni-yritys)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaki 1383/2001](https://www.finlex.fi/fi/laki/ajantasa/2001/20011383)

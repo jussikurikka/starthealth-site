@@ -66,6 +66,6 @@ Tyypillisesti 250–500 € / työntekijä / vuosi. Pyydä tarjous saadaksesi ta
 
 ---
 
-**Sisäiset linkit:** [Työterveys Helsingissä](/tyoterveys/helsinki) · [Työterveys Espoossa](/tyoterveys/espoo) · [Työterveys pääkaupunkiseudulla](/tyoterveys/paakaupunkiseutu) · [Työterveyden hinta](/tyoterveys/hinta) · [Miten valita työterveys](/tyoterveys/miten-valita)
+**Sisäiset linkit:** [Työterveys Helsingissä](/tyoterveys/helsinki) · [Työterveys Espoossa](/tyoterveys/espoo) · [Työterveys pääkaupunkiseudulla](/tyoterveys/paakaupunkiseutu) · [Miten valita työterveys](/tyoterveys/miten-valita)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaitos](https://www.ttl.fi)

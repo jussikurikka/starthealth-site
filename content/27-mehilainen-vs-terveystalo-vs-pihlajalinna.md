@@ -173,6 +173,6 @@ Starthealth on moderni, etävastaanottoa painottava työterveys pk-yrityksille �
 
 ---
 
-**Sisäiset linkit:** [Miten valita työterveys](/tyoterveys/miten-valita) · [Työterveyden vertailu](/tyoterveys/vertailu) · [Työterveyden hinta](/tyoterveys/hinta) · [Työterveyden vaihtaminen](/tyoterveys/vaihtaminen) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
+**Sisäiset linkit:** [Miten valita työterveys](/tyoterveys/miten-valita) · [Työterveyden vertailu](/tyoterveys/vertailu) · [Työterveyden vaihtaminen](/tyoterveys/vaihtaminen) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
 
 **Ulkoiset lähteet:** [Mehiläinen](https://www.mehilainen.fi) · [Terveystalo](https://www.terveystalo.com) · [Pihlajalinna](https://www.pihlajalinna.fi)

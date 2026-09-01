@@ -144,6 +144,6 @@ Starthealth nimeää jokaiselle asiakkaalle vastuulääkärin — et asioi kasvo
 
 ---
 
-**Sisäiset linkit:** [Työterveydenhoitaja](/tyoterveys/hoitaja) · [Mitä työterveyshuoltoon kuuluu](/tyoterveys/mita-kuuluu) · [Työterveystarkastus](/tyoterveys/tarkastus) · [Työterveys etänä](/tyoterveys/etana) · [Työterveyden hinta](/tyoterveys/hinta)
+**Sisäiset linkit:** [Työterveydenhoitaja](/tyoterveys/hoitaja) · [Mitä työterveyshuoltoon kuuluu](/tyoterveys/mita-kuuluu) · [Työterveystarkastus](/tyoterveys/tarkastus) · [Työterveys etänä](/tyoterveys/etana)
 
 **Ulkoiset lähteet:** [Suomen Työterveyslääkäriyhdistys](https://www.stly.fi) · [Työterveyslaitos: Työterveyslääkärit](https://www.ttl.fi)

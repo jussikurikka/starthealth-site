@@ -62,7 +62,7 @@ Toimistotyötä tekevien startup-yritysten hinta on saatavilla suoraan [Starthea
 
 Kela-korvaukset palautetaan jälkikäteen. Tyypillisesti Kela 1 kattaa n. 60 % lakisääteisen osan hyväksytyistä kustannuksista (katto n. 215 €/hlö/v) ja Kela 2 n. 50 % sairaanhoidon kustannuksista (katto n. 295 €/hlö/v).
 
-Lue tarkempi hintaopas: [Työterveyden hinta](/tyoterveys/hinta).
+Lue tarkempi hintaopas: .
 
 ## 6. Yrittäjä voi hankkia työterveyden itselleen
 
@@ -106,6 +106,6 @@ Starthealth on suunniteltu kasvuyrityksille: kiinteä hinta, nopea aloitus, digi
 
 ---
 
-**Sisäiset linkit:** [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Digitaalinen työterveys](/tyoterveys/digitaalinen) · [Työterveyden hinta](/tyoterveys/hinta) · [Työterveys yrittäjälle](/tyoterveys/yrittajalle) · [Työterveys etänä](/tyoterveys/etana)
+**Sisäiset linkit:** [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Digitaalinen työterveys](/tyoterveys/digitaalinen) · [Työterveys yrittäjälle](/tyoterveys/yrittajalle) · [Työterveys etänä](/tyoterveys/etana)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaitos: Mielenterveys työelämässä](https://www.ttl.fi)
