@@ -51,12 +51,7 @@ Yrittäjälle erityisen arvokkaita ovat **mielen hyvinvointipalvelut**, koska yr
 
 ## Yrittäjän työterveyden hinta
 
-Yrittäjän työterveys maksaa tyypillisesti samaa luokkaa kuin työntekijän:
-
-- **Pelkkä Kela 1 -taso**: 100–200 € / vuosi netto
-- **Kela 1 + 2 -taso**: 250–500 € / vuosi netto
-
-Hinta riippuu valitusta laajuudesta. Starthealthissa yrittäjä lasketaan samaan tapaan kuin työntekijä — yhtenäinen hinnoittelu, ei erillistä yrittäjäpakettia.
+Starthealthissa yrittäjä lasketaan samaan tapaan kuin työntekijä — yhtenäinen hinnoittelu, ei erillistä yrittäjäpakettia. Tarkan hinnan näet [hintalaskurista](https://starthealth.fi).
 
 ## Kela-korvaus yrittäjän työterveydestä
 
@@ -98,7 +93,7 @@ Verotuksellisesti molemmat ovat tehokkaita.
 ## Usein kysyttyä
 
 ### Kuinka paljon yrittäjän työterveys maksaa Suomessa?
-Tyypillisesti 250–500 € / vuosi Kela-korvausten jälkeen, Kela 2 -tason palvelulla.
+Hinta riippuu valitusta paketista ja tiimin koosta. Tarkan hinnan näet Starthealthin hintalaskurista.
 
 ### Saako yrittäjä Kela-korvauksen työterveydestä?
 Kyllä, edellyttäen YEL-vakuutusta ja kirjallista työterveyssopimusta.
@@ -110,7 +105,7 @@ Kyllä. Työterveyskustannukset ovat vähennyskelpoisia elinkeinotoiminnan kulun
 Kyllä. Toiminimi-yrittäjä voi tehdä työterveyssopimuksen samalla tavalla kuin osakeyhtiö.
 
 ### Mitä jos vain minä yrittäjänä tarvitsen työterveyden, ei vielä työntekijöitä?
-Saat saman palvelun. Kuukausihinta on hieman korkeampi kuin tiimillä, mutta käytännössä yhden hengen kuukausimaksu asettuu välille 25–60 €.
+Saat saman palvelun. Kuukausimaksu riippuu valitusta paketista.
 
 ### Voinko vaihtaa nykyisestä yksityisestä lääkäriasemasta työterveyteen?
 Kyllä. Työterveys ei estä yksityisen lääkärin käyttöä, mutta useimmat yrittäjät korvaavat yksityisen lääkäripaketin työterveydellä, koska hinta-laatusuhde on parempi.
@@ -123,6 +118,6 @@ Starthealthissa yrittäjä on osa pakettia ilman erillistä yrittäjähinnoittel
 
 ---
 
-**Sisäiset linkit:** [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Työterveyden hinta](/tyoterveys/hinta) · [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus) · [Onko työterveys pakollinen](/tyoterveys/pakollinen) · [Työterveyden todelliset kustannukset](/tyoterveys/kustannukset)
+**Sisäiset linkit:** [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Työterveyden hinta](/tyoterveys/hinta) · [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus) · [Onko työterveys pakollinen](/tyoterveys/pakollinen)
 
 **Ulkoiset lähteet:** [Kela: Yrittäjän työterveyshuolto](https://www.kela.fi/yrittajan-tyoterveys) · [Työterveyslaitos](https://www.ttl.fi)
