@@ -39,7 +39,7 @@ Lisäksi tarjoamme:
 
 Helsingissä työterveyden vuosittaiset kokonaiskustannukset asettuvat tyypillisesti 250–600 euron välille per työntekijä Kela-korvausten jälkeen. Hinta riippuu sairaanhoitotason laajuudesta, henkilöstörakenteesta ja paikallisten vastaanottojen käytöstä.
 
-Toimistotyötä tekevien yritysten hinta on saatavilla suoraan [hintalaskuristamme](https://starthealth.fi). Starthealthin hinnoittelu on kiinteä kuukausimaksu per työntekijä — ei piilokuluja, ei yllättäviä lisälaskuja. [Lue tarkemmin työterveyden hinnoittelusta](/tyoterveys/hinta).
+Toimistotyötä tekevien yritysten hinta on saatavilla suoraan [hintalaskuristamme](https://starthealth.fi). Starthealthin hinnoittelu on kiinteä kuukausimaksu per työntekijä — ei piilokuluja, ei yllättäviä lisälaskuja.
 
 ## Miten työterveys käynnistetään Starthealthin kanssa
 
@@ -60,7 +60,7 @@ Starthealth on suunniteltu erityisesti alle 200 hengen yrityksille Helsingissä.
 Kyllä. Lakisääteinen työterveys (Kela 1 -taso) on pakollinen kaikille työnantajille, joilla on vähintään yksi työntekijä, riippumatta toimialasta tai sijainnista.
 
 ### Mitä työterveys Helsingissä maksaa?
-Tyypillisesti 250–600 € / työntekijä / vuosi Kela-korvausten jälkeen. Tarkka hinta riippuu sairaanhoitotason laajuudesta. Lue lisää: [työterveys hinta](/tyoterveys/hinta).
+Tyypillisesti 250–600 € / työntekijä / vuosi Kela-korvausten jälkeen. Tarkka hinta riippuu sairaanhoitotason laajuudesta.
 
 ### Voiko työterveyttä käyttää etänä?
 Kyllä. Starthealthin digitaalinen vastaanotto toimii koko Suomessa. Helsingissä asuvat työntekijät voivat valita etä- tai lähivastaanoton tilanteen mukaan.
