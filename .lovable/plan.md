@@ -1,26 +1,19 @@
-Toteutetaan jalkapalkin pieni Claude Quick Start -linkki, joka avaa dialogin sovelluksen MCP-linkillä ja kopioi-napilla.
+# Make the contact form actually deliver messages
 
-### Mitä rakennetaan
-1. **Uusi komponentti** `src/components/ClaudeQuickStart.tsx`
-   - Käyttää olemassa olevaa shadcn/ui `Dialog`-komponenttia.
-   - Näyttää MCP-palvelimen URL:n: `https://<VITE_SUPABASE_PROJECT_ID>.supabase.co/functions/v1/mcp` (rakennetaan build-aikaisesta ympäristömuuttujasta, ei kovakoodattua).
-   - Kopioi URL leikepöydälle yhdellä napinpainalluksella.
-   - Näyttää 4 vaiheen ohjeen Claudeen liittämiseksi.
-2. **Käännökset** `src/contexts/LanguageContext.tsx`
-   - Lisätään uudet avaimet suomeksi ja englanniksi: linkin teksti, dialogin otsikko, vaiheiden ohjeet, "Kopioi"-napin teksti, onnistumisviesti.
-3. **Jalkapalkin päivitys** `src/components/Footer.tsx`
-   - Lisätään hienovarainen linkki "Claude Quick Start" / "Claude Quick Start" olemassa olevien Tietosuoja/Käyttöehdot-linkkien joukkoon.
-   - Linkki avaa uuden dialogikomponentin.
-4. **Tyyli**
-   - Käytetään sovelluksen olemassa olevia väri- ja typografiatokeneita (primary #0A3766, tausta #F0F8FF).
-   - Ei uusia riippuvuuksia.
+Today the form on the front page shows "message sent" but the data is thrown away — nobody receives it. Two other findings (dead links to deleted pricing/Tampere/costs pages) are already fixed.
 
-### Tekniset valinnat
-- MCP-URL muodostetaan `import.meta.env.VITE_SUPABASE_PROJECT_ID`:stä, jolloin projektin ref ei ole kovakoodattuna koodissa.
-- Dialogi toimii vain sovelluksen jalkapalkissa; ei muuta navigointia tai muita sivuja.
-- Kopioi-toiminto käyttää `navigator.clipboard.writeText()` ja näyttää toast- tai tekstipalautteen.
+## What to build
 
-### Hyväksyntä
-- Build menee läpi.
-- Footerista aukeaa dialogi, jossa URL näkyy ja kopioituu leikepöydälle.
-- Tekstit vaihtuvat kielen mukaan (FI/EN).
+1. **Store every submission** in a new `contact_submissions` table in the backend (name, email, company, message, created_at). Public visitors may insert; only signed-in staff can read. This guarantees no lead is ever lost even if email fails.
+2. **Send an email notification** to jussikurikka@starthealth.fi for each submission, via a backend function using Resend.
+3. **Update the form** (`src/components/ContactForm.tsx`) to call that function, show a real error toast when sending fails, and only show the success message on actual success.
+
+## What is needed from you
+
+Email sending requires an email setup: either a Resend API key you provide, or setting up sending from a verified starthealth.fi domain. Confirm which you prefer — until then the function can be built to store submissions and notify once email is configured.
+
+## Technical notes
+
+- Migration: `create table public.contact_submissions`, GRANT insert to anon/authenticated, GRANT all to service_role, RLS enabled with an insert-only policy for anon and a select policy for authenticated staff.
+- Edge function `send-contact` (public, verify_jwt off): validates payload, inserts via service role, sends email through Resend, returns JSON status.
+- Client uses `supabase.functions.invoke('send-contact', ...)` with loading and error states.
