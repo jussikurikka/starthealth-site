@@ -5,19 +5,14 @@ export const articles = [
     "description": "Työterveys Helsinki kasvavalle yritykselle. Nopea aloitus, läpinäkyvä hinta, digitaalinen vastaanotto + lähivastaanotto Helsingissä. Pyydä tarjous."
   },
   {
-    "title": "Työterveys Tampere — modernit työterveyspalvelut tamperelaisille pk-yrityksille",
-    "url": "/tyoterveys/tampere",
-    "description": "Työterveys Tampere kasvavalle yritykselle. Digitaalinen vastaanotto + lähipalvelu Tampereella, kiinteä kuukausihinta, nopea aloitus. Pyydä tarjous."
-  },
-  {
     "title": "Työterveys Espoo — moderni työterveyshuolto espoolaisille yrityksille",
     "url": "/tyoterveys/espoo",
-    "description": "Työterveys Espoo kasvuyrityksille. Nopea aloitus, kiinteä kk-hinta, etä- ja lähivastaanotto Keilaniemessä ja Leppävaarassa. Pyydä tarjous."
+    "description": "Työterveys Espoo kasvuyrityksille. Nopea aloitus, kiinteä kk-hinta, digitaalinen vastaanotto + lähivastaanotto Helsingissä. Pyydä tarjous."
   },
   {
     "title": "Työterveys Vantaa — käytännöllinen työterveyshuolto vantaalaisille yrityksille",
     "url": "/tyoterveys/vantaa",
-    "description": "Työterveys Vantaa yrityksille. Nopea aloitus, läpinäkyvä hinta, etä- ja lähivastaanotto Tikkurilassa ja Aviapolis-alueella. Pyydä tarjous."
+    "description": "Työterveys Vantaa yrityksille. Nopea aloitus, läpinäkyvä hinta, digitaalinen vastaanotto + lähivastaanotto Helsingissä. Pyydä tarjous."
   },
   {
     "title": "Työterveys pääkaupunkiseutu — vertailu, hinnat ja valintaopas",
@@ -33,11 +28,6 @@ export const articles = [
     "title": "Startup-yrityksen työterveys — 7 asiaa, jotka perustajan kannattaa tietää",
     "url": "/tyoterveys/startup",
     "description": "Startup-yrityksen työterveys: milloin aloittaa, paljonko maksaa, mitä sisältyy ja miksi perinteinen työterveys ei sovi startupille. Käytännön opas."
-  },
-  {
-    "title": "Työterveys hinta 2026 — mitä työterveys maksaa yritykselle",
-    "url": "/tyoterveys/hinta",
-    "description": "Työterveys hinta 2026: paljonko työterveyshuolto maksaa pk-yritykselle, mistä hinta koostuu, Kela-korvaukset ja läpinäkyvä hinnoittelu. Laskuri ja vertailu."
   },
   {
     "title": "Työterveys yrittäjälle — kannattaako se ja paljonko se maksaa?",
@@ -138,11 +128,6 @@ export const articles = [
     "title": "Miten valita työterveyspalvelu — opas pk-yrityksen päättäjälle",
     "url": "/tyoterveys/miten-valita",
     "description": "Miten valita työterveyspalvelu pk-yritykselle: 10 kriteeriä, joita kannattaa arvioida, yleiset sudenkuopat ja käytännön checklist."
-  },
-  {
-    "title": "Työterveyden todelliset kustannukset — TCO-analyysi pk-yritykselle",
-    "url": "/tyoterveys/kustannukset",
-    "description": "Työterveyden todelliset kustannukset: kiinteät maksut, Kela-korvaukset, piilokustannukset ja todelliset kustannukset per henkilö. TCO-opas."
   },
   {
     "title": "Työterveyspalvelun vaihtaminen — askel askeleelta -opas",

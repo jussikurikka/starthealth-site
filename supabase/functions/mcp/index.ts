@@ -122,19 +122,14 @@ var articles = [
     "description": "Ty\xF6terveys Helsinki kasvavalle yritykselle. Nopea aloitus, l\xE4pin\xE4kyv\xE4 hinta, digitaalinen vastaanotto + l\xE4hivastaanotto Helsingiss\xE4. Pyyd\xE4 tarjous."
   },
   {
-    "title": "Ty\xF6terveys Tampere \u2014 modernit ty\xF6terveyspalvelut tamperelaisille pk-yrityksille",
-    "url": "/tyoterveys/tampere",
-    "description": "Ty\xF6terveys Tampere kasvavalle yritykselle. Digitaalinen vastaanotto + l\xE4hipalvelu Tampereella, kiinte\xE4 kuukausihinta, nopea aloitus. Pyyd\xE4 tarjous."
-  },
-  {
     "title": "Ty\xF6terveys Espoo \u2014 moderni ty\xF6terveyshuolto espoolaisille yrityksille",
     "url": "/tyoterveys/espoo",
-    "description": "Ty\xF6terveys Espoo kasvuyrityksille. Nopea aloitus, kiinte\xE4 kk-hinta, et\xE4- ja l\xE4hivastaanotto Keilaniemess\xE4 ja Lepp\xE4vaarassa. Pyyd\xE4 tarjous."
+    "description": "Ty\xF6terveys Espoo kasvuyrityksille. Nopea aloitus, kiinte\xE4 kk-hinta, digitaalinen vastaanotto + l\xE4hivastaanotto Helsingiss\xE4. Pyyd\xE4 tarjous."
   },
   {
     "title": "Ty\xF6terveys Vantaa \u2014 k\xE4yt\xE4nn\xF6llinen ty\xF6terveyshuolto vantaalaisille yrityksille",
     "url": "/tyoterveys/vantaa",
-    "description": "Ty\xF6terveys Vantaa yrityksille. Nopea aloitus, l\xE4pin\xE4kyv\xE4 hinta, et\xE4- ja l\xE4hivastaanotto Tikkurilassa ja Aviapolis-alueella. Pyyd\xE4 tarjous."
+    "description": "Ty\xF6terveys Vantaa yrityksille. Nopea aloitus, l\xE4pin\xE4kyv\xE4 hinta, digitaalinen vastaanotto + l\xE4hivastaanotto Helsingiss\xE4. Pyyd\xE4 tarjous."
   },
   {
     "title": "Ty\xF6terveys p\xE4\xE4kaupunkiseutu \u2014 vertailu, hinnat ja valintaopas",
@@ -150,11 +145,6 @@ var articles = [
     "title": "Startup-yrityksen ty\xF6terveys \u2014 7 asiaa, jotka perustajan kannattaa tiet\xE4\xE4",
     "url": "/tyoterveys/startup",
     "description": "Startup-yrityksen ty\xF6terveys: milloin aloittaa, paljonko maksaa, mit\xE4 sis\xE4ltyy ja miksi perinteinen ty\xF6terveys ei sovi startupille. K\xE4yt\xE4nn\xF6n opas."
-  },
-  {
-    "title": "Ty\xF6terveys hinta 2026 \u2014 mit\xE4 ty\xF6terveys maksaa yritykselle",
-    "url": "/tyoterveys/hinta",
-    "description": "Ty\xF6terveys hinta 2026: paljonko ty\xF6terveyshuolto maksaa pk-yritykselle, mist\xE4 hinta koostuu, Kela-korvaukset ja l\xE4pin\xE4kyv\xE4 hinnoittelu. Laskuri ja vertailu."
   },
   {
     "title": "Ty\xF6terveys yritt\xE4j\xE4lle \u2014 kannattaako se ja paljonko se maksaa?",
@@ -255,11 +245,6 @@ var articles = [
     "title": "Miten valita ty\xF6terveyspalvelu \u2014 opas pk-yrityksen p\xE4\xE4tt\xE4j\xE4lle",
     "url": "/tyoterveys/miten-valita",
     "description": "Miten valita ty\xF6terveyspalvelu pk-yritykselle: 10 kriteeri\xE4, joita kannattaa arvioida, yleiset sudenkuopat ja k\xE4yt\xE4nn\xF6n checklist."
-  },
-  {
-    "title": "Ty\xF6terveyden todelliset kustannukset \u2014 TCO-analyysi pk-yritykselle",
-    "url": "/tyoterveys/kustannukset",
-    "description": "Ty\xF6terveyden todelliset kustannukset: kiinte\xE4t maksut, Kela-korvaukset, piilokustannukset ja todelliset kustannukset per henkil\xF6. TCO-opas."
   },
   {
     "title": "Ty\xF6terveyspalvelun vaihtaminen \u2014 askel askeleelta -opas",
