@@ -9,7 +9,7 @@ cluster: "Digital"
 priority: "P1"
 estimated_volume: 60
 estimated_kd: 1
-last_updated: 2026-04-20
+last_updated: 2026-09-15
 ---
 
 # Työterveys etänä — chat, video, sähköinen resepti
@@ -46,7 +46,7 @@ Vaihtoehto videopuheluun, jos video ei sovi. Yleensä tarjotaan rinnakkain.
 - Ergonomia-ohjeet
 
 ### Mahdollista etänä, mutta saattaa edellyttää lähikäyntiä
-- Korvakipu
+- Korvakipu (otoskoopilla korva voidaan tutkia myös etänä)
 - Kurkkukipu (kuume + valokuva voi riittää)
 - Vatsavaivat
 - Mielenhyvinvointidiagnoosit (akuutit kriisit lähikäynnille)
@@ -55,7 +55,7 @@ Vaihtoehto videopuheluun, jos video ei sovi. Yleensä tarjotaan rinnakkain.
 ### Edellyttää lähikäyntiä
 - Laboratoriokokeet (verikoe, EKG)
 - Kuvantaminen (röntgen, ultraääni, magneetti)
-- Fyysinen tutkimus (esim. sydän, keuhkot, vatsa)
+- Käsin tehtävä tutkimus, esimerkiksi vatsan tunnustelu
 - Pienkirurgia
 - Rokotukset
 - Työpaikkaselvitys
@@ -86,7 +86,7 @@ Vaihtoehto videopuheluun, jos video ei sovi. Yleensä tarjotaan rinnakkain.
 
 ### Lääketieteellinen
 - Fyysinen tutkimus rajoitettu
-- Diagnostiset välineet (steto, otoskooppi) eivät käytössä etänä
+- Tavallisella etävastaanotolla ei ole käytössä diagnostisia välineitä. [Basic + Omply -paketissa](/tyoterveys/etatutkimus) työntekijällä on etätutkimuslaitteet, joilla lääkäri voi kuunnella sydän- ja keuhkoäänet sekä tutkia korvat ja ihon.
 - Akuutit hätätilanteet vaativat lähikäynnin tai ensiavun
 
 ### Ihmiseltä-ihmiselle vuorovaikutus
@@ -141,6 +141,6 @@ Starthealthin etätyöterveys on suunniteltu modernin, hajautetun tiimin tarpeis
 
 ---
 
-**Sisäiset linkit:** [Digitaalinen työterveys](/tyoterveys/digitaalinen) · [Työterveys startupille](/tyoterveys/startup) · [Työterveyslääkäri](/tyoterveys/laakari) · [Miten valita työterveys](/tyoterveys/miten-valita)
+**Sisäiset linkit:** [Etätutkimus työterveydessä](/tyoterveys/etatutkimus) · [Digitaalinen työterveys](/tyoterveys/digitaalinen) · [Työterveys startupille](/tyoterveys/startup) · [Työterveyslääkäri](/tyoterveys/laakari) · [Miten valita työterveys](/tyoterveys/miten-valita)
 
 **Ulkoiset lähteet:** [Kela: Etävastaanotot](https://www.kela.fi/etavastaanotot) · [THL: Etäpalvelut terveydenhuollossa](https://thl.fi)

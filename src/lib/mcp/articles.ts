@@ -1,4 +1,5 @@
 export const articles = [
+
   {
     "title": "Työterveys Helsinki — modernit työterveyspalvelut helsinkiläisille pk-yrityksille",
     "url": "/tyoterveys/helsinki",
@@ -133,5 +134,10 @@ export const articles = [
     "title": "Työterveyspalvelun vaihtaminen — askel askeleelta -opas",
     "url": "/tyoterveys/vaihtaminen",
     "description": "Työterveyspalvelun vaihtaminen: miksi ja milloin vaihtaa, mitä valmistella ja miten siirtymä sujuu ilman katkoja. Pk-yrityksen opas."
+  },
+  {
+    "title": "Etätutkimus työterveydessä — lääkäri kuuntelee keuhkot etänä",
+    "url": "/tyoterveys/etatutkimus",
+    "description": "Etätutkimus työterveydessä: mitä lääkäri voi tutkia etätutkimuslaitteilla, miten laitteet toimitetaan ja mitä Basic + Omply -paketti maksaa."
   }
 ] as const;

@@ -9,7 +9,7 @@ cluster: "Commercial — Digital"
 priority: "P0"
 estimated_volume: 50
 estimated_kd: 2
-last_updated: 2026-04-20
+last_updated: 2026-09-15
 ---
 
 # Digitaalinen työterveys — miksi 80 % käynneistä voi tehdä etänä
@@ -37,7 +37,7 @@ Digitaalisessa työterveydessä ensikontakti työterveyslääkäriin tai -hoitaj
 
 - Laboratoriotutkimukset (verikokeet, virtsanäyte)
 - Kuvantaminen (röntgen, magneetti, ultraääni)
-- Fysikaalinen tutkimus (esim. sydän, keuhkot)
+- Fysikaalinen tutkimus ilman etätutkimuslaitteita (etätutkimuksesta ks. [etätutkimus työterveydessä](/tyoterveys/etatutkimus))
 - Pienkirurgia (esim. neulatutkimukset)
 - Rokotukset
 - Työpaikkaselvitys
@@ -123,6 +123,6 @@ Starthealthin digitaalinen työterveys on suunniteltu pk-yrityksille ja kasvuyri
 
 ---
 
-**Sisäiset linkit:** [Työterveys etänä](/tyoterveys/etana) · [Työterveys startupille](/tyoterveys/startup) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Miten valita työterveys](/tyoterveys/miten-valita)
+**Sisäiset linkit:** [Etätutkimus työterveydessä](/tyoterveys/etatutkimus) · [Työterveys etänä](/tyoterveys/etana) · [Työterveys startupille](/tyoterveys/startup) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Miten valita työterveys](/tyoterveys/miten-valita)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [THL: Etävastaanotot](https://thl.fi)
