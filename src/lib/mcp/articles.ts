@@ -1,23 +1,4 @@
-import fs from "fs";
-import path from "path";
-
-const files = fs.readdirSync("content").filter((f) => f.endsWith(".md")).sort();
-
-const articles = files.map((file) => {
-  const raw = fs.readFileSync(path.join("content", file), "utf-8");
-  const fm = raw.split("---")[1] ?? "";
-  const pick = (key: string) => {
-    const m = fm.match(new RegExp(`^${key}:\\s*["']?(.+?)["']?\\s*$`, "m"));
-    return m ? m[1] : "";
-  };
-  return {
-    title: pick("title"),
-    url: pick("target_url"),
-    description: pick("meta_description"),
-  };
-});
-
-export const articleList = articles;
+export const articles = [
 
   {
     "title": "Työterveys Helsinki — modernit työterveyspalvelut helsinkiläisille pk-yrityksille",
@@ -153,5 +134,10 @@ export const articleList = articles;
     "title": "Työterveyspalvelun vaihtaminen — askel askeleelta -opas",
     "url": "/tyoterveys/vaihtaminen",
     "description": "Työterveyspalvelun vaihtaminen: miksi ja milloin vaihtaa, mitä valmistella ja miten siirtymä sujuu ilman katkoja. Pk-yrityksen opas."
+  },
+  {
+    "title": "Etätutkimus työterveydessä — lääkäri kuuntelee keuhkot etänä",
+    "url": "/tyoterveys/etatutkimus",
+    "description": "Etätutkimus työterveydessä: mitä lääkäri voi tutkia etätutkimuslaitteilla, miten laitteet toimitetaan ja mitä Basic + Omply -paketti maksaa."
   }
 ] as const;

@@ -250,6 +250,11 @@ var articles = [
     "title": "Ty\xF6terveyspalvelun vaihtaminen \u2014 askel askeleelta -opas",
     "url": "/tyoterveys/vaihtaminen",
     "description": "Ty\xF6terveyspalvelun vaihtaminen: miksi ja milloin vaihtaa, mit\xE4 valmistella ja miten siirtym\xE4 sujuu ilman katkoja. Pk-yrityksen opas."
+  },
+  {
+    "title": "Et\xE4tutkimus ty\xF6terveydess\xE4 \u2014 l\xE4\xE4k\xE4ri kuuntelee keuhkot et\xE4n\xE4",
+    "url": "/tyoterveys/etatutkimus",
+    "description": "Et\xE4tutkimus ty\xF6terveydess\xE4: mit\xE4 l\xE4\xE4k\xE4ri voi tutkia et\xE4tutkimuslaitteilla, miten laitteet toimitetaan ja mit\xE4 Basic + Omply -paketti maksaa."
   }
 ];
 
