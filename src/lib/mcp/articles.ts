@@ -1,4 +1,24 @@
-export const articles = [
+import fs from "fs";
+import path from "path";
+
+const files = fs.readdirSync("content").filter((f) => f.endsWith(".md")).sort();
+
+const articles = files.map((file) => {
+  const raw = fs.readFileSync(path.join("content", file), "utf-8");
+  const fm = raw.split("---")[1] ?? "";
+  const pick = (key: string) => {
+    const m = fm.match(new RegExp(`^${key}:\\s*["']?(.+?)["']?\\s*$`, "m"));
+    return m ? m[1] : "";
+  };
+  return {
+    title: pick("title"),
+    url: pick("target_url"),
+    description: pick("meta_description"),
+  };
+});
+
+export const articleList = articles;
+
   {
     "title": "Työterveys Helsinki — modernit työterveyspalvelut helsinkiläisille pk-yrityksille",
     "url": "/tyoterveys/helsinki",
