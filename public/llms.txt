@@ -2,6 +2,13 @@
 
 > Lakisääteinen työterveyshuolto 1–200 hengen pk-yrityksille Helsingissä ja etänä koko Suomessa. Kiinteä hinta, nopea hoitoonpääsy ja selkeä palvelumalli.
 
+## Palvelupaketit
+
+- Minimum: lakisääteinen työterveyshuolto. Työpaikkaselvitys ja riskiarviointi, työterveyshuollon toimintasuunnitelma, lakisääteinen seuranta ja maksuton etäneuvonta chatissa.
+- Basic: Minimum-paketin sisältö sekä työterveyslääkärin etävastaanotot video-, chat- tai puheyhteydellä, fysioterapeutin etäohjaus, lyhyet sairauslomatodistukset ja reseptien uusinta soveltuvin osin.
+- Basic + Omply: Basic-paketin sisältö sekä Omply Health Oy:n (Y-tunnus 3546816-4) etätutkimuslaitteet. Jokaiselle työntekijälle kuumemittari, happisaturaatiomittari ja verenpainemittari; yritys voi hankkia lisäksi esimerkiksi digitaalisen stetoskoopin ja otoskoopin. Lääkäri kuuntelee sydän- ja keuhkoäänet sekä tutkii korvat ja ihon etävastaanotolla, ja mittaustieto välittyy suorana videoyhteydellä. Hinta: aloitusmaksu 499 €, laitemaksut laitepaketin laajuuden mukaan, kuukausimaksu noin 47 €/hlö/kk. Hinnoitellaan tarjouksella, ei hintalaskurissa.
+- Support: Basic-paketin sisältö sekä paikan päällä toteutettava työterveyspainotteinen sairaanhoito, lääkärin määräämät laboratorio- ja kuvantamistutkimukset sekä työterveyspsykologin ja -fysioterapeutin vastaanotto.
+
 ## Pages
 
 - [Etusivu](/): Palvelupaketit, hinnoittelu, prosessi ja yhteydenotto.
@@ -23,6 +30,7 @@
 - [Työterveyslääkäri](/tyoterveys/laakari): Lääkärin rooli ja tehtävät.
 - [Työterveydenhoitaja](/tyoterveys/hoitaja): Hoitajan rooli.
 - [Työterveys etänä](/tyoterveys/etana): Etävastaanotot.
+- [Etätutkimus työterveydessä](/tyoterveys/etatutkimus): Etätutkimuslaitteet, mitä lääkäri voi tutkia etänä ja Basic + Omply -paketin hinta.
 - [Sairauspoissaolojen vähentäminen](/tyoterveys/sairauspoissaolot)
 - [Työhyvinvointi pienyrityksessä](/tyoterveys/tyohyvinvointi)
 - [Työkykyjohtaminen](/tyoterveys/tyokykyjohtaminen)
