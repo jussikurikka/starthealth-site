@@ -117,7 +117,6 @@ const ServicePackages = () => {
             'StartHealthin työterveyslääkäri käyttää laitteita etävastaanotolla: sydän- ja keuhkoäänten kuuntelu, korvien ja ihon tutkiminen sekä lämmön, sykkeen, happisaturaation ja verenpaineen mittaus.',
             'Mittaustieto välittyy suorana videoyhteydellä lääkärille. Lääkäri kirjaa havainnot potilastietojärjestelmään.',
             'Terveydenhuollon palvelut, lääkärin arviot ja hoito sisältyvät kuukausimaksuun Basic-paketin tapaan.',
-            '\n',
           ],
           pricingTitle: 'Hinnoittelu',
           pricingItems: [
