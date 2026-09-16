@@ -123,7 +123,7 @@ const ServicePackages = () => {
           pricingItems: [
             'Aloitusmaksu 499 €.',
             'Laitemaksut määräytyvät valitun laitepaketin laajuuden mukaan, per työntekijä.',
-            'Kuukausimaksu noin 47 €/hlö/kk. Se sisältää sekä StartHealthin että Omplyn osuuden.',
+            'Kuukausimaksu tavallisesti noin 50 €/hlö/kk. Se sisältää sekä StartHealthin että Omplyn osuuden.',
             'Tämä paketti ei ole hintalaskurissa. Pyydä tarjous, niin laskemme laitepaketin ja Kela-korvausosuuden yrityksellesi.',
           ],
         },
