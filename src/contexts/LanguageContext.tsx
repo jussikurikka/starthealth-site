@@ -53,7 +53,7 @@ const translations = {
     'services.basic.feature2': 'Etäyhteys lääkäriin',
     'services.basic.feature3': 'Etänä tehtävä sairaanhoito',
     'services.basicOmply.name': 'Basic + Omply',
-    'services.basicOmply.desc': 'Etävastaanotto + etädiagnostiikkalaitteet ',
+    'services.basicOmply.desc': 'Etävastaanotto Omplyn etädiagnostiikkalaitteilla',
     'services.basicOmply.feature1': 'Kaikki Basic-paketin palvelut',
     'services.basicOmply.feature2': 'Etätutkimuslaitteet työntekijöille ja/tai työpaikalle',
     'services.basicOmply.feature3': 'Lääkäri kuuntelee sydän- ja keuhkoäänet sekä tutkii korvat ja ihon etänä',
