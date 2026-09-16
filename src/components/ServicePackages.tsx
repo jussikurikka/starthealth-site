@@ -102,7 +102,6 @@ const ServicePackages = () => {
         t('services.basicOmply.feature1'),
         t('services.basicOmply.feature2'),
         t('services.basicOmply.feature3'),
-        t('services.basicOmply.feature4'),
       ],
       badge: t('services.basicOmply.badge'),
       priceNote: t('services.basicOmply.priceNote'),
