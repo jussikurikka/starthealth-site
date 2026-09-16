@@ -57,7 +57,7 @@ const translations = {
     'services.basicOmply.feature1': 'Kaikki Basic-paketin palvelut',
     'services.basicOmply.feature2': 'Etätutkimuslaitteet työntekijöille ja/tai työpaikalle',
     'services.basicOmply.feature3': 'Lääkäri kuuntelee sydän- ja keuhkoäänet sekä tutkii korvat ja ihon etänä',
-    'services.basicOmply.feature4': '\n',
+    
     'services.basicOmply.badge': 'Uutuus',
     'services.basicOmply.priceNote': '\n',
     'services.support.name': 'Support',
@@ -216,7 +216,7 @@ const translations = {
     'services.basicOmply.feature1': 'Everything in the Basic package',
     'services.basicOmply.feature2': 'Remote examination devices for employees',
     'services.basicOmply.feature3': 'The doctor can listen to heart and lung sounds and examine ears and skin remotely',
-    'services.basicOmply.feature4': 'Temperature, oxygen saturation and blood pressure measured during the consultation',
+    
     'services.basicOmply.badge': 'New',
     'services.basicOmply.priceNote': 'Onboarding fee €499 · devices priced by device package · approx. €47/person/month',
     'services.support.name': 'Support',
