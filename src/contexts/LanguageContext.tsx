@@ -56,7 +56,7 @@ const translations = {
     'services.basicOmply.desc': 'Etävastaanotto Omplyn etädiagnostiikkalaitteilla',
     'services.basicOmply.feature1': 'Kaikki Basic-paketin palvelut',
     'services.basicOmply.feature2': 'Etätutkimuslaitteet työntekijöille ja/tai työpaikalle',
-    'services.basicOmply.feature3': 'Lääkäri kuuntelee sydän- ja keuhkoäänet sekä tutkii korvat ja ihon etänä',
+    'services.basicOmply.feature3': 'Lääkäri kuuntelee sydän- ja keuhkoäänet sekä tutkii korvat ja nielun etänä',
     
     'services.basicOmply.badge': 'Uutuus',
     'services.basicOmply.priceNote': '\n',
