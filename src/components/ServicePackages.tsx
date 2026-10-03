@@ -79,6 +79,7 @@ const ServicePackages = () => {
           listItems: [
             'Etävastaanotto työterveyslääkärillä video-, chat- tai puheyhteydellä. Ensisijaisesti puhelin- tai chatyhteydellä nopeamman ajan varausaikojen turvaamiseksi, mutta tarvittaessa lääkäri kutsuu keskustelun videoyhteyden kautta arvioitavaksi. Etävastaanotolle pääsy soveltuvilta osin ja lääkärin arvion mukaan.',
             'Fysioterapeutin antama opastus ja ohjaus etänä video-, chat- tai puheyhteydellä. Ohjaus tänne StartHealthin työterveyslääkärin arvion perusteella.',
+            'Työterveyspsykologin etävastaanotto video-, chat- tai puheyhteydellä. Ohjaus StartHealthin työterveyslääkärin arvion perusteella.',
             'Lyhyiden sairauslomien kirjoittaminen, mikäli etäyhteyksin toteutettu arvio terveydenhuollon ammattilaisen arvion mukaan on tähän riittävä.',
             'Reseptien uusinta soveltuvilta osin lääkärin arvion mukaan (etänä ei esimerkiksi antibiootteja, eikä PKV-lääkkeitä)',
           ],
@@ -89,6 +90,7 @@ const ServicePackages = () => {
           listItems: [
             "Remote consultations with an occupational health physician via video, chat, or phone. Primarily conducted by phone or chat to ensure faster appointment availability, but the physician may switch to video if needed for assessment. Access to remote consultations is provided when clinically appropriate and based on the physician's judgment.",
             'Remote physiotherapy guidance and counselling via video, chat, or phone. Access is granted based on the assessment of a StartHealth occupational health physician.',
+            'Remote appointments with an occupational health psychologist via video, chat, or phone. Access is based on the assessment of a StartHealth occupational health physician.',
             'Issuing short-term sick leave certificates when a remote assessment is considered sufficient by the healthcare professional.',
             "Renewal of prescriptions when clinically appropriate and based on the physician's assessment. (Note: antibiotics and controlled substances cannot be prescribed remotely.)",
           ],

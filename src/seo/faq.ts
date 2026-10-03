@@ -14,7 +14,7 @@ export const faqFi: FaqItem[] = [
   },
   {
     q: 'Miten työterveyshuollon hinta muodostuu?',
-    a: 'Hinta koostuu kiinteästä kuukausimaksusta per työntekijä. Kiinteä hinnoittelu tekee kuluista ennakoitavia. Kela korvaa tyypillisesti noin 50–60 % ennaltaehkäisevän työterveyshuollon kustannuksista.',
+    a: 'Hinta koostuu kiinteästä kuukausimaksusta per työntekijä. Kiinteä hinnoittelu tekee kuluista ennakoitavia. Kela korvaa ehkäisevän työterveyshuollon kustannuksista 60 % ja sairaanhoidon kustannuksista 50 % Kelan vahvistaman enimmäismäärän rajoissa.',
   },
   {
     q: 'Miten nopeasti hoitoon pääsee?',
@@ -22,7 +22,7 @@ export const faqFi: FaqItem[] = [
   },
   {
     q: 'Mitä Kela-korvaukset tarkoittavat?',
-    a: 'Kela korvaa osan työnantajan järjestämän työterveyshuollon kustannuksista. Ennaltaehkäisevästä työterveyshuollosta korvataan yleensä noin 50–60 %. Autamme yritystäsi hakemaan korvaukset tilikauden päätteeksi.',
+    a: 'Kela korvaa osan työnantajan järjestämän työterveyshuollon kustannuksista. Kela korvaa ehkäisevän työterveyshuollon kustannuksista 60 % ja sairaanhoidon kustannuksista 50 % Kelan vahvistaman enimmäismäärän rajoissa. Autamme yritystäsi hakemaan korvaukset tilikauden päätteeksi.',
   },
   {
     q: 'Mitä eroa on Minimum-, Basic- ja Support-paketilla?',
@@ -49,7 +49,7 @@ export const faqEn: FaqItem[] = [
   },
   {
     q: 'How is occupational health pricing structured?',
-    a: 'Pricing consists of a fixed monthly fee per employee. Fixed pricing makes costs predictable. Kela typically reimburses about 50–60% of preventive occupational health costs.',
+    a: 'Pricing consists of a fixed monthly fee per employee. Fixed pricing makes costs predictable. Kela reimburses 60% of preventive occupational health costs and 50% of medical care costs, up to Kela\'s annual ceiling.',
   },
   {
     q: 'How quickly can I access care?',
@@ -57,7 +57,7 @@ export const faqEn: FaqItem[] = [
   },
   {
     q: 'What are Kela reimbursements?',
-    a: 'Kela reimburses part of employer-arranged occupational health care costs. Preventive occupational health is typically reimbursed at about 50–60%. We help your company apply for reimbursements at the end of the fiscal year.',
+    a: 'Kela reimburses part of employer-arranged occupational health care costs. Kela reimburses 60% of preventive occupational health costs and 50% of medical care costs, up to Kela\'s annual ceiling. We help your company apply for reimbursements at the end of the fiscal year.',
   },
   {
     q: 'What is the difference between the Minimum, Basic, and Support packages?',

@@ -22,6 +22,7 @@ const packages = [
       "Kaikki Minimum-paketin palvelut",
       "Etäyhteys lääkäriin",
       "Etänä tehtävä sairaanhoito",
+      "Työterveyspsykologin etävastaanotto",
     ],
   },
   {

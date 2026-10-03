@@ -25,7 +25,8 @@ var packages = [
     features: [
       "Kaikki Minimum-paketin palvelut",
       "Et\xE4yhteys l\xE4\xE4k\xE4riin",
-      "Et\xE4n\xE4 teht\xE4v\xE4 sairaanhoito"
+      "Et\xE4n\xE4 teht\xE4v\xE4 sairaanhoito",
+      "Ty\xF6terveyspsykologin et\xE4vastaanotto"
     ]
   },
   {

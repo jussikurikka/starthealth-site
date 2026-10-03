@@ -9,7 +9,7 @@ cluster: "Comparison"
 priority: "P1"
 estimated_volume: 95
 estimated_kd: 4
-last_updated: 2026-04-20
+last_updated: 2026-10-03
 ---
 
 # Mehiläinen vs Terveystalo vs Pihlajalinna — vertailu työterveyspalveluille
@@ -24,6 +24,7 @@ Suomen kolme suurinta yksityistä terveydenhuoltoyritystä — Mehiläinen, Terv
 - **Toimipaikat**: 700+ Suomessa
 - **Liikevaihto**: 2,4 mrd € (2024)
 - **Omistus**: pääomasijoittaja CVC
+- **Huom.**: Heltin työterveyspalvelut siirtyivät Mehiläiselle 1.9.2026
 
 ### Terveystalo
 - **Perustettu**: 2001 (nykymuodossa)
@@ -126,7 +127,7 @@ Hinta riippuu sopimuksen sisällöstä, henkilömäärästä ja paikkakunnasta.
 
 ## Mihin nämä isot toimijat eivät sovi
 
-Vaikka kaikki kolme ovat varteenotettavia, on tilanteita joissa pienempi tai modernimpi toimija (kuten Heltti tai Starthealth) voi sopia paremmin:
+Vaikka kaikki kolme ovat varteenotettavia, on tilanteita joissa pienempi tai modernimpi toimija (kuten Starthealth) voi sopia paremmin:
 
 - **Pieni startup tai kasvuyritys (alle 20 hlö)** — saatat hukkua massaan
 - **Hajautettu/etätyö-tiimi** — etämahdollisuus tärkeämpi kuin lähitoimipaikat

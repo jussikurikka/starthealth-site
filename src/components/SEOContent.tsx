@@ -100,8 +100,8 @@ const SEOContent = () => {
             </p>
             <p>
               {language === 'fi'
-                ? 'Kela korvaa tyypillisesti noin 50–60 % ennaltaehkäisevän työterveyshuollon kustannuksista. Autamme yritystäsi hakemaan Kela-korvaukset tilikauden päätteeksi. Tämä tekee työterveyshuollosta erityisen kustannustehokasta pienille ja keskisuurille yrityksille.'
-                : 'Kela typically reimburses about 50–60% of preventive occupational health costs. We help your company apply for Kela reimbursements at the end of the fiscal year. This makes occupational health particularly cost-effective for small and medium-sized enterprises.'}
+                ? 'Kela korvaa ehkäisevän työterveyshuollon kustannuksista 60 % ja sairaanhoidon kustannuksista 50 % Kelan vahvistaman enimmäismäärän rajoissa. Autamme yritystäsi hakemaan Kela-korvaukset tilikauden päätteeksi. Tämä tekee työterveyshuollosta erityisen kustannustehokasta pienille ja keskisuurille yrityksille.'
+                : 'Kela reimburses 60% of preventive occupational health costs and 50% of medical care costs, up to Kela\'s annual ceiling. We help your company apply for Kela reimbursements at the end of the fiscal year. This makes occupational health particularly cost-effective for small and medium-sized enterprises.'}
             </p>
           </div>
         </div>
