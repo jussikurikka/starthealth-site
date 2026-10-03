@@ -111,7 +111,7 @@ const translations = {
     
     // Contact
     'contact.title': 'Ota yhteyttä',
-    'contact.subtitle': 'Ota yhteyttä sähköpostitse',
+    'contact.subtitle': 'Otamme sinuun yhteyttä pikaisesti',
     'contact.emailDraft': 'Sähköpostiohjelmasi avautui valmiin viestin kanssa – lähetä viesti sieltä.',
     'contact.directEmail': 'Voit myös lähettää sähköpostia suoraan:',
     'contact.name': 'Nimi',
@@ -272,7 +272,7 @@ const translations = {
     
     // Contact
     'contact.title': 'Contact Us',
-    'contact.subtitle': 'Contact us by email',
+    'contact.subtitle': 'We will get back to you promptly',
     'contact.emailDraft': 'Your email app opened with a ready message – please send it from there.',
     'contact.directEmail': 'You can also email us directly:',
     'contact.name': 'Name',
