@@ -1,0 +1,1 @@
+- Production builds prerender every route to static HTML via scripts/prerender-plugin.ts (vite closeBundle, using src/entry-server.tsx); route head data lives in src/seo/head.ts — so crawlers get real per-page HTML without JS.
