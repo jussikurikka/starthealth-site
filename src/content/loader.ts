@@ -12,6 +12,7 @@ export interface ArticleFrontmatter {
   primary_keyword: string;
   target_url: string;
   date?: string;
+  last_updated?: string;
   excerpt?: string;
 }
 
@@ -33,9 +34,16 @@ export const articles: Article[] = Object.entries(files)
     const slug = path.replace('/content/', '').replace(/\.md$/, '');
     // Strip leading H1 to avoid duplicating the frontmatter title
     const body = parsed.content.replace(/^\s*#\s+.+\n+/, '');
+    const data = { ...parsed.data } as Record<string, unknown>;
+    // YAML parses unquoted dates as Date objects; normalize to yyyy-mm-dd strings
+    for (const k of ['last_updated', 'date']) {
+      const v = data[k];
+      if (v instanceof Date) data[k] = v.toISOString().slice(0, 10);
+      else if (v != null) data[k] = String(v);
+    }
     return {
       slug,
-      frontmatter: parsed.data as ArticleFrontmatter,
+      frontmatter: data as unknown as ArticleFrontmatter,
       body,
     };
   })
