@@ -23,16 +23,19 @@ const ContactForm = () => {
 
     const subject = `Yhteydenotto starthealth.fi – ${formData.company || formData.name}`;
     const body = `Nimi: ${formData.name}\nSähköposti: ${formData.email}\nYritys: ${formData.company}\n\nViesti:\n${formData.message}`;
+    const mailto = `mailto:jussikurikka@starthealth.fi?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+    // Best-effort backup of the message; the mailto below must never depend on it.
     try {
-      const { error } = await supabase.functions.invoke('submit-contact', { body: formData });
-      if (error) throw error;
-      window.location.href = `mailto:jussikurikka@starthealth.fi?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-      toast(t('contact.emailDraft'));
-    } catch {
-      toast.error(t('contact.error'));
-    } finally {
-      setIsSubmitting(false);
+      const timeout = new Promise<never>((_, reject) => setTimeout(() => reject(new Error('timeout')), 4000));
+      await Promise.race([supabase.functions.invoke('submit-contact', { body: formData }), timeout]);
+    } catch (err) {
+      console.warn('submit-contact failed (continuing with mailto):', err);
     }
+
+    window.location.href = mailto;
+    toast(t('contact.emailDraft'));
+    setIsSubmitting(false);
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
