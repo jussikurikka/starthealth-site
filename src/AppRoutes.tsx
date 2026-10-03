@@ -1,4 +1,4 @@
-import type { ReactNode } from "react";
+import { useState, type ReactNode } from "react";
 import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
@@ -13,7 +13,7 @@ import { articles } from "./content/loader";
 
 // Shared by the browser entry (BrowserRouter) and the prerender entry (StaticRouter).
 export const AppProviders = ({ children }: { children: ReactNode }) => {
-  const queryClient = new QueryClient();
+  const [queryClient] = useState(() => new QueryClient());
   return (
     <QueryClientProvider client={queryClient}>
       <LanguageProvider>
