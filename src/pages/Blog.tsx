@@ -3,19 +3,19 @@ import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
 import SEOHead from '@/components/SEOHead';
 import { articles } from '@/content/loader';
+import { BLOG_TITLE, BLOG_DESCRIPTION } from '@/seo/head';
 
 const Blog = () => {
   const sorted = [...articles].sort((a, b) =>
-    (b.frontmatter.date ?? '').localeCompare(a.frontmatter.date ?? '')
+    (b.frontmatter.last_updated ?? '').localeCompare(a.frontmatter.last_updated ?? '')
   );
 
   return (
     <div className="min-h-screen flex flex-col">
       <SEOHead
-        title="Blogi – StartHealth"
-        description="Artikkeleita työterveyshuollosta, työhyvinvoinnista ja pk-yritysten arjesta."
+        title={BLOG_TITLE}
+        description={BLOG_DESCRIPTION}
         canonicalPath="/blog"
-        noindex
       />
       <Navigation />
       <main className="flex-1 pt-24 md:pt-32 pb-16">

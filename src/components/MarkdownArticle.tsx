@@ -5,28 +5,19 @@ import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
 import SEOHead from '@/components/SEOHead';
 import type { Article } from '@/content/loader';
+import { articleJsonLd } from '@/seo/head';
 
-const SITE = 'https://starthealth.fi';
+const formatFiDate = (iso: string) => {
+  const [y, m, d] = iso.split('-').map(Number);
+  return `${d}.${m}.${y}`;
+};
 
 const MarkdownArticle = ({ article }: { article: Article }) => {
   const { frontmatter, body } = article;
 
   useEffect(() => {
-    const ld = {
-      '@context': 'https://schema.org',
-      '@type': 'Article',
-      headline: frontmatter.title,
-      description: frontmatter.meta_description,
-      datePublished: frontmatter.date,
-      dateModified: frontmatter.date,
-      mainEntityOfPage: `${SITE}${frontmatter.target_url}`,
-      author: { '@type': 'Organization', name: 'StartHealth' },
-      publisher: {
-        '@type': 'Organization',
-        name: 'StartHealth',
-        logo: { '@type': 'ImageObject', url: `${SITE}/logo.png` },
-      },
-    };
+    const ld = articleJsonLd(article);
+    document.head.querySelectorAll('script[data-seo="article"]').forEach((el) => el.remove());
     const script = document.createElement('script');
     script.type = 'application/ld+json';
     script.text = JSON.stringify(ld);
@@ -35,7 +26,7 @@ const MarkdownArticle = ({ article }: { article: Article }) => {
     return () => {
       script.remove();
     };
-  }, [frontmatter.title, frontmatter.meta_description, frontmatter.date, frontmatter.target_url]);
+  }, [article]);
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -43,14 +34,18 @@ const MarkdownArticle = ({ article }: { article: Article }) => {
         title={frontmatter.title}
         description={frontmatter.meta_description}
         canonicalPath={frontmatter.target_url}
-        noindex
       />
       <Navigation />
       <main className="flex-1 pt-24 md:pt-32 pb-16">
         <article className="container mx-auto max-w-3xl px-4 prose prose-lg prose-headings:text-foreground prose-p:text-muted-foreground prose-a:text-primary">
-          <h1 className="text-3xl md:text-5xl font-bold text-foreground mb-8">
+          <h1 className={`text-3xl md:text-5xl font-bold text-foreground ${frontmatter.last_updated ? 'mb-3' : 'mb-8'}`}>
             {frontmatter.title}
           </h1>
+          {frontmatter.last_updated && (
+            <p className="not-prose text-sm text-muted-foreground mb-8">
+              Päivitetty {formatFiDate(frontmatter.last_updated)}
+            </p>
+          )}
           <ReactMarkdown remarkPlugins={[remarkGfm]}>{body}</ReactMarkdown>
         </article>
       </main>
