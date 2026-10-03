@@ -9,7 +9,7 @@ cluster: "Commercial — Small Business"
 priority: "P0"
 estimated_volume: 160
 estimated_kd: 3
-last_updated: 2026-04-20
+last_updated: 2026-10-03
 ---
 
 # Pienen yrityksen työterveys — opas 1–20 hengen työnantajalle
@@ -25,7 +25,7 @@ Pienellä yrityksellä (1–20 hlö) työterveyden ominaispiirteitä ovat:
 - **Rajallinen neuvotteluvalta** — suurten ketjujen kanssa vaikea neuvotella
 - **Korkeammat riskit yksilötasolla** — yhden ihmisen poissaolo vaikuttaa merkittävästi
 
-Tämä tarkoittaa, että **digitaalisesti painotetut, kiinteähintaiset toimijat** (Starthealth, Heltti) sopivat usein paremmin kuin perinteiset ketjut.
+Tämä tarkoittaa, että **digitaalisesti painotetut, kiinteähintaiset toimijat** (kuten Starthealth) sopivat usein paremmin kuin perinteiset ketjut.
 
 ## Mitä pienen yrityksen työterveyteen kannattaa sisällyttää
 
@@ -84,7 +84,7 @@ Paras työterveys on hyödytön, jos työntekijät eivät osaa käyttää sitä.
 
 ## Miten aloittaa pienen yrityksen työterveys 5 päivässä
 
-**Päivä 1**: Pyydä tarjoukset 2–3 toimijalta (Starthealth, Heltti, yksi ketju)
+**Päivä 1**: Pyydä tarjoukset 2–3 toimijalta (esim. Starthealth ja yksi suuri ketju)
 
 **Päivä 2**: Vertaile ja valitse. Kriteerit: hinta, aloitusaika, sopimuksen joustavuus, digitaalisen vastaanoton kyvyt.
 

@@ -9,7 +9,7 @@ cluster: "Educational"
 priority: "P1"
 estimated_volume: 320
 estimated_kd: 2
-last_updated: 2026-04-20
+last_updated: 2026-10-03
 ---
 
 # Työterveystarkastus — mitä se sisältää ja milloin se tehdään
@@ -143,7 +143,7 @@ Yksittäisen työntekijän diagnoosit ovat luottamuksellisia.
 ## Kuka maksaa työterveystarkastuksen
 
 - **Työnantaja maksaa** työterveyssopimuksen kautta
-- Kela korvaa työnantajalle 50–60 % hyväksytyistä kustannuksista (Kela 1)
+- Kela korvaa työnantajalle 60 % hyväksytyistä kustannuksista (korvausluokka I, enimmäismäärän rajoissa)
 - Työntekijälle tarkastus on **maksuton**
 
 ## Saako tarkastuksesta kieltäytyä

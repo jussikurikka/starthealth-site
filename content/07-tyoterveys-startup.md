@@ -9,7 +9,7 @@ cluster: "Commercial — Startup"
 priority: "P0"
 estimated_volume: 90
 estimated_kd: 1
-last_updated: 2026-09-01
+last_updated: 2026-10-03
 ---
 
 # Startup-yrityksen työterveys — 7 asiaa, jotka perustajan kannattaa tietää
@@ -50,7 +50,7 @@ Suuri osa käyntitarpeista sopii etävastaanotolle. Fyysinen vastaanotto tarvita
 
 Startup-työ on korkean stressin, epävarmuuden ja venyvien työpäivien ympäristö. Hyvän työterveyssopimuksen keskeisiä osia kasvuyrityksessä ovat:
 
-- **Työterveyspsykologi** — sisältyy Starthealthin Basic- ja Support-paketteihin
+- **Työterveyspsykologi** — etävastaanotto Starthealthin Basic-paketissa, lähivastaanotto Support-paketissa
 - **Burnout-ennaltaehkäisy**
 - **Kriisituki**
 
@@ -60,9 +60,7 @@ Varmista, että mielenhyvinvointituki sisältyy pakettiin — se on yksi tärkei
 
 Toimistotyötä tekevien startup-yritysten hinta on saatavilla suoraan [Starthealthin hintalaskurista](https://starthealth.fi). Hinta on kiinteä kuukausimaksu per työntekijä — ei käyttöpohjaisia yllätyksiä.
 
-Kela-korvaukset palautetaan jälkikäteen. Tyypillisesti Kela 1 kattaa n. 60 % lakisääteisen osan hyväksytyistä kustannuksista (katto n. 215 €/hlö/v) ja Kela 2 n. 50 % sairaanhoidon kustannuksista (katto n. 295 €/hlö/v).
-
-Lue tarkempi hintaopas: .
+Kela-korvaukset palautetaan jälkikäteen: ehkäisevästä toiminnasta (korvausluokka I) 60 % ja sairaanhoidosta (korvausluokka II) 50 % hyväksytyistä kustannuksista Kelan enimmäismäärän rajoissa (tilikaudella 2025 yhteensä 492,50 €/työntekijä). Lue tarkemmin: [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus).
 
 ## 6. Yrittäjä voi hankkia työterveyden itselleen
 
@@ -93,7 +91,7 @@ Heti. Kela 2 (sairaanhoito) on käytännössä välttämätön rekrytointikilpai
 Pääosin kyllä, mutta työpaikkaselvitys edellyttää fyysistä käyntiä toimipisteessä. Jos koko tiimi etätyöskentelee, työpaikkaselvitys voidaan tehdä yhteisessä tapaamispaikassa.
 
 ### Mikä on startupille sopivin työterveystoimija?
-Digitaalisesti edellä olevat toimijat (Starthealth, Heltti) ovat suunniteltu erityisesti kasvuyrityksille. Suuret ketjut ovat raskaampia ja usein ylihinnoiteltuja tähän käyttöön.
+Digitaalisesti edellä olevat toimijat (kuten Starthealth) ovat suunniteltu erityisesti kasvuyrityksille. Suuret ketjut ovat raskaampia ja usein ylihinnoiteltuja tähän käyttöön.
 
 ### Mitä jos startup kaksinkertaistuu 6 kuukaudessa?
 Hyvä työterveystoimija skaalautuu ilman uusia sopimusneuvotteluja. Starthealth lisää työntekijöitä sopimukseen saman päivän aikana.

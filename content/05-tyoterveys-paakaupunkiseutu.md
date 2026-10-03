@@ -9,7 +9,7 @@ cluster: "Local — PK-seutu"
 priority: "P1"
 estimated_volume: 90
 estimated_kd: 2
-last_updated: 2026-04-20
+last_updated: 2026-10-03
 ---
 
 # Työterveys pääkaupunkiseutu — vertailu, hinnat ja valintaopas
@@ -18,15 +18,16 @@ Pääkaupunkiseudulla (Helsinki, Espoo, Vantaa, Kauniainen) toimii yli 100 000 y
 
 ## Pääkaupunkiseudun työterveysmarkkina
 
-Pääkaupunkiseudulla markkinaa hallitsevat kolme suurta toimijaa: **Mehiläinen**, **Terveystalo** ja **Pihlajalinna**. Lisäksi tarjolla on digitaalisia haastajia kuten **Heltti** ja **Starthealth**, jotka ovat rakentaneet työterveyden uudelleen pk-yrityksille sopivaksi.
+Pääkaupunkiseudulla markkinaa hallitsevat kolme suurta toimijaa: **Mehiläinen**, **Terveystalo** ja **Pihlajalinna**. Lisäksi tarjolla on digitaalisia haastajia kuten **Starthealth**, jotka ovat rakentaneet työterveyden uudelleen pk-yrityksille sopivaksi.
 
 | Toimija | Vahvuus | Heikkous | Sopii |
 |---------|---------|----------|-------|
 | Mehiläinen | Laaja verkosto | Iso ja joustamaton | Suuryritykset |
 | Terveystalo | Kattava palvelu | Hinnoittelu epäläpinäkyvää | Perinteinen kaivaten |
 | Pihlajalinna | Vahva brändi | Raskas prosessi | Keskisuuret |
-| Heltti | Digitaalisuus | Vahva Helsinki-fokus | Kasvuyritykset |
 | Starthealth | Kiinteä hinta, nopea aloitus | Uudempi toimija | alle 200 hlön pk-yritykset |
+
+Heltin työterveyspalvelut siirtyivät Mehiläiselle 1.9.2026.
 
 ## Mitä työterveys maksaa pääkaupunkiseudulla
 
@@ -82,6 +83,6 @@ Suurissa ketjuissa 3–8 viikkoa, digitaalisilla haastajilla 1–2 viikkoa.
 
 ---
 
-**Sisäiset linkit:** [Työterveys Helsingissä](/tyoterveys/helsinki) · [Työterveys Espoossa](/tyoterveys/espoo) · [Työterveys Vantaalla](/tyoterveys/vantaa) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
+**Sisäiset linkit:** [Työterveys Helsingissä](/tyoterveys/helsinki) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaki 1383/2001](https://www.finlex.fi/fi/laki/ajantasa/2001/20011383)

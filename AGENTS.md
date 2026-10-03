@@ -1,1 +1,2 @@
 - Production builds prerender every route to static HTML via scripts/prerender-plugin.ts (vite closeBundle, using src/entry-server.tsx); route head data lives in src/seo/head.ts — so crawlers get real per-page HTML without JS.
+- Contact submissions are validated and rate-limited by an edge function and stored privately before opening an email draft, so messages survive missing email applications.

@@ -9,7 +9,7 @@ cluster: "Legal — Kela"
 priority: "P1"
 estimated_volume: 110
 estimated_kd: 3
-last_updated: 2026-04-20
+last_updated: 2026-10-03
 ---
 
 # Kela-korvaus työterveydestä — näin haet ja kuinka paljon saat
@@ -25,18 +25,20 @@ Kela jakaa työterveyden kustannukset kahteen luokkaan:
 | **Korvausluokka I (Kela 1)** | Lakisääteinen ennaltaehkäisevä työterveys | **60 %** |
 | **Korvausluokka II (Kela 2)** | Vapaaehtoinen sairaanhoito | **50 %** |
 
-Korvausprosentti lasketaan korvauskelpoisten kustannusten määrästä korvauskaton sisällä.
+Korvaus lasketaan hyväksytyistä kustannuksista Kelan vahvistaman enimmäismäärän rajoissa.
 
-## Korvauskatot 2026
+## Enimmäismäärät — kuinka paljon kustannuksia Kela huomioi
 
-Korvauskatto on enimmäismäärä, josta Kela voi maksaa korvausta yhden henkilön osalta vuodessa.
+Kela ei korvaa kustannuksia rajattomasti. Hyväksyttäville kustannuksille on laskennallinen enimmäismäärä, jonka Kela vahvistaa tilikausittain.
 
-- **Kela 1 -korvauskatto**: noin 215 € / hlö / vuosi (tarkista ajantasainen luku Kelan sivuilta)
-- **Kela 2 -korvauskatto**: noin 295 € / hlö / vuosi
+- **Tilikausi 2025:** kustannuksia huomioidaan enintään **492,50 € työntekijää kohden vuodessa** (korvausluokat I ja II yhteensä).
+- **Korvausluokan I** (ehkäisevä toiminta) kustannukset huomioidaan ensin, ja ne voivat käyttää koko enimmäismäärän. Suurin mahdollinen korvaus on siis 60 % × 492,50 € = 295,50 € työntekijää kohden.
+- **Korvausluokan II** (sairaanhoito) kustannuksia huomioidaan vain, jos enimmäismäärää on jäljellä, ja enintään 40 % siitä eli **197,00 € työntekijää kohden**.
+- **Enintään 9 työntekijän työnantaja:** enimmäismäärä lasketaan työnantajakohtaisesti, ja se on **4 925,00 € vuodessa**.
+- **Tilikausi 2026:** Kela vahvistaa enimmäismäärät jälkikäteen. Päivitämme luvut tähän, kun Kela on julkaissut ne.
+- **Uutta 1.1.2026 alkaen:** Kela korvaa myös kustannukset, jotka syntyvät työsopimuksen solmimisen jälkeen ennen työn aloittamista (esimerkiksi aloittava terveystarkastus).
 
-Esimerkki: Jos työnantaja käyttää 350 € / hlö Kela 1 -tasoa, korvausta saadaan 60 % × 215 € = **129 €** (loput 135 € jäävät korvauskaton ulkopuolelle).
-
-Käytännön opetus: kannattaa pitää Kela 1 -kustannukset lähellä korvauskattoa, ei sen yli — yli menevästä osasta ei saa korvausta.
+Käytännön opetus: sairaanhoidon kustannuksista vain osa mahtuu korvauksen piiriin, joten ehkäisevän työn (korvausluokka I) huolellinen suunnittelu ja kirjaaminen vaikuttaa korvauksen määrään eniten.
 
 ## Miten Kela-korvausta haetaan
 
@@ -111,19 +113,20 @@ Korvaus haetaan tilikauden päättymisen jälkeen.
 - Yksilön hyvinvointiohjelmat ilman terveydellistä perustetta
 - Lasten ja perheen palvelut
 
-## Esimerkkilaskelma — pk-yritys, 15 hlö
+## Esimerkkilaskelma — pk-yritys, 15 hlö (tilikauden 2025 enimmäismäärillä)
 
 Oletukset:
 - Tilikauden työterveyskulut yhteensä 6 800 €
-- Kela 1 -kulut: 2 200 € (147 €/hlö, alle korvauskaton)
-- Kela 2 -kulut: 4 600 € (307 €/hlö, hieman yli korvauskaton)
+- Korvausluokka I: 2 200 €
+- Korvausluokka II: 4 600 €
 
-Korvaukset:
-- Kela 1: 60 % × 2 200 € = **1 320 €**
-- Kela 2: 50 % × min(307, 295) × 15 hlö = 50 % × 4 425 € = **2 213 €**
-- **Yhteensä korvausta: 3 533 €**
+Laskenta:
+- Enimmäismäärä: 15 × 492,50 € = 7 387,50 €
+- Korvausluokka I huomioidaan kokonaan: 2 200 € → korvaus 60 % = **1 320,00 €**
+- Korvausluokka II huomioidaan enintään 15 × 197,00 € = 2 955 € → korvaus 50 % = **1 477,50 €**
+- **Korvaus yhteensä: 2 797,50 €**
 
-Nettokustannus työnantajalle: 6 800 € − 3 533 € = **3 267 €** (218 €/hlö)
+Nettokustannus työnantajalle: 6 800 € − 2 797,50 € = **4 002,50 €** (noin 267 €/hlö).
 
 ## Usein kysyttyä
 
@@ -155,4 +158,4 @@ Starthealthin asiakkaat saavat valmiit kustannuserittelyt Kela-hakemusta varten 
 
 **Sisäiset linkit:** [Onko työterveys pakollinen](/tyoterveys/pakollinen) · [Työterveydenhuollon sopimus](/tyoterveys/sopimus) · [Työterveys pienyritykselle](/tyoterveys/pienyritys)
 
-**Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Kela: Korvauskatot](https://www.kela.fi/tyoterveyshuolto-korvauskatot)
+**Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Kela: Työterveyshuollon korvauksen määrä](https://www.kela.fi/tyonantajat-tyoterveyshuolto-korvauksen-maara)

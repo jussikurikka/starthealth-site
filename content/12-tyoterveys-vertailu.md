@@ -1,6 +1,6 @@
 ---
 title: "Työterveyspalveluiden vertailu 2026 — mikä sopii pk-yrityksellesi"
-meta_description: "Työterveyden vertailu 2026: Mehiläinen, Terveystalo, Pihlajalinna, Heltti, Starthealth. Vahvuudet, heikkoudet ja sopivuus eri yrityskokoihin."
+meta_description: "Työterveyden vertailu 2026: Mehiläinen, Terveystalo, Pihlajalinna, Starthealth. Vahvuudet, heikkoudet ja sopivuus eri yrityskokoihin."
 primary_keyword: "työterveys vertailu"
 secondary_keywords: ["työterveyspalvelut vertailu", "työterveys toimijat", "paras työterveys"]
 search_intent: "commercial investigation"
@@ -9,12 +9,12 @@ cluster: "Comparison"
 priority: "P0"
 estimated_volume: 140
 estimated_kd: 4
-last_updated: 2026-04-20
+last_updated: 2026-10-03
 ---
 
 # Työterveyspalveluiden vertailu 2026 — mikä sopii pk-yrityksellesi
 
-Suomen työterveysmarkkinalla toimii useita isoja ja pienempiä toimijoita. Oikean valinnan tekeminen riippuu yrityksesi koosta, toimialasta ja työterveyden käytön odotetusta intensiteetistä. Tässä vertailussa käydään läpi viisi keskeistä toimijaa sekä kriteerit, joilla valinta kannattaa tehdä.
+Suomen työterveysmarkkinalla toimii useita isoja ja pienempiä toimijoita. Oikean valinnan tekeminen riippuu yrityksesi koosta, toimialasta ja työterveyden käytön odotetusta intensiteetistä. Tässä vertailussa käydään läpi neljä keskeistä toimijaa sekä kriteerit, joilla valinta kannattaa tehdä.
 
 ## Yhteenveto vertailusta
 
@@ -23,7 +23,6 @@ Suomen työterveysmarkkinalla toimii useita isoja ja pienempiä toimijoita. Oike
 | **Mehiläinen** | 100+ hlö yritykset | Keskitaso | Hyvä | Pitkät sopimukset |
 | **Terveystalo** | 50+ hlö, monta toimipaikkaa | Keskitaso–korkea | Hyvä | Pitkät sopimukset |
 | **Pihlajalinna** | 50+ hlö | Keskitaso | Kohtalainen | Pitkät sopimukset |
-| **Heltti** | Kasvuyritykset, Helsinki | Keskitaso | Erinomainen | Lyhyet sopimukset |
 | **Starthealth** | alle 200 hlön pk-yritykset | Läpinäkyvä, kiinteä | Erinomainen | Joustava |
 
 ## Mehiläinen
@@ -50,13 +49,9 @@ Suomen työterveysmarkkinalla toimii useita isoja ja pienempiä toimijoita. Oike
 
 **Sopii:** Keskisuurille ja suurille yrityksille, erityisesti Etelä-Suomen alueella.
 
-## Heltti
+## Huomio: Heltin työterveys siirtyi Mehiläiselle
 
-**Vahvuudet:** Startup-ystävällinen, digitaalinen edellä, moderni brändi, nopea käyttöönotto.
-
-**Heikkoudet:** Verkosto vahvasti Helsinki-keskeinen, kallis pienemmille organisaatioille.
-
-**Sopii:** Kasvuyrityksille ja startupeille, erityisesti Helsingissä toimiville.
+Heltin työterveyspalvelut siirtyivät Mehiläiselle 1.9.2026. Siirrossa Mehiläiselle siirtyi noin 60 työterveyden ammattilaista ja yli 800 yritysasiakasta. Heltti jatkaa terapia- ja mielenhyvinvointipalveluissa uudella brändillä. Jos yrityksesi oli Heltin työterveysasiakas, palvelusi jatkuu nyt Mehiläisen kautta — ja nyt on luonteva hetki tarkistaa, vastaako sopimus edelleen tarpeitanne. Ks. [työterveyden vaihtaminen](/tyoterveys/vaihtaminen).
 
 ## Starthealth
 
@@ -72,7 +67,7 @@ Suomen työterveysmarkkinalla toimii useita isoja ja pienempiä toimijoita. Oike
 **Kiinteä kk-hinta** vs **käyttöpohjainen**. Pk-yrityksille kiinteä hinta on lähes aina parempi, koska budjetointi on ennustettavaa.
 
 ### 2. Käyttöönoton nopeus
-Nopeat toimijat (Starthealth, Heltti) 1–2 viikkoa, perinteiset 3–8 viikkoa. Kasvuyrityksessä tämä on iso ero.
+Nopeat toimijat (kuten Starthealth) 1–2 viikkoa, perinteiset 3–8 viikkoa. Kasvuyrityksessä tämä on iso ero.
 
 ### 3. Digitaalinen vastaanotto
 Kaikki tarjoavat nykyään etävastaanottoa, mutta laatu vaihtelee. Pyydä demo ennen sopimuksen allekirjoittamista.
@@ -88,13 +83,13 @@ Nyt standardi, mutta toteutus vaihtelee. Tärkeää kasvuyrityksissä ja asiantu
 
 ## Päätöskartta
 
-**< 20 hlö, kasvuyritys, Helsinki?** → Starthealth tai Heltti
+**< 20 hlö, kasvuyritys, Helsinki?** → Starthealth
 
-**20–100 hlö, pk-yritys, pääkaupunkiseutu?** → Starthealth, Heltti tai Terveystalo
+**20–100 hlö, pk-yritys, pääkaupunkiseutu?** → Starthealth tai Terveystalo
 
 **100+ hlö, monta toimipaikkaa koko Suomessa?** → Terveystalo tai Mehiläinen
 
-**Kokonaan etätyöyritys?** → Starthealth tai Heltti
+**Kokonaan etätyöyritys?** → Starthealth
 
 ## Usein kysyttyä
 
@@ -108,10 +103,10 @@ Ketjut ovat rakennettu palvelemaan suuryrityksiä. Pienille yrityksille myyntipr
 Kyllä, irtisanomisajan puitteissa. Joissain sopimuksissa on purkulauseke tyytymättömyyden perusteella.
 
 ### Mikä on halvin työterveys pk-yritykselle?
-Digitaaliset toimijat (Starthealth, Heltti) ovat yleensä edullisimpia pk-yrityksille. Pelkkä Kela 1 on halvempi mutta ei aina riittävä.
+Digitaaliset toimijat (kuten Starthealth) ovat yleensä edullisimpia pk-yrityksille. Pelkkä Kela 1 on halvempi mutta ei aina riittävä.
 
-### Miten Heltti ja Starthealth eroavat?
-Heltti on keskittynyt Helsingin kasvuyrityksiin ja tarjoaa laajempaa design-orientoitunutta palvelua. Starthealth on keskittynyt pk-yritysten kustannustehokkaaseen palveluun koko pääkaupunkiseudulla.
+### Mitä Heltin työterveysasiakkaille tapahtui?
+Heltin työterveyspalvelut siirtyivät Mehiläiselle 1.9.2026, ja asiakkuudet jatkuvat Mehiläisen kanssa. Työterveyden voi halutessaan kilpailuttaa ja vaihtaa sopimuksen irtisanomisehtojen mukaisesti.
 
 ## Pyydä tarjous
 

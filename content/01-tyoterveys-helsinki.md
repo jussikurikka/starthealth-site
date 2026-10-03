@@ -9,7 +9,7 @@ cluster: "Local — Helsinki"
 priority: "P0"
 estimated_volume: 2400
 estimated_kd: 0
-last_updated: 2026-09-01
+last_updated: 2026-10-03
 
 ---
 
@@ -32,7 +32,7 @@ Sairaanhoitotaso (Kela 2) on vapaaehtoinen mutta useimmille kasvuyrityksille suo
 Lisäksi tarjoamme:
 - **Etävastaanotto** — chat ja videopuhelu työterveyslääkärin kanssa
 - **Lähivastaanotto Helsingissä Kampissa** — tarvittaessa fyysinen tapaaminen
-- **Mielen hyvinvoinnin tuki** — työterveyspsykologi sisältyy Basic- ja Support-paketteihin
+- **Mielen hyvinvoinnin tuki** — työterveyspsykologin etävastaanotto sisältyy Basic-pakettiin ja lähivastaanotto Support-pakettiin
 - **Työkykyjohtamisen tuki** — kuukausiraportointi ja varhaisen tuen mallit
 
 ## Työterveyden hinta Helsingissä
@@ -76,6 +76,6 @@ Starthealth on Helsingin nykyaikainen valinta pk-yritysten työterveyteen. Pyyd�
 
 ---
 
-**Sisäiset linkit:** [Työterveys Espoossa](/tyoterveys/espoo) · [Työterveys Vantaalla](/tyoterveys/vantaa) · [Työterveys pääkaupunkiseudulla](/tyoterveys/paakaupunkiseutu) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Miten valita työterveys](/tyoterveys/miten-valita)
+**Sisäiset linkit:** [Työterveys pääkaupunkiseudulla](/tyoterveys/paakaupunkiseutu) · [Työterveys pienyritykselle](/tyoterveys/pienyritys) · [Miten valita työterveys](/tyoterveys/miten-valita)
 
 **Ulkoiset lähteet:** [Kela: Työterveyshuollon korvaukset](https://www.kela.fi/tyoterveyshuolto) · [Työterveyslaitos](https://www.ttl.fi)
