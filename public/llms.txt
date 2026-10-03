@@ -5,9 +5,31 @@
 ## Palvelupaketit
 
 - Minimum: lakisääteinen työterveyshuolto. Työpaikkaselvitys ja riskiarviointi, työterveyshuollon toimintasuunnitelma, lakisääteinen seuranta ja maksuton etäneuvonta chatissa.
-- Basic: Minimum-paketin sisältö sekä työterveyslääkärin etävastaanotot video-, chat- tai puheyhteydellä, fysioterapeutin etäohjaus, lyhyet sairauslomatodistukset ja reseptien uusinta soveltuvin osin.
+- Basic: Minimum-paketin sisältö sekä työterveyslääkärin etävastaanotot video-, chat- tai puheyhteydellä, fysioterapeutin etäohjaus, työterveyspsykologin etävastaanotto, lyhyet sairauslomatodistukset ja reseptien uusinta soveltuvin osin.
 - Basic + Omply: Basic-paketin sisältö sekä Omply Health Oy:n (Y-tunnus 3546816-4) etätutkimuslaitteet. Jokaiselle työntekijälle kuumemittari, happisaturaatiomittari ja verenpainemittari; yritys voi hankkia lisäksi esimerkiksi digitaalisen stetoskoopin ja otoskoopin. Lääkäri kuuntelee sydän- ja keuhkoäänet sekä tutkii korvat ja ihon etävastaanotolla, ja mittaustieto välittyy suorana videoyhteydellä. Hinta: aloitusmaksu 499 €, laitemaksut laitepaketin laajuuden mukaan, kuukausimaksu noin 47 €/hlö/kk. Hinnoitellaan tarjouksella, ei hintalaskurissa.
 - Support: Basic-paketin sisältö sekä paikan päällä toteutettava työterveyspainotteinen sairaanhoito, lääkärin määräämät laboratorio- ja kuvantamistutkimukset sekä työterveyspsykologin ja -fysioterapeutin vastaanotto.
+
+## Perustiedot
+- Palvelualue: lähipalvelut Helsingissä (lähivastaanotto Kampissa), etäpalvelut koko Suomessa.
+- Kohderyhmä: 1–200 hengen pk-yritykset, erityisesti matala-altisteiset toimialat (toimisto-, IT- ja asiantuntijatyö).
+- Yhteydenotto: jussikurikka@starthealth.fi · Ajanvaraus: https://asiointi.starthealth.fi/ · Tarjouspyyntö: https://forms.office.com/pages/responsepage.aspx?id=5hS_ti5-BEioUKW74_DcrBvA5_vGcapNhrO5ol0XFKJUOVFRMDhWUEZOUEo1MzJJS1Y5RVdTTUYySi4u&route=shorturl
+
+## Hinnat (hintalaskurin hinnat, alv 0 %, ennen Kela-korvausta)
+Hinta on kiinteä kuukausimaksu, joka määräytyy laskutettavien henkilöiden määrän mukaan. Kun työntekijöitä on vähintään 5, perustajat ovat maksutta. Alle 5 työntekijän yrityksessä perustajat lasketaan mukaan, kuitenkin enintään 5 laskutettavaa henkilöä. Laskuri kattaa 1–50 laskutettavaa henkilöä; riskialoille (ravintola, rakennus, konepaja, yötyö) ja yli 50 hengen yrityksille hinta annetaan tarjouksella.
+
+| Henkilöitä | Minimum | Basic | Support |
+|---|---|---|---|
+| 3 | 84,51 €/kk (28,17 €/hlö) | 122,25 €/kk (40,75 €/hlö) | 200,76 €/kk (66,92 €/hlö) |
+| 8 | 164,96 €/kk (20,62 €/hlö) | 265,60 €/kk (33,20 €/hlö) | 474,96 €/kk (59,37 €/hlö) |
+| 20 | 256,60 €/kk (12,83 €/hlö) | 508,20 €/kk (25,41 €/hlö) | 1 031,60 €/kk (51,58 €/hlö) |
+| 50 | 435,00 €/kk (8,70 €/hlö) | 1 064,00 €/kk (21,28 €/hlö) | 2 372,50 €/kk (47,45 €/hlö) |
+
+Basic + Omply: aloitusmaksu 499 €, laitemaksut laitepaketin mukaan ja noin 47 €/hlö/kk; hinnoitellaan tarjouksella.
+
+## Kela-korvaus
+- Ehkäisevä työterveyshuolto (korvausluokka I): 60 % hyväksytyistä kustannuksista. Sairaanhoito (korvausluokka II): 50 %.
+- Enimmäismäärä tilikaudella 2025: 492,50 €/työntekijä/vuosi (KL I + KL II), josta sairaanhoitoa enintään 197,00 €. Enintään 9 työntekijän työnantajalla työnantajakohtainen enimmäismäärä 4 925,00 €. Tilikauden 2026 luvut Kela vahvistaa jälkikäteen.
+- StartHealth auttaa hakemaan Kela-korvaukset tilikauden päätteeksi.
 
 ## Pages
 
@@ -16,27 +38,31 @@
 
 ## Työterveys-oppaat
 
-- [Työterveys Helsinki](/tyoterveys/helsinki): Työterveyshuolto Helsingin pk-yrityksille.
-- [Työterveys pk-yritykselle](/tyoterveys/pienyritys): Opas pk-yrityksen työterveyteen.
-- [Työterveys startupille](/tyoterveys/startup): Työterveysratkaisut startupeille.
-- [Työterveys yrittäjälle](/tyoterveys/yrittajalle): YEL-yrittäjän työterveys.
-- [Digitaalinen työterveys](/tyoterveys/digitaalinen): Etätyöterveys ja digipalvelut.
-- [Työterveyden vertailu](/tyoterveys/vertailu): Toimijoiden vertailu.
-- [Mitä työterveyteen kuuluu](/tyoterveys/mita-kuuluu): Kela 1 ja Kela 2 sisällöt.
-- [Onko työterveys pakollinen](/tyoterveys/pakollinen): Lakisääteiset velvoitteet.
-- [Kela-korvaus työterveydestä](/tyoterveys/kela-korvaus): Korvaustasot ja haku.
-- [Työterveyssopimus](/tyoterveys/sopimus): Sopimuksen sisältö ja vaiheet.
-- [Toimintasuunnitelma](/tyoterveys/toimintasuunnitelma): Työterveyshuollon toimintasuunnitelma.
-- [Työterveyslääkäri](/tyoterveys/laakari): Lääkärin rooli ja tehtävät.
-- [Työterveydenhoitaja](/tyoterveys/hoitaja): Hoitajan rooli.
-- [Työterveys etänä](/tyoterveys/etana): Etävastaanotot.
-- [Etätutkimus työterveydessä](/tyoterveys/etatutkimus): Etätutkimuslaitteet, mitä lääkäri voi tutkia etänä ja Basic + Omply -paketin hinta.
-- [Sairauspoissaolojen vähentäminen](/tyoterveys/sairauspoissaolot)
-- [Työhyvinvointi pienyrityksessä](/tyoterveys/tyohyvinvointi)
-- [Työkykyjohtaminen](/tyoterveys/tyokykyjohtaminen)
-- [Mielenterveys työpaikalla](/tyoterveys/mielenterveys)
-- [Burnout työssä](/tyoterveys/burnout)
-- [Työterveystarkastus](/tyoterveys/tarkastus)
-- [Mehiläinen vs Terveystalo vs Pihlajalinna](/tyoterveys/mehilainen-terveystalo)
-- [Miten valita työterveys](/tyoterveys/miten-valita)
-- [Työterveyden vaihtaminen](/tyoterveys/vaihtaminen)
+- [Työterveys Helsinki — modernit työterveyspalvelut helsinkiläisille pk-yrityksille](/tyoterveys/helsinki): Työterveys Helsinki kasvavalle yritykselle. Nopea aloitus, läpinäkyvä hinta, digitaalinen vastaanotto + lähivastaanotto Helsingissä. Pyydä tarjous.
+- [Työterveys pääkaupunkiseutu — vertailu, hinnat ja valintaopas](/tyoterveys/paakaupunkiseutu): Työterveys pääkaupunkiseudulla: vertaa Helsingin, Espoon ja Vantaan vaihtoehdot, hinnat ja toimijat. Käytännöllinen opas pk-yrityksille.
+- [Työterveyshuolto pienyritykselle — miten aloitat ilman päänvaivaa](/tyoterveys/pienyritys): Työterveyshuolto pienelle yritykselle: mitä sisältyy, paljonko maksaa, miten aloitetaan. Käytännön opas alle 50 hengen yrityksille.
+- [Startup-yrityksen työterveys — 7 asiaa, jotka perustajan kannattaa tietää](/tyoterveys/startup): Startup-yrityksen työterveys: milloin aloittaa, paljonko maksaa, mitä sisältyy ja miksi perinteinen työterveys ei sovi startupille. Käytännön opas.
+- [Työterveys yrittäjälle — kannattaako se ja paljonko se maksaa?](/tyoterveys/yrittajalle): Työterveys yrittäjälle: vapaaehtoinen mutta järkevä. Sisältö, hinta, Kela-korvaus, ja milloin yrittäjä kuuluu työterveyden piiriin.
+- [Digitaalinen työterveys — miksi 80 % käynneistä voi tehdä etänä](/tyoterveys/digitaalinen): Digitaalinen työterveys: chat, video, etäresepti ja sairauslomat. Miksi 80 % käynneistä ei vaadi lähivastaanottoa ja miten se muuttaa työterveyden.
+- [Pienen yrityksen työterveys — opas 1–20 hengen työnantajalle](/tyoterveys/pieni-yritys): Pienen yrityksen työterveys: konkreettinen opas alle 20 hengen yrityksen työnantajalle. Hinta, sisältö, käyttöönotto ja suurimmat sudenkuopat.
+- [Työterveyspalveluiden vertailu 2026 — mikä sopii pk-yrityksellesi](/tyoterveys/vertailu): Työterveyden vertailu 2026: Mehiläinen, Terveystalo, Pihlajalinna, Starthealth. Vahvuudet, heikkoudet ja sopivuus eri yrityskokoihin.
+- [Mitä työterveyshuoltoon kuuluu — täydellinen sisältölista 2026](/tyoterveys/mita-kuuluu): Mitä työterveyshuolto sisältää 2026: Kela 1 ja Kela 2 -tasot, terveystarkastukset, sairaanhoito, mielenhyvinvointi. Täydellinen sisältölista.
+- [Onko työterveys pakollinen — mitä laki sanoo työnantajasta](/tyoterveys/pakollinen): Onko työterveys pakollinen? Kyllä — ensimmäisestä työntekijästä alkaen. Laki, Kela-korvaukset, sakot ja mitä pienen yrityksen kannattaa tietää.
+- [Kela-korvaus työterveydestä — näin haet ja kuinka paljon saat](/tyoterveys/kela-korvaus): Kela-korvaus työterveyshuollosta 2026: korvausprosentit, korvauskatot, hakuohjeet ja vinkit maksimaaliseen korvaukseen. Käytännön opas työnantajalle.
+- [Työterveyssopimus — mitä sen pitää sisältää ja mitä tarkistaa](/tyoterveys/sopimus): Työterveyssopimus: mitä työterveysmallin sopimus sisältää, keskeiset pykälät, yleiset sudenkuopat ja tarkistuslista allekirjoitusta ennen.
+- [Työterveyshuollon toimintasuunnitelma — malli ja sisältö 2026](/tyoterveys/toimintasuunnitelma): Työterveyshuollon toimintasuunnitelma: mitä sen pitää sisältää, kuinka usein päivittää ja miksi se vaikuttaa Kela-korvaukseen. Malli ja tarkistuslista.
+- [Työterveyslääkäri — rooli, koulutus ja milloin ottaa yhteyttä](/tyoterveys/laakari): Työterveyslääkäri: mitä hän tekee, mitä koulutusta vaaditaan, milloin ottaa yhteyttä ja miksi hyvän työterveyslääkärin löytäminen on tärkeää.
+- [Työterveyshoitaja — tehtävät, pätevyys ja rooli työterveystiimissä](/tyoterveys/hoitaja): Työterveyshoitaja: mitä hän tekee, millaista koulutusta vaaditaan ja miksi työterveyshoitaja on usein tiimin tärkein yhteyshenkilö.
+- [Työterveys etänä — chat, video, sähköinen resepti](/tyoterveys/etana): Työterveys etänä: miten etävastaanotto toimii, mitä voi hoitaa etänä, mitä ei, ja milloin etätyöterveys on paras valinta yrityksellesi.
+- [Sairauspoissaolojen vähentäminen — 9 käytännön keinoa pk-yritykselle](/tyoterveys/sairauspoissaolot): Sairauspoissaolojen vähentäminen: 9 konkreettista keinoa, jotka toimivat pk-yrityksessä. Miten työterveys auttaa, mitä esimies voi tehdä.
+- [Työhyvinvointi pienyrityksessä — konkreettinen opas ilman jargonia](/tyoterveys/tyohyvinvointi): Työhyvinvointi pienessä yrityksessä: mitä se tarkoittaa, miten sitä mitataan ja 10 käytännön toimenpidettä, jotka toimivat pk-yrityksessä.
+- [Työkykyjohtaminen — mitä se on ja miten pk-yritys tekee sen oikein](/tyoterveys/tyokykyjohtaminen): Työkykyjohtaminen pk-yrityksessä: varhainen tuki, työkykyneuvottelu, ammatillinen kuntoutus. Konkreettinen opas ilman HR-jargonia.
+- [Mielenterveys työpaikalla — mitä työnantajan pitää tietää](/tyoterveys/mielenterveys): Mielenterveys työpaikalla: miten tukea, miten tunnistaa ongelmat varhain, miten työterveys auttaa. Käytännön opas pk-yrityksille.
+- [Burnout työssä — merkit, syyt ja toipuminen](/tyoterveys/burnout): Burnout työssä: miten tunnistat merkit, miten ehkäistään ja miten toipuu. Opas työntekijöille ja esimiehille pk-yrityksessä.
+- [Työterveystarkastus — mitä se sisältää ja milloin se tehdään](/tyoterveys/tarkastus): Työterveystarkastus: mitä siihen kuuluu, kenelle se on, kuinka usein ja mikä on tarkoitus. Selkeä opas pk-yrityksille.
+- [Mehiläinen vs Terveystalo vs Pihlajalinna — vertailu työterveyspalveluille](/tyoterveys/mehilainen-terveystalo): Mehiläinen, Terveystalo ja Pihlajalinna työterveyspalveluina: hinnat, palvelut, vahvuudet ja heikkoudet. Riippumaton vertailu pk-yritykselle.
+- [Miten valita työterveyspalvelu — opas pk-yrityksen päättäjälle](/tyoterveys/miten-valita): Miten valita työterveyspalvelu pk-yritykselle: 10 kriteeriä, joita kannattaa arvioida, yleiset sudenkuopat ja käytännön checklist.
+- [Työterveyspalvelun vaihtaminen — askel askeleelta -opas](/tyoterveys/vaihtaminen): Työterveyspalvelun vaihtaminen: miksi ja milloin vaihtaa, mitä valmistella ja miten siirtymä sujuu ilman katkoja. Pk-yrityksen opas.
+- [Etätutkimus työterveydessä — lääkäri kuuntelee keuhkot etänä](/tyoterveys/etatutkimus): Etätutkimus työterveydessä: mitä lääkäri voi tutkia etätutkimuslaitteilla, miten laitteet toimitetaan ja mitä Basic + Omply -paketti maksaa.
+
+Päivitetty: 3.10.2026

@@ -123,16 +123,6 @@ var articles = [
     "description": "Ty\xF6terveys Helsinki kasvavalle yritykselle. Nopea aloitus, l\xE4pin\xE4kyv\xE4 hinta, digitaalinen vastaanotto + l\xE4hivastaanotto Helsingiss\xE4. Pyyd\xE4 tarjous."
   },
   {
-    "title": "Ty\xF6terveys Espoo \u2014 moderni ty\xF6terveyshuolto espoolaisille yrityksille",
-    "url": "/tyoterveys/espoo",
-    "description": "Ty\xF6terveys Espoo kasvuyrityksille. Nopea aloitus, kiinte\xE4 kk-hinta, digitaalinen vastaanotto + l\xE4hivastaanotto Helsingiss\xE4. Pyyd\xE4 tarjous."
-  },
-  {
-    "title": "Ty\xF6terveys Vantaa \u2014 k\xE4yt\xE4nn\xF6llinen ty\xF6terveyshuolto vantaalaisille yrityksille",
-    "url": "/tyoterveys/vantaa",
-    "description": "Ty\xF6terveys Vantaa yrityksille. Nopea aloitus, l\xE4pin\xE4kyv\xE4 hinta, digitaalinen vastaanotto + l\xE4hivastaanotto Helsingiss\xE4. Pyyd\xE4 tarjous."
-  },
-  {
     "title": "Ty\xF6terveys p\xE4\xE4kaupunkiseutu \u2014 vertailu, hinnat ja valintaopas",
     "url": "/tyoterveys/paakaupunkiseutu",
     "description": "Ty\xF6terveys p\xE4\xE4kaupunkiseudulla: vertaa Helsingin, Espoon ja Vantaan vaihtoehdot, hinnat ja toimijat. K\xE4yt\xE4nn\xF6llinen opas pk-yrityksille."
@@ -165,7 +155,7 @@ var articles = [
   {
     "title": "Ty\xF6terveyspalveluiden vertailu 2026 \u2014 mik\xE4 sopii pk-yrityksellesi",
     "url": "/tyoterveys/vertailu",
-    "description": "Ty\xF6terveyden vertailu 2026: Mehil\xE4inen, Terveystalo, Pihlajalinna, Heltti, Starthealth. Vahvuudet, heikkoudet ja sopivuus eri yrityskokoihin."
+    "description": "Ty\xF6terveyden vertailu 2026: Mehil\xE4inen, Terveystalo, Pihlajalinna, Starthealth. Vahvuudet, heikkoudet ja sopivuus eri yrityskokoihin."
   },
   {
     "title": "Mit\xE4 ty\xF6terveyshuoltoon kuuluu \u2014 t\xE4ydellinen sis\xE4lt\xF6lista 2026",

@@ -3,12 +3,12 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { useToast } from '@/hooks/use-toast';
+import { toast } from 'sonner';
+import { supabase } from '@/integrations/supabase/client';
 import { Send, Mail, Building, User as UserIcon } from 'lucide-react';
 
 const ContactForm = () => {
   const { t } = useLanguage();
-  const { toast } = useToast();
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [formData, setFormData] = useState({
     name: '',
@@ -21,15 +21,18 @@ const ContactForm = () => {
     e.preventDefault();
     setIsSubmitting(true);
 
-    // Simulate form submission
-    setTimeout(() => {
-      toast({
-        title: t('contact.success'),
-        description: '',
-      });
-      setFormData({ name: '', email: '', company: '', message: '' });
+    const subject = `Yhteydenotto starthealth.fi – ${formData.company || formData.name}`;
+    const body = `Nimi: ${formData.name}\nSähköposti: ${formData.email}\nYritys: ${formData.company}\n\nViesti:\n${formData.message}`;
+    try {
+      const { error } = await supabase.functions.invoke('submit-contact', { body: formData });
+      if (error) throw error;
+      window.location.href = `mailto:jussikurikka@starthealth.fi?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      toast(t('contact.emailDraft'));
+    } catch {
+      toast.error(t('contact.error'));
+    } finally {
       setIsSubmitting(false);
-    }, 1000);
+    }
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
@@ -122,6 +125,10 @@ const ContactForm = () => {
               <Send className="mr-2 h-5 w-5" />
               {t('contact.send')}
             </Button>
+            <p className="text-sm text-muted-foreground">
+              {t('contact.directEmail')}{' '}
+              <a href="mailto:jussikurikka@starthealth.fi" className="text-primary underline">jussikurikka@starthealth.fi</a>
+            </p>
           </form>
         </div>
       </div>

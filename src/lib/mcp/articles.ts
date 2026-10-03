@@ -1,19 +1,9 @@
+// Public article metadata from content frontmatter.
 export const articles = [
-
   {
     "title": "Työterveys Helsinki — modernit työterveyspalvelut helsinkiläisille pk-yrityksille",
     "url": "/tyoterveys/helsinki",
     "description": "Työterveys Helsinki kasvavalle yritykselle. Nopea aloitus, läpinäkyvä hinta, digitaalinen vastaanotto + lähivastaanotto Helsingissä. Pyydä tarjous."
-  },
-  {
-    "title": "Työterveys Espoo — moderni työterveyshuolto espoolaisille yrityksille",
-    "url": "/tyoterveys/espoo",
-    "description": "Työterveys Espoo kasvuyrityksille. Nopea aloitus, kiinteä kk-hinta, digitaalinen vastaanotto + lähivastaanotto Helsingissä. Pyydä tarjous."
-  },
-  {
-    "title": "Työterveys Vantaa — käytännöllinen työterveyshuolto vantaalaisille yrityksille",
-    "url": "/tyoterveys/vantaa",
-    "description": "Työterveys Vantaa yrityksille. Nopea aloitus, läpinäkyvä hinta, digitaalinen vastaanotto + lähivastaanotto Helsingissä. Pyydä tarjous."
   },
   {
     "title": "Työterveys pääkaupunkiseutu — vertailu, hinnat ja valintaopas",
@@ -48,7 +38,7 @@ export const articles = [
   {
     "title": "Työterveyspalveluiden vertailu 2026 — mikä sopii pk-yrityksellesi",
     "url": "/tyoterveys/vertailu",
-    "description": "Työterveyden vertailu 2026: Mehiläinen, Terveystalo, Pihlajalinna, Heltti, Starthealth. Vahvuudet, heikkoudet ja sopivuus eri yrityskokoihin."
+    "description": "Työterveyden vertailu 2026: Mehiläinen, Terveystalo, Pihlajalinna, Starthealth. Vahvuudet, heikkoudet ja sopivuus eri yrityskokoihin."
   },
   {
     "title": "Mitä työterveyshuoltoon kuuluu — täydellinen sisältölista 2026",
@@ -140,4 +130,4 @@ export const articles = [
     "url": "/tyoterveys/etatutkimus",
     "description": "Etätutkimus työterveydessä: mitä lääkäri voi tutkia etätutkimuslaitteilla, miten laitteet toimitetaan ja mitä Basic + Omply -paketti maksaa."
   }
-] as const;
+];
